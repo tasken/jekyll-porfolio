@@ -1,8 +1,8 @@
 ---
 layout: proyecto
-title: Axel Krieger
+title: "La Horazul"
 trabajo: "Sitio web"
 comitente: "Dirección del proyecto a cargo del estudio [Mundo Teodoro](http://mundoteodoro.com){:target="_blank"}."
 ---
 
-Implementanción y personalización de template de WordPress para el sitio de [Axel Krieger](http://www.axelk.com/){:target="_blank"}.
+Implementanción y personalización de template de WordPress para el sitio de [La Horazul](http://lahorazul.com.ar/){:target="_blank"}.
