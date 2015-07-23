@@ -193,14 +193,18 @@ sub {
     color: deepskyblue;
 }
 
-.sidebar-about h1 a {
-    color: deepskyblue;
-    text-decoration: none;
+.sidebar-about h1 {
     text-transform: uppercase;
     letter-spacing: .15rem;
     font-family: "Asap", sans-serif;
     font-size: 2rem;
     line-height: 2rem;
+}
+
+.sidebar-about h1 a {
+    color: deepskyblue;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
 .sidebar h3.titulo {
