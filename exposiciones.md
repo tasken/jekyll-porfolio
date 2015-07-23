@@ -14,7 +14,7 @@ prioridad: 5
 - [Mirar, Escuchar, Fotografiar… Chacarita](http://biblioteca.fadu.uba.ar/tiki-read_article.php?articleId=238){:target="_blank"}, Diseño 1, Cátedra Rico, Espacio Cultural Carlos Gardel, CABA // 2011
 - Muestra anual de los talleres de la imagen, cursos y talleres, CCR, CABA // 2011
 - Muestra de la Secretaría de Extensión Universitaria, Sala Baleiro, FADU–UBA, CABA // 2010
-- Muestra anual de los cursos y talleres, Centro Cultural Recoleta, CABA // 2010
+- Muestra anual de los cursos y talleres, CCR, CABA // 2010
 - Subasta, a cielo abierto, La Plantación, Pilar, Provincia de Buenos Aires // 2007
 - Asuntos personales
     - Sala Municipal de Exposiciones, San Martín de los Andes, Neuquén // 2008
@@ -30,5 +30,6 @@ prioridad: 5
 
 *[CABA]: Ciudad Autónoma de Buenos Aires
 *[UBA]: Universidad de Buenos Aires
+*[CCR]: Centro Cultural Recoleta
 *[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
 *[IMPA]: Industrias Metalúrgicas y Plásticas Argentina
