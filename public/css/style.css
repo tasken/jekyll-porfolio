@@ -186,6 +186,7 @@ sub {
 .sidebar {
     color: ghostwhite;
     background-color: #1E1E20;
+    overflow-y: auto;
 }
 
 .sidebar a {
@@ -198,7 +199,8 @@ sub {
     text-transform: uppercase;
     letter-spacing: .15rem;
     font-family: "Asap", sans-serif;
-    line-height: 3.5rem;
+    font-size: 2rem;
+    line-height: 2rem;
 }
 
 .sidebar h3.titulo {

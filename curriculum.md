@@ -75,7 +75,7 @@ Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro.
 
 ## Presentaciones y Papers
 - *Proyecto Si + Red. X Encuentro Regional. XXVIII Jornadas de Investigación*
-	- Presetnación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva y Amelia Ojeda con el trabajo titulado Memorias Visuales del Territorio, Villa 31. 25, 26 de septiembre de 2014.
+	- Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva y Amelia Ojeda con el trabajo titulado Memorias Visuales del Territorio, Villa 31. 25, 26 de septiembre de 2014.
 
 ## Premios
 - «Obsesión fatal», Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.
