@@ -1,0 +1,17 @@
+# Entorno
+timezone: America/Argentina/Buenos_Aires
+
+# Links
+permalink: '/:categories/:title.html'
+
+# Configuración básica
+title: 'Porfolio de Augusto Daniele'
+tagline: 'Porfolio web y cv.'
+description: 'Porfolio personal y currículum vítae de Augusto Daniele.'
+url: 'http://tasken.github.io'
+baseurl: ''
+
+# Info básica
+author:
+  name: 'Augusto Daniele'
+  url: 'http://augustodaniele.com.ar'

@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+<div class="page">
+	<div class="header">
+		<h1 class="page-title">{{ page.title }}</h1>
+		<h2 class="trabajo">{{ page.trabajo }}</h2>
+	</div>
+
+	{{ content }}
+
+	{% if page.comitente != null %}
+		<div class="comitente">
+			{{ page.comitente | prepend:'<strong>Comitente:</strong> ' | markdownify }}
+		</div>
+	{% else %}{% endif %}
+
+</div>
