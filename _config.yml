@@ -1,6 +1,10 @@
 # Entorno
 timezone: America/Argentina/Buenos_Aires
 
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
+
 # Links
 permalink: '/:categories/:title.html'
 
