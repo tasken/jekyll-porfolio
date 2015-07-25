@@ -18,10 +18,10 @@ html {
     }
     .content {
         max-width: 50rem;
-        margin-left: 20rem;
+        margin-left: 17rem;
     }
     .sidebar {
-        width: 18rem;
+        width: 15rem;
     }
 }
 
@@ -265,6 +265,7 @@ a.sidebar-nav-item:focus {
 
 .small-text {
     font-size: .7rem;
+    line-height: .9rem;
 }
 
 .subtle {
