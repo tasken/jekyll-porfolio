@@ -18,9 +18,9 @@ A la vez ambos lados, el día y la noche (cada video) muestran etapas y momentos
 ## Loop 6 segundos
 <iframe src="https://player.vimeo.com/video/127831602?title=0&byline=0&portrait=0" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-![Frente del vinilo]({{ site.baseurl }}/img/2015_musica-tapa.png)
+![Frente del vinilo]({{ site.baseurl }}img/2015_musica-tapa.png)
 
-![Contra frente del vinilo]({{ site.baseurl }}/img/2015_musica-contratapa.png)
+![Contra frente del vinilo]({{ site.baseurl }}img/2015_musica-contratapa.png)
 
 ### Paraná -- Entre Ríos
  
