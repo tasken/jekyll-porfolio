@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     
     <title>
-    {% if page.url == site.url %} {{ site.title }} &#124; {{ site.tagline }}
+    {% if page.path == site.url %} {{ site.title }} &#124; {{ site.tagline }}
     {% else %}
         {{ page.title }} &#124; {{ site.title }}
     {% endif %}
