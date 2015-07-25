@@ -13,7 +13,7 @@ title: 'Porfolio de Augusto Daniele'
 tagline: 'Porfolio web y cv.'
 description: 'Porfolio personal y currículum vítae de Augusto Daniele.'
 url: 'http://tasken.github.io'
-baseurl: '/'
+baseurl: ''
 
 # Info básica
 author:
