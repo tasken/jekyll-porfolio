@@ -3,7 +3,7 @@ layout: proyecto
 title: "Ramiro Quintana"
 trabajo: "Diseño y desarrollo web responsivo"
 comitente: "Dirección del proyecto a cargo del estudio [Mundo Teodoro](http://mundoteodoro.com)."
-tags: [Desarrollo Web, Responsivo]
+tags: ["Desarrollo Web", Responsivo]
 ---
 
 Diseño y desarrollo del sitio del [Dr. Ramiro Quintana](http://www.rquintana.com.ar), especialista en medicina reproductiva y preservación de la fertilidad.  
