@@ -11,7 +11,7 @@ Búsqueda gráfica a partir de sonidos y del análisis de emergentes identitario
      <img src="{{ site.baseurl }}/img/2013_sonoridades-1.jpg" data-caption="Panel" alt="" />
      <img src="{{ site.baseurl }}/img/2013_sonoridades-2.jpg" data-caption="Detalle" alt="" />
      <img src="{{ site.baseurl }}/img/2013_sonoridades-3.jpg" data-caption="Detalle" alt="" />
-     <img src="{{ site.baseurl }}/img/2013_sonoridades-4.jpg" data-caption="Detalle" alt="" />
+<!-- <img src="{{ site.baseurl }}/img/2013_sonoridades-4.jpg" data-caption="Detalle" alt="" /> -->
      <img src="{{ site.baseurl }}/img/2013_sonoridades-5.jpg" data-caption="Detalle" alt="" />
      <img src="{{ site.baseurl }}/img/2013_sonoridades-6.jpg" data-caption="Detalle" alt="" />
 </div>
