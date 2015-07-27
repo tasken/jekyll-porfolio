@@ -1,7 +1,7 @@
 ---
-layout: test
+layout: default
 title: Test menú
-prioridad: 5
+prioridad: 20
 ---
 
 - Grupo Kraut, [Inauguración ODD CG](https://www.facebook.com/media/set/?set=a.351884681573445.80819.100296976732218&type=3){:target="_blank"}, CABA // 2012

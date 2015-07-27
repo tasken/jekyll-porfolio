@@ -1,18 +1,24 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-  {% include head.html %}
+	{% include head.html %}
 
-  <body>
+	<body>
 
-    {% include sidebar.html %}
+	<div id="layout">
 
-    <div class="content container">
-      {{ content }}
-    </div>
+		{% include sidebartest.html %}
 
-  {% include google_analytics.html %}
+			<div class="content container">
+				{{ content }}
+			</div>
 
-  </body>
-    
+	</div>
+
+	<script src="{{ site.baseurl }}/js/ui.js"></script>
+
+	{% include google_analytics.html %}
+
+	</body>
+	
 </html>
