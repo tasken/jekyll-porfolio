@@ -16,7 +16,7 @@ prioridad: 15
   <ul>
   {% for post in site.tags[tag] %}
     <li>
-      {{ post.date | date: "%B %d, %Y" }}: <a href="{{ post.url }}">{{ post.title }}</a>
+      {% include postlistitem.html %}
     </li>
   {% endfor %}
   </ul>
