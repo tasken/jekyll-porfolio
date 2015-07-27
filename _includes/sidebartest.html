@@ -4,7 +4,7 @@
     <span></span>
 </a>
 
-<div id="menu">
+<div class="sidebar" id="menu">
     <div class="pure-menu">
         {% for post in site.categories.proyectos %}
         {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
@@ -12,7 +12,18 @@
         <h3 class="titulo" href="#">{{ currentyear }}</h3>
         {% capture year %}{{currentyear}}{% endcapture %}
         {% endif %}
-            <a href="{{ post.url }}" class="sidebar-nav-item{% if page.url == post.url %} pure-menu-selected{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
+            <a href="{{ post.url }}" class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
         {% endfor %}
+
+        <h3 class="titulo">Info</h3>
+        {% assign pages_list = site.pages | sort: 'prioridad' %}
+        {% for node in pages_list %}
+            {% if node.title != null %}
+                {% if node.layout == "page" %}
+                    <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+
     </div>
 </div>
