@@ -31,10 +31,6 @@ html {
     }
 }
 
-.container {
-    max-width: 90%;
-}
-
 body {
     color: #1E1E20;
     background-color: ghostwhite;
