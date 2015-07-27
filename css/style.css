@@ -109,6 +109,14 @@ h1 + h2.trabajo {
     margin-bottom: .75rem;
 }
 
+h3 + p {
+    margin-bottom: 0;
+}
+
+p < h3 {
+    margin-bottom: 0;
+}
+
 .sidebar h3 {
     color: ghostwhite;
 }
@@ -193,13 +201,13 @@ sub {
     color: deepskyblue;
 }
 
-.sidebar-about h1 {
+.sidebar-about h2 {
     font-family: "Asap", sans-serif;
     font-size: 2rem;
     line-height: 2rem;
 }
 
-.sidebar-about h1 a {
+.sidebar-about h2 a {
     color: deepskyblue;
     text-decoration: none;
 }
@@ -229,7 +237,7 @@ a.sidebar-nav-item:focus {
 }
 
 .content {
-    padding-top: 2.5rem;
+    padding-top: 2rem;
 }
 .content ul {
     padding-left: 1rem;
@@ -283,6 +291,7 @@ a.sidebar-nav-item:focus {
     font-style: italic;
 }
 
+/* Tweaks */ 
 
 .embed-container {
     position: relative;
