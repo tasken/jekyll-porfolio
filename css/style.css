@@ -1,116 +1,116 @@
 /* Ajustes poole */
 
 html {
-    font-family: "Asap", sans-serif;
-    font-size: 12px;
+	font-family: "Asap", sans-serif;
+	font-size: 12px;
 }
 /*
 @media (min-width: 38em) {
-    html {
-        font-size: 13px;
-    }
+	html {
+		font-size: 13px;
+	}
 }
 */
 
 @media (min-width: 48em) {
-    html {
-        font-size: 13px;
-    }
-    .content {
-        max-width: 50rem;
-        margin-left: 17rem;
-    }
-    .sidebar {
-        width: 15rem;
-    }
+	html {
+		font-size: 13px;
+	}
+	.content {
+		max-width: 50rem;
+		margin-left: 17rem;
+	}
+	.sidebar {
+		width: 15rem;
+	}
 }
 
 @media (min-width: 58em) {
-    html {
-        font-size: 14px;
-    }
+	html {
+		font-size: 14px;
+	}
 }
 
 body {
-    color: #1E1E20;
-    background-color: ghostwhite;
-    line-height: 1.3rem;
-    margin: 0 auto;
+	color: #1E1E20;
+	background-color: ghostwhite;
+	line-height: 1.3rem;
+	margin: 0 auto;
 }
 
 a {
-    color: deeppink;
+	color: deeppink;
 }
 
 a:hover,
 a:focus {
-    color: deepskyblue;
+	color: deepskyblue;
 }
 
 a,
 a:hover,
 a:focus {
-    -webkit-transition: color .3s ease;
-    -moz-transition: color .3s ease;
-    -o-transition: color .3s ease;
-    transition: color .3s ease;
+	-webkit-transition: color .3s ease;
+	-moz-transition: color .3s ease;
+	-o-transition: color .3s ease;
+	transition: color .3s ease;
 }
 
 abbr {
-    font-size: 100%;
-    color: inherit;
-    font-weight: inherit;
+	font-size: 100%;
+	color: inherit;
+	font-weight: inherit;
 }
 
 @media (min-width: 58em) {
-    abbr[title] {
-        cursor: help;
-        border-bottom: 1px dotted #ccc;
-    }
+	abbr[title] {
+		cursor: help;
+		border-bottom: 1px dotted #ccc;
+	}
 }
 
 img {
-    border-radius: 4px;
+	border-radius: 4px;
 }
 
 h1 {
-    font-size: 2.8125rem;
-    line-height: 3.5625rem;
-    margin-top: 2.375rem;
-    margin-bottom: 1.1875rem;
+	font-size: 2.8125rem;
+	line-height: 3.5625rem;
+	margin-top: 2.375rem;
+	margin-bottom: 1.1875rem;
 }
 
 h2 {
-    font-size: 2rem;
-    line-height: 2.375rem;
-    margin-top: 2.375rem;
-    margin-bottom: 1.1875rem;
+	font-size: 2rem;
+	line-height: 2.375rem;
+	margin-top: 2.375rem;
+	margin-bottom: 1.1875rem;
 }
 
 h3 {
-    font-size: 1.4375rem;
-    line-height: 2.375rem;
-    margin-top: 1.1875rem;
-    margin-bottom: 1.1875rem;
+	font-size: 1.4375rem;
+	line-height: 2.375rem;
+	margin-top: 1.1875rem;
+	margin-bottom: 1.1875rem;
 }
 
 h4 {
-    font-size: 1rem;
-    line-height: 1.1875rem;
-    margin-top: 1.1875rem;
-    margin-bottom: 1.1875rem;
+	font-size: 1rem;
+	line-height: 1.1875rem;
+	margin-top: 1.1875rem;
+	margin-bottom: 1.1875rem;
 }
 
 h1 + h2 {
-    margin-top: 0;
+	margin-top: 0;
 }
 
 h1 + h2.trabajo {
-    margin-bottom: .75rem;
+	margin-bottom: .75rem;
 }
 
 .sidebar h3 {
-    color: ghostwhite;
+	color: ghostwhite;
 }
 
 .header h1,
@@ -119,8 +119,8 @@ h1 + h2.trabajo {
 .header h4,
 .header h5,
 .header h6 {
-    margin-top: 0;
-    margin-bottom: 0;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 .content h1,
@@ -129,7 +129,7 @@ h1 + h2.trabajo {
 .content h4,
 .content h5,
 .content h6 {
-    color: #1E1E20;
+	color: #1E1E20;
 }
 
 p,
@@ -138,26 +138,26 @@ ol,
 pre,
 table,
 blockquote {
-    margin-top: 1.1875rem;
-    margin-bottom: 1.1875rem;
+	margin-top: 1.1875rem;
+	margin-bottom: 1.1875rem;
 }
 
 blockquote p {
-    margin: 0;
+	margin: 0;
 }
 /* Sanitation */
 
 hr {
-    border: 1px solid;
-    margin: -1px 0;
+	border: 1px solid;
+	margin: -1px 0;
 }
 
 ul ul,
 ol ol,
 ul ol,
 ol ul {
-    margin-top: 0;
-    margin-bottom: 0;
+	margin-top: 0;
+	margin-bottom: 0;
 }
 
 b,
@@ -165,18 +165,18 @@ strong,
 em,
 small,
 code {
-    line-height: 1;
+	line-height: 1;
 }
 
 sup,
 sub {
-    vertical-align: baseline;
-    position: relative;
-    top: -0.4em;
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
 }
 
 sub {
-    top: 0.4em;
+	top: 0.4em;
 }
 
 
@@ -184,120 +184,133 @@ sub {
 /* Sidebar */
 
 .sidebar {
-    color: ghostwhite;
-    background-color: #1E1E20;
-    overflow-y: auto;
+	color: ghostwhite;
+	background-color: #1E1E20;
+	overflow-y: auto;
+	text-align: left;
 }
 
 .sidebar a {
-    color: deepskyblue;
+	color: deepskyblue;
 }
 
 .sidebar-about h1 {
-    font-family: "Asap", sans-serif;
-    font-size: 2rem;
-    line-height: 2rem;
+	font-family: "Asap", sans-serif;
+	font-size: 2rem;
+	line-height: 2rem;
 }
 
 .sidebar-about h1 a {
-    color: deepskyblue;
-    text-decoration: none;
+	color: deepskyblue;
+	text-decoration: none;
 }
 
 .sidebar h3.titulo {
-    margin: 0;
-    margin-top: .5rem;
-    font-size: 1rem;
-    line-height: 2rem;
+	margin: 0;
+	margin-top: .5rem;
+	font-size: 1rem;
+	line-height: 2rem;
 }
 
 .sidebar-nav-item {
-    line-height: 1.4;
+	line-height: 1.4;
 }
 
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-    color: deeppink;
+	color: deeppink;
 }
 
 .sidebar-nav-item.active {
-    color: deeppink;
+	color: deeppink;
 }
 
 .sidebar-nav-item.active:before {
-    content: "\2023 \2009";
+	content: "\2023 \2009";
 }
 
 .content {
-    padding-top: 2rem;
+	padding-top: 2rem;
 }
 .content ul {
-    padding-left: 1rem;
-    list-style-type: none;
+	padding-left: 1rem;
+	list-style-type: none;
 }
 
 .content ul li ul {
-    padding-left: 1rem;
-    list-style-type: none;
-    margin-bottom: .25rem;
+	padding-left: 1rem;
+	list-style-type: none;
+	margin-bottom: .25rem;
 }
 
 .content ul li:before,
 .content ul li ul li:before {
-    content: "\2023 \2009";
+	content: "\2023 \2009";
+}
+
+@media (min-width: 48em) {
+  .content {
+    margin-left: 2rem;
+  }
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 2rem;
+  }
 }
 
 /* Estilo */
 
 .puesto {
-    color: ;
+	color: ;
 }
 
 .empleador {
-    font-size: .85rem;
-    font-weight: bold;
-    color: lightcoral;
+	font-size: .85rem;
+	font-weight: bold;
+	color: lightcoral;
 }
 
 .empleador a {
-    color: lightcoral;
+	color: lightcoral;
 }
 
 .small-text {
-    font-size: .7rem;
-    line-height: .9rem;
+	font-size: .7rem;
+	line-height: .9rem;
 }
 
 .subtle {
-    color: lightgray;
+	color: lightgray;
 }
 
 .content h2.trabajo {
-    font-style: italic;
-    color: darkgrey;
-    font-weight: normal;
-    font-size: 1.5rem;
+	font-style: italic;
+	color: darkgrey;
+	font-weight: normal;
+	font-size: 1.5rem;
 }
 
 .comitente {
-    font-style: italic;
+	font-style: italic;
 }
 
 /* Tweaks */ 
 
 .embed-container {
-    position: relative;
-    padding-bottom: 56.25%;
-    height: 0;
-    overflow: hidden;
-    max-width: 100%;
+	position: relative;
+	padding-bottom: 56.25%;
+	height: 0;
+	overflow: hidden;
+	max-width: 100%;
 }
 .embed-container iframe,
 .embed-container object,
 .embed-container embed {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
 }

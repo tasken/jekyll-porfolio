@@ -6,10 +6,11 @@
 
 <div id="menu">
 
-	<h1><a href="{{ site.baseurl }}/">Augusto<br>Daniele</a></h1>
-	<p class="lead">{{ site.tagline }}</p>
-
 	<div class="sidebar">
+
+		<h1><a href="{{ site.baseurl }}/">Augusto<br>Daniele</a></h1>
+		<p class="lead">{{ site.tagline }}</p>
+
 		{% for post in site.categories.proyectos %}
 		{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
 		{% if currentyear != year %}
