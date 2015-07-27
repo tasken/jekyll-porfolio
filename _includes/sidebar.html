@@ -4,16 +4,23 @@
 			<h2><a href="{{ site.baseurl }}/">Augusto<br>Daniele</a></h2>
 			<p class="lead">{{ site.tagline }}</p>
 		</div>
-		
-		<nav class="sidebar-nav">
-			
+
+    <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span></span>
+    </a>
+
+    <div id="menu">
+        <div class="pure-menu">
+
 			{% for post in site.categories.proyectos %}
 				{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
 					{% if currentyear != year %}
-						<h3 class="titulo">{{ currentyear }}</h3>
+            <div class="pure-menu-heading" href="#">{{ currentyear }}</div>
 						{% capture year %}{{currentyear}}{% endcapture %}
 					{% endif %}
-				<a class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}" href="{{ post.url }}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
+				<div class="pure-menu-item"><a class="pure-menu-link sidebar-nav-item{% if page.url == post.url %} pure-menu-selected{% endif %}" href="{{ post.url }}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a></div>
 			{% endfor %}
 
 			<h3 class="titulo">Info</h3>
