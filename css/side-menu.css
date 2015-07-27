@@ -1,12 +1,3 @@
-body {
-    color: #777;
-}
-
-.pure-img-responsive {
-    max-width: 100%;
-    height: auto;
-}
-
 /*
 Add transition to containers so they can push in and out.
 */
@@ -71,8 +62,6 @@ The content `<div>` is where all your content goes.
     color: #888;
 }
 
-
-
 /*
 The `#menu` `<div>` is the parent `<div>` that contains the `.pure-menu` that
 appears on the left side of the page.
@@ -103,7 +92,7 @@ appears on the left side of the page.
     Remove all background/borders, since we are applying them to #menu.
     */
      #menu .pure-menu,
-     #menu .pure-menu ul {
+     #menu .pure-menu div {
         border: none;
         background: transparent;
     }
@@ -111,15 +100,15 @@ appears on the left side of the page.
     /*
     Add that light border to separate items into groups.
     */
-    #menu .pure-menu ul,
+    #menu .pure-menu div,
     #menu .pure-menu .menu-item-divided {
         border-top: 1px solid #333;
     }
         /*
         Change color of the anchor links on hover/focus.
         */
-        #menu .pure-menu li a:hover,
-        #menu .pure-menu li a:focus {
+        #menu .pure-menu div a:hover,
+        #menu .pure-menu div a:focus {
             background: #333;
         }
 
@@ -245,4 +234,3 @@ Hides the menu at `48em`, but modify this based on your app's needs.
         left: 150px;
     }
 }
-
