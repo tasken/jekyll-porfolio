@@ -3,7 +3,7 @@ layout: proyecto
 title: "Medicina del Viajero"
 trabajo: Infografía
 comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
-tag:
+tags:
 	- Infografía
 	- DGII
 ---
