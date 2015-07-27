@@ -17,3 +17,42 @@
         {% endfor %}
     </div>
 </div>
+<div id="menu">
+    <div class="pure-menu">
+        {% for post in site.categories.proyectos %}
+        {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+        {% if currentyear != year %}
+        <a class="pure-menu-heading" href="#">{{ currentyear }}</a>
+        {% capture year %}{{currentyear}}{% endcapture %}
+        {% endif %}
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item"><a href="#" class="pure-menu-link{% if page.url == post.url %} pure-menu-selected{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a></li>
+        {% endfor %}
+    </div>
+</div>
+<div id="menu">
+    <div class="pure-menu">
+        {% for post in site.categories.proyectos %}
+        {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+        {% if currentyear != year %}
+        <a class="pure-menu-heading" href="#">{{ currentyear }}</a>
+        {% capture year %}{{currentyear}}{% endcapture %}
+        {% endif %}
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item"><a href="#" class="pure-menu-link{% if page.url == post.url %} pure-menu-selected{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a></li>
+        {% endfor %}
+    </div>
+</div>
+<div id="menu">
+    <div class="pure-menu">
+        {% for post in site.categories.proyectos %}
+        {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+        {% if currentyear != year %}
+        <a class="pure-menu-heading" href="#">{{ currentyear }}</a>
+        {% capture year %}{{currentyear}}{% endcapture %}
+        {% endif %}
+        <ul class="pure-menu-list">
+            <li class="pure-menu-item"><a href="#" class="pure-menu-link{% if page.url == post.url %} pure-menu-selected{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a></li>
+        {% endfor %}
+    </div>
+</div>
