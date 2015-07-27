@@ -188,6 +188,7 @@ sub {
 	background-color: #1E1E20;
 	overflow-y: auto;
 	text-align: left;
+	height: 100%;
 }
 
 .sidebar a {
