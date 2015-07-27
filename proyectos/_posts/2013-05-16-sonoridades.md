@@ -20,8 +20,8 @@ Búsqueda gráfica a partir de sonidos y del análisis de emergentes identitario
 <img src="{{ site.baseurl }}/img/2013_sonoridades-ed-10.jpg" alt="" />
 <img src="{{ site.baseurl }}/img/2013_sonoridades-ed-11.jpg" alt="" />
 
-<h3>Panel colaborativo</h3>
-<img src="{{ site.baseurl }}/img/2013_sonoridades-panel.jpg" alt="" />
-*Panel realizado en equipo con Daniela Moreno y Nicolás Faya*  
-
 <iframe src="https://embed.spotify.com/?uri=spotify:track:6gvtc6TZVhAVR81gA44dvd" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
+
+<h2>Panel colaborativo</h2>
+<img src="{{ site.baseurl }}/img/2013_sonoridades-panel.jpg" alt="" />
+*Panel realizado en conjunto con Daniela Moreno y Nicolás Faya*  

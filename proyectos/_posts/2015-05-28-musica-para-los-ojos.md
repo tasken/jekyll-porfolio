@@ -4,6 +4,7 @@ title: "Música Para los Ojos"
 trabajo: "Animación experimental del video Paraná del grupo Entre Ríos"
 comitente: "Trabajo realizado para Diseño III, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
 published: false
+tags: [Experimental, Audiovisual]
 ---
 
 > De la misma manera que se combinan los sonidos y los ritmos musicales, las formas y los colores deben combinarse según la interpretación de sus relaciones.  
