@@ -6,7 +6,7 @@
 
 <div id="menu">
 
-	<div class="sidebar">
+	<div class="sidebar container">
 		<div class="sidebar-about">
 			<h1><a href="{{ site.baseurl }}/">Augusto<br>Daniele</a></h1>
 			<p class="lead">{{ site.tagline }}</p>
@@ -30,6 +30,11 @@
 				{% endif %}
 			{% endif %}
 		{% endfor %}
+
+	<p class="small-text subtle">&copy; {{ site.time | date: '%Y' }}<br>
+	<!-- Todos los derechos reservados.<br> -->
+	Última actualización: <span title="{{ site.time }}">{{ site.time | date: '%d.%m.%Y' }}</span>
+	</p>
 
 	</div>
 </div>
