@@ -14,13 +14,11 @@ body {
 	overflow-x: hidden; 
 }
 
-/*
 @media (min-width: 38em) {
-	html {
-		font-size: 13px;
-	}
+  .content {
+    max-width: 90%;
+  }
 }
-*/
 
 @media (min-width: 48em) {
 	html {
