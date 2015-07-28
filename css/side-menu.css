@@ -67,9 +67,7 @@ small screens.
 	z-index: 10;
 	box-sizing: content-box;
 	-webkit-box-sizing: content-box;
-  text-align: center;
-  font-size: 2rem;
-  padding: 1rem;
+	padding: 1.5rem 1rem;
 }
 
 .menu-link:hover,
