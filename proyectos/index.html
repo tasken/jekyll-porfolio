@@ -4,7 +4,12 @@ title: Proyectos
 prioridad: 15
 ---
 
-{% assign sortedtags = (site.tags | sort:0) %}
+{% capture tags %}
+  {% for tag in site.tags %}
+    {{ tag[0] }}
+  {% endfor %}
+{% endcapture %}
+{% assign sortedtags = tags | sort:0 %}
 
 {% for tag in sortedtags %}
   <h3 id="{{ tag }}">{{ tag }}</h3>
