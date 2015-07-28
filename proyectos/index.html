@@ -9,7 +9,7 @@ prioridad: 15
     {{ tag[0] }}
   {% endfor %}
 {% endcapture %}
-{% assign sortedtags = tags | sort:0 %}
+{% assign sortedtags = (tags | sort:0) %}
 
 {% for tag in sortedtags %}
   <h3 id="{{ tag }}">{{ tag }}</h3>
