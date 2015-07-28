@@ -14,6 +14,11 @@ body {
 	overflow-x: hidden; 
 }
 
+.content {
+	padding-top: 2rem;
+	max-width: 90%;
+}
+
 @media (min-width: 38em) {
 	.content {
     padding-top: 6rem;
@@ -236,11 +241,6 @@ a.sidebar-nav-item:focus {
 
 .sidebar-nav-item.active:before {
 	content: "\2023 \2009";
-}
-
-.content {
-	padding-top: 2rem;
-	max-width: 90%;
 }
 
 .content ul {
