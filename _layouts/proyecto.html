@@ -12,19 +12,14 @@ layout: default
 
 	{% if page.comitente != null %}
 		<div class="comitente">
-			{{ page.comitente | prepend:'<strong>Comitente:</strong>' | markdownify }}
+			{{ page.comitente | prepend:'<strong>Comitente:</strong> ' | markdownify }}
 		</div>
 	{% else %}{% endif %}
 
 	{% if page.tags != null %}
 	<div class="tags">
-		{{ page.tags | array_to_sentence_string | prepend:'<strong>Etiquetas:</strong>' }}
+		{{ page.tags | array_to_sentence_string | replace:'and',',' | prepend:'<strong>Etiquetas:</strong> ' }}
 	</div>
 	{% else %}{% endif %}
 
 </div>
-
-
- {% for tags in page.tags %}
-    <li>{{ tags }}</li>
-  {% endfor %}
