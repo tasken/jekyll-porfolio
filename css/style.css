@@ -19,7 +19,7 @@ body {
 	max-width: 90%;
 }
 
-@media (min-width: 38em) {
+@media (max-width: 48em) {
 	.content {
     padding-top: 6rem;
 	}
@@ -38,10 +38,22 @@ body {
 	}
 }
 
+@media (min-width: 48em) {
+  .content {
+    margin-left: 2rem;
+  }
+}
+
 @media (min-width: 58em) {
 	html {
 		font-size: 14px;
 	}
+}
+
+@media (min-width: 64em) {
+  .content {
+    margin-left: 2rem;
+  }
 }
 
 body {
@@ -257,18 +269,6 @@ a.sidebar-nav-item:focus {
 .content ul li:before,
 .content ul li ul li:before {
 	content: "\2023 \2009";
-}
-
-@media (min-width: 48em) {
-  .content {
-    margin-left: 2rem;
-  }
-}
-
-@media (min-width: 64em) {
-  .content {
-    margin-left: 2rem;
-  }
 }
 
 /* Estilo */
