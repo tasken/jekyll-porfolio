@@ -15,7 +15,9 @@ body {
 }
 
 @media (min-width: 38em) {
+	.content {
     padding-top: 6rem;
+	}
 }
 
 @media (min-width: 48em) {
