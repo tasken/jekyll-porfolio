@@ -15,9 +15,7 @@ body {
 }
 
 @media (min-width: 38em) {
-  .content {
-    max-width: 90%;
-  }
+    padding-top: 6rem;
 }
 
 @media (min-width: 48em) {
@@ -239,8 +237,10 @@ a.sidebar-nav-item:focus {
 }
 
 .content {
-	padding-top: 6rem;
+	padding-top: 2rem;
+	max-width: 90%;
 }
+
 .content ul {
 	padding-left: 1rem;
 	list-style-type: none;
