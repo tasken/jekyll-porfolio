@@ -1,9 +1,5 @@
 /* Ajustes poole */
 
-* {
-
-}
-
 html {
 	font-family: "Asap", sans-serif;
 	font-size: 12px;
@@ -245,7 +241,7 @@ a.sidebar-nav-item:focus {
 }
 
 .content {
-	padding-top: 2rem;
+	padding-top: 6rem;
 }
 .content ul {
 	padding-left: 1rem;

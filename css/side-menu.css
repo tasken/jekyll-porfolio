@@ -3,7 +3,7 @@ Add transition to containers so they can push in and out.
 */
 #layout,
 #menu,
-.menu-link {
+a.menu-link {
 	-webkit-transition: all 0.2s ease-out;
 	-moz-transition: all 0.2s ease-out;
 	-ms-transition: all 0.2s ease-out;
@@ -56,6 +56,7 @@ how it works:
 small screens.
 */
 .menu-link {
+	width: 100%;
 	position: fixed;
 	display: block; /* show this only on small screens */
 	top: 0;
@@ -69,6 +70,10 @@ small screens.
 	padding: 2.1em 1.6em;
 	box-sizing: content-box;
 	-webkit-box-sizing: content-box;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 2rem;
+  padding: 1rem 0;
 }
 
 .menu-link:hover,
