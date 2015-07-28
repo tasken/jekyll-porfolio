@@ -15,13 +15,13 @@ body {
 }
 
 .content {
-	padding-top: 2rem;
+	padding-top: 6rem;
 	max-width: 90%;
 }
 
-@media (max-width: 48em) {
+@media (min-width: 48em) {
 	.content {
-    padding-top: 6rem;
+    padding-top: 2rem;
 	}
 }
 
