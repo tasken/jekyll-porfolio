@@ -297,7 +297,9 @@ a.sidebar-nav-item:focus {
 	font-size: 1.5rem;
 }
 
-.comitente {
+.comitente,
+.tags,
+.etiquetas {
 	font-style: italic;
 }
 
