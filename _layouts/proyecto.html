@@ -12,13 +12,13 @@ layout: default
 
 	{% if page.comitente != null %}
 		<div class="comitente">
-			<strong>Comitente:</strong> {{ page.comitente | markdownify }}
+			{{ page.comitente | markdownify | replace:'">','" target="_blank">' | prepend:'<strong>Comitente:</strong> ' }}
 		</div>
 	{% else %}{% endif %}
 
 	{% if page.tags != null %}
 	<div class="tags">
-		prepend:'<strong>Etiquetas:</strong> {{ page.tags | array_to_sentence_string | replace:' and ',', ' }}.
+		<p><strong>Etiquetas:</strong> {{ page.tags | array_to_sentence_string | replace:' and ',', ' }}.</p>
 	</div>
 	{% else %}{% endif %}
 

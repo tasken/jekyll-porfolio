@@ -30,7 +30,7 @@ body {
 		font-size: 13px;
 	}
 	.content {
-		max-width: 50rem;
+		max-width: 60rem;
 		margin-left: 17rem;
 	}
 	.sidebar {
@@ -48,12 +48,6 @@ body {
 	html {
 		font-size: 14px;
 	}
-}
-
-@media (min-width: 64em) {
-  .content {
-    margin-left: 2rem;
-  }
 }
 
 body {
