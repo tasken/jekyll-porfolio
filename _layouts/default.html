@@ -1,23 +1,23 @@
 <!DOCTYPE html>
 <html lang="en-us">
 
-	{% include head.html %}
+	{% include head.html | tidy %}
 
 	<body>
 
 	<div id="layout">
 
-		{% include sidebarpure.html %}
+		{% include sidebarpure.html | tidy %}
 
 			<div class="content container">
-				{{ content }}
+				{{ content | tidy }}
 			</div>
 
 	</div>
 
 	<script src="{{ site.baseurl }}/js/ui.js"></script>
 
-	{% include google_analytics.html %}
+	{% include google_analytics.html | tidy %}
 
 	</body>
 	
