@@ -12,7 +12,7 @@ layout: default
 
 	{% if page.comitente != null %}
 		<div class="comitente">
-			{{ page.comitente | markdownify | replace:'">','" target="_blank">' | prepend:'<strong>Comitente:</strong> ' }}
+			{{ page.comitente | prepend:'<strong>Comitente:</strong> ' | markdownify | replace:'">','" target="_blank">' }}
 		</div>
 	{% else %}{% endif %}
 
