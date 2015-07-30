@@ -1,12 +1,13 @@
 ---
 layout: proyecto
 title: "Memoria Ilustrada: El Hallazgo"
-trabajo: Relato gráfico
+title-alt: "Memoria Ilustrada"
+trabajo: "Relato gráfico en distintos soportes"
 comitente: "Trabajo realizado para Medios Expresivos I, [Cátedra Groisman](https://catedragroisman.wordpress.com/), FADU--UBA."
 tags: [Historieta, Fotografía]
 ---
 
-Trabajo realizado sobre el atentado a la AMIA dentro del proyecrto *Memoria Ilustrada*. Historieta publicada en *[Memoria Ilustrada: Historietas para no Olvidar](http://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja/23)* (FADU--UBA y AMIA) y en el [Flickr de la cátedra](https://www.flickr.com/photos/catedragroisman/5723330979/).
+Trabajo realizado sobre el atentado de la AMIA dentro del proyecrto *Memoria Ilustrada*. Historieta publicada en *[Memoria Ilustrada: Historietas para no Olvidar](http://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja/23)* (FADU--UBA y AMIA) y en el [Flickr de la cátedra](https://www.flickr.com/photos/catedragroisman/5723330979/).
 
 ![Historieta]({{ site.baseurl }}/img/2011_medios-01.jpg)
 
