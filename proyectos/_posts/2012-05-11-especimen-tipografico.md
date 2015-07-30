@@ -23,11 +23,10 @@ Se diseñó el espécimen teniendo en cuenta las particularidades de la familia,
 
 En conjunto con el espécimen se desarrollaron algunas postales.
 
-<div class="fotorama">
+<div class="fotorama" data-width="650">
 	<img src="{{ site.baseurl }}/img/2013_especimen-postal-1.jpg" alt="Postal" />
 	<img src="{{ site.baseurl }}/img/2013_especimen-postal-2.jpg" alt="Postal" />
 	<img src="{{ site.baseurl }}/img/2013_especimen-postal-3.jpg" alt="Postal" />
-	<img src="{{ site.baseurl }}/img/2013_especimen-postal-4.jpg" alt="Postal" />
 </div>
 
 Trabajo publicado en el [Flickr de la cátedra](http://www.flickr.com/photos/catedracosgaya/7483340020/), [postales](http://www.flickr.com/photos/catedracosgaya/7483347866/) y [detalle](http://www.flickr.com/photos/catedracosgaya/7483340302/). *La tipografía fue gentilmente prestada para este trabajo por Cristóbal Henestrosa.*
