@@ -32,3 +32,5 @@ Elaboración de un objeto a partir de una pista de audio brindada por la cátedr
      <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-17.jpg" alt="" />
      <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-18.jpg" alt="" />
 </div>
+
+{{ page.tags }}
