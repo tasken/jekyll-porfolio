@@ -17,11 +17,8 @@ layout: default
 	{% else %}{% endif %}
 
 	{% if page.tags != null %}
-
-	{% assign sortedtags2 =  page.tags | split:' ' | sort %}
-
 	<div class="etiquetas">
-		<p><strong>Etiquetas:</strong> {{ sortedtags2 | join "," }}.</p>
+		<p><strong>Etiquetas:</strong> {{ page.tags | join "," }}.</p>
 	</div>
 	{% else %}{% endif %}
 
