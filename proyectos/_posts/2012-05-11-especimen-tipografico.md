@@ -23,7 +23,7 @@ Se diseñó el espécimen teniendo en cuenta las particularidades de la familia,
 
 En conjunto con el espécimen se desarrollaron algunas postales.
 
-<div class="fotorama" data-width="650">
+<div class="fotorama" data-width="550">
 	<img src="{{ site.baseurl }}/img/2013_especimen-postal-1.jpg" alt="Postal" />
 	<img src="{{ site.baseurl }}/img/2013_especimen-postal-2.jpg" alt="Postal" />
 	<img src="{{ site.baseurl }}/img/2013_especimen-postal-3.jpg" alt="Postal" />
