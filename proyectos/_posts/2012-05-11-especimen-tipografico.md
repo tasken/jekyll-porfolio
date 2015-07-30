@@ -22,14 +22,12 @@ Se diseñó el espécimen teniendo en cuenta las particularidades de la familia,
 </div>
 
 ## Postales
-En conjunto con el espécimen se desarrollaron algunas postales.
 
-<div class="fotorama">
-	<img src="{{ site.baseurl }}/2013_especimen-postal-1.jpg" alt="Postal" />
-	<img src="{{ site.baseurl }}/2013_especimen-postal-2.jpg" alt="Postal" />
-	<img src="{{ site.baseurl }}/2013_especimen-postal-3.jpg" alt="Postal" />
-	<img src="{{ site.baseurl }}/2013_especimen-postal-4.jpg" alt="Postal" />
-</div>
+En conjunto con el espécimen se diseñaron algunas postales.
 
-Trabajo publicado en el [Flickr de la cátedra](http://www.flickr.com/photos/catedracosgaya/7483340020/), [postales](http://www.flickr.com/photos/catedracosgaya/7483347866/) y [detalle](http://www.flickr.com/photos/catedracosgaya/7483340302/).  
-*La tipografía fue gentilmente prestada para este trabajo por Cristóbal Henestrosa.*
+<img src="{{ site.baseurl }}/2013_especimen-postal-1.jpg" alt="Postal" />
+<img src="{{ site.baseurl }}/2013_especimen-postal-2.jpg" alt="Postal" />
+<img src="{{ site.baseurl }}/2013_especimen-postal-3.jpg" alt="Postal" />
+<img src="{{ site.baseurl }}/2013_especimen-postal-4.jpg" alt="Postal" />
+
+Trabajo publicado en el [Flickr de la cátedra](http://www.flickr.com/photos/catedracosgaya/7483340020/), [postales](http://www.flickr.com/photos/catedracosgaya/7483347866/) y [detalle](http://www.flickr.com/photos/catedracosgaya/7483340302/). *La tipografía fue gentilmente prestada para este trabajo por Cristóbal Henestrosa.*
