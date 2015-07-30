@@ -6,10 +6,7 @@ comitente: "Trabajo realizado para Morfología I, [Cátedra Wainhaus](http://www
 tags: [Audiovisual, Experimental, Fotografía]
 ---
 
-Elaboración de un objeto a partir de una pista de audio brindada por la cátedra. Luego se realizó una secuencia de imágenes que sirvió como storyboard para la animación final.
-
-## Video
-<div class="embed-container"><iframe src="https://player.vimeo.com/video/31470550?title=0&byline=0&portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+Elaboración de un objeto a partir de una pista de audio brindada por la cátedra. Luego se realizó una secuencia de imágenes que sirvió como storyboard para el video final.
 
 ## Secuencia fotográfica
 <div class="fotorama">
@@ -24,12 +21,7 @@ Elaboración de un objeto a partir de una pista de audio brindada por la cátedr
      <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-09.jpg" alt="Foto #9" />
      <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-10.jpg" alt="Foto #10" />
      <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-11.jpg" alt="Foto #11" />
-     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-12.jpg" alt="Foto #12" />
-     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-13.jpg" alt="Foto #13" />
-     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-14.jpg" alt="Foto #14" />
-     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-15.jpg" alt="Foto #15" />
-     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-16.jpg" alt="Foto #16" />
-     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-17.jpg" alt="Foto #17" />
-     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-18.jpg" alt="Foto #18" />
 </div>
 
+## Video
+<div class="embed-container"><iframe src="https://player.vimeo.com/video/31470550?title=0&byline=0&portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

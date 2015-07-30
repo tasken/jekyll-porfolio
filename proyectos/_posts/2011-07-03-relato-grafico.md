@@ -29,3 +29,5 @@ Trabajo realizados para Medios Expresivos I, cátedra Groisman en conjunto con L
 *Panel realizado en conjunto con Lucía Premuz y [Sebastian Roitter](https://www.behance.net/roitter)*  
 
 *[AMIA]: Asociación Mutual Israelita Argentina
+*[UBA]: Universidad de Buenos Aires
+*[FADU]: Facultad de Arquitectura, Diseño y Urbanismo

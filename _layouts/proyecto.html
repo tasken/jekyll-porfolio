@@ -18,11 +18,8 @@ layout: default
 
 	{% if page.tags != null %}
 	<div class="etiquetas">
-		<p><strong>Etiquetas:</strong> {{ page.tags | join ', ' }}.</p>
+		<p><strong>Etiquetas:</strong> {{ page.tags | join:', ' }}.</p>
 	</div>
 	{% else %}{% endif %}
 
 </div>
-
-*[UBA]: Universidad de Buenos Aires
-*[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
