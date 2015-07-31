@@ -7,7 +7,7 @@ comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya.](http://ww
 tags: [Tipográfico, Editorial]
 ---
 
-La tipografía [Espinosa Nova](https://www.myfonts.com/fonts/estudio-ch/espinosa-nova/), diseñada por [Cristóbal Henestrosa](http://www.estudio-ch.com) (MX) está basada en los tipos utilizados por Antonio de Espinoza, segundo impresor mexicano (1559) y muy probablemente el primer fundidor de y tallador de caracteres de todo el continente americano. Si bien sus particularidades le confieren elegancia y distinción, éstas nunca llegan a interrumpir la fluidez y la lectura.  
+La tipografía [Espinosa Nova](https://www.myfonts.com/fonts/estudio-ch/espinosa-nova/), diseñada por [Cristóbal Henestrosa](http://www.estudio-ch.com) (MX) está basada en los tipos utilizados por Antonio de Espinoza, segundo impresor mexicano (1559) y muy probablemente el primer fundidor de y tallador de caracteres de todo el continente americano. Si bien sus particularidades le confieren elegancia y distinción, éstas nunca llegan a interrumpir la fluidez y la lectura. En el 2010 la tipografía fue galardonada con 2 premios a la excelencia ([TDC2](https://www.tdc.org/competitionwriteup/tdc-typeface-design-winners-2010/) y Tipos Latinos).
 
 Se diseñó el espécimen teniendo en cuenta las particularidades de la familia, su uso para textos y la elegencia que la caracteriza.  
 
@@ -21,7 +21,7 @@ Se diseñó el espécimen teniendo en cuenta las particularidades de la familia,
 
 ## Postales
 
-En conjunto con el espécimen se desarrollaron algunas postales.
+En conjunto con el espécimen se diseñaron algunas postales.
 
 <div class="fotorama" data-width="550">
 	<img src="{{ site.baseurl }}/img/2013_especimen-postal-1.jpg" alt="Postal" />
