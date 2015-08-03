@@ -1,36 +1,39 @@
-<div class="sidebar">
-	<div class="container">
+<!-- Menu toggle -->
+<a href="#menu" id="menuLink" class="menu-link">
+	<span></span>
+</a>
+
+<div id="menu">
+
+	<div class="sidebar container">
 		<div class="sidebar-about">
 			<h1><a href="{{ site.baseurl }}/">Augusto<br>Daniele</a></h1>
 			<p class="lead">{{ site.tagline }}</p>
 		</div>
-		
-		<nav class="sidebar-nav">
-			
-			{% for post in site.categories.proyectos %}
-				{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
-					{% if currentyear != year %}
-						<h3 class="titulo">{{ currentyear }}</h3>
-						{% capture year %}{{currentyear}}{% endcapture %}
-					{% endif %}
-				<a class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}" href="{{ site.baseurl }}/{{ post.url }}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
-			{% endfor %}
 
-			<h3 class="titulo">Info</h3>
-			{% assign pages_list = site.pages | sort: 'prioridad' %}
-			{% for node in pages_list %}
-				{% if node.title != null %}
-					{% if node.layout == "page" %}
-						<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}/{{ node.url }}">{{ node.title }}</a>
-					{% endif %}
+		{% for post in site.categories.proyectos %}
+		{% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+		{% if currentyear != year %}
+		<h3 class="titulo" href="#">{{ currentyear }}</h3>
+		{% capture year %}{{currentyear}}{% endcapture %}
+		{% endif %}
+			<a href="{{ site.baseurl }}{{ post.url }}" class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
+		{% endfor %}
+
+		<h3 class="titulo">Info</h3>
+		{% assign pages_list = site.pages | sort: 'prioridad' %}
+		{% for node in pages_list %}
+			{% if node.title != null %}
+				{% if node.layout == "page" %}
+					<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
 				{% endif %}
-			{% endfor %}
-	
-</nav>
+			{% endif %}
+		{% endfor %}
 
-<p class="small-text subtle">&copy; {{ site.time | date: '%Y' }}<br>
+	<p class="small-text subtle">&copy; {{ site.time | date: '%Y' }}<br>
 	<!-- Todos los derechos reservados.<br> -->
 	Última actualización: <span title="{{ site.time }}">{{ site.time | date: '%d.%m.%Y' }}</span>
-</p>
-</div>
+	</p>
+
+	</div>
 </div>
