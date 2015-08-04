@@ -30,7 +30,7 @@ Responsable de diseño y creación del estilo para el diseño del manual 2010--2
 
 **Responsable de fotografía**{: .puesto} (consultor externo) // 2010  
 *[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
-Relevamiento / toma y edición de material fotográfico para el «Estudio de impacto ambiental y social de un proyecto ferroviario en la Quebrada de Humahuaca, Jujuy -- INECO -- ECOCONSULT».  
+Relevamiento / toma y edición de material fotográfico para el «Estudio de impacto ambiental y social de un proyecto ferroviario en la Quebrada de Humahuaca, Jujuy. INECO--ECOCONSULT».  
 
 **Diagramador**{: .puesto} // 2009 -- 2010  
 *[Fundación Reunión de Administradores](http://www.reunion-adm.com){:target="_blank"} -- [Tesco S.A.](http://www.fra.org.ar/tesco.asp){:target="_blank"}*{: .empleador}  
