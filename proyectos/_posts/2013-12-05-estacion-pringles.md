@@ -1,7 +1,7 @@
 ---
 layout: proyecto
 title: "Estación Pringles"
-trabajo: Audiovisual
+trabajo: "Audiovisual"
 comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
 tags: [Audiovisual, Experimental]
 ---

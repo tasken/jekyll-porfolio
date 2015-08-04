@@ -1,6 +1,6 @@
 ---
 layout: proyecto
-title: Bahiana
+title: "Bahiana"
 trabajo: "Postal digital"
 comitente: "Daniela Raskovsky y Pablo Cosgaya"
 tags: [Tipográfico]

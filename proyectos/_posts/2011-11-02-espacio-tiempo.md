@@ -1,7 +1,7 @@
 ---
 layout: proyecto
 title: "Espacio Tiempo"
-trabajo: Audiovisual
+trabajo: "Audiovisual"
 comitente: "Trabajo realizado para Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com), FADU--UBA."
 tags: [Audiovisual, Experimental, Fotografía]
 ---
