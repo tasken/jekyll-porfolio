@@ -92,7 +92,7 @@ Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro.
 - Certificación del idioma Italiano otorgado por el CUI--UBA. Nivel: Consejo Europeo B2, ALTE 3 // 2009.
 
 ## Otras actividades
-- [Viajar](FALTA LINK).
+- [Viajar](https://goo.gl/3Jk8tJ).
 - Cinéfilo, lector y muy curioso.
 - Participante de diversos grupos de diseño.
 - Safari de imagen nocturna, CCR // 2012
@@ -101,8 +101,8 @@ Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro.
 - Curso de Astronomía General, [Planetario Galileo Galilei](http://www.planetario.gov.ar){:target="_blank"} // 2008.
 - Talleres de improvisación teatral en el Baldío Mov // 2006 -- 2007.
 - Realización de toma fotográfica:
-    - Inauguración exposición «Por la vida», Museo Quinquela Martín, La Boca, CABA, Argentina // 2010.
-    - Agatha Plata. Puesta de set, iluminación y toma fotográfica de productos de plata para sitio web // 2010.
+	- Inauguración exposición «Por la vida», Museo Quinquela Martín, La Boca, CABA, Argentina // 2010.
+	- Agatha Plata. Puesta de set, iluminación y toma fotográfica de productos de plata para sitio web // 2010.
 - Mantenimiento de sistemas informáticos y soporte en general.
 
 ## Otras referencias
@@ -121,3 +121,4 @@ Contactos laborales disponibles de ser requeridos.
 *[PHP]: PHP: Hypertext Preprocessor
 *[ALTE]: Association of Language Testers in Europe
 *[CCR]: Centro Cultural Recoleta
+*[AMIA]: Asociación Mutual Israelita Argentina

@@ -2,8 +2,8 @@
 timezone: America/Argentina/Buenos_Aires
 
 gems:
-  - jekyll-sitemap
-  - jekyll-feed
+	- jekyll-sitemap
+	- jekyll-feed
 
 # Links
 permalink: '/:categories/:title.html'
@@ -17,5 +17,5 @@ baseurl: ''
 
 # Info básica
 author:
-  name: 'Augusto Daniele'
-  url: 'http://augustodaniele.com.ar'
+	name: 'Augusto Daniele'
+	url: 'http://augustodaniele.com.ar'
