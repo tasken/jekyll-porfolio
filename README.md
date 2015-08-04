@@ -1,6 +1,6 @@
 # tasken.github.io
 
 Requerimientos:
-	- jekyll
+  - jekyll
   - jekyll-sitemap
   - jekyll-feed
