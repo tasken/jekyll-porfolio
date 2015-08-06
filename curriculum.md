@@ -45,13 +45,13 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 Diseño bolsas comerciales y etiquetas; fotografías para calendarios empresariales.
 
 ## Conocimientos
-- Desempeño avanzado con programas de diseño: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Adobe Acrobat y Dreamweaver.
+- Desempeño avanzado con programas de diseño: Adobe Creative Cloud.
 - Conocimientos avanzados de composición tipográfica y <span title="Conjunto de usos y convenciones particulares con las que se rige la escritura por medio de elementos tipográficos en cada lengua">ortotipografía</span>.
-- Conocimientos avanzados de cuestiones técnicas, formatos de archivo, compatibilidad y de tecnologías digitales y web en general.
-- Desempeño intermedio de Adobe Premiere y CorelDRAW.
-- Cooperación y comunicación productiva en equipos.
-- Conocimiento de HTML y CSS bajo estándares web (W3C).
+- Desarrollo de sitios HTML y CSS bajo estándares web (W3C).
+- Desarrollo de sitios en WordPress, Drupal, Jekyll, Indexhibit, Berta y otros CMS.
 - Familiaridad con tecnologías: PHP, MySQL, Javascript.
+- Experiencia de trabajo con GitHub.
+- Conocimientos avanzados de cuestiones técnicas, formatos de archivo, optimización, compatibilidad y de tecnologías digitales y web en general.
 - Cooperación y comunicación productiva en equipos.
 - Alto desempeño y facilidad de aprendizaje de tecnologías.
 
@@ -67,7 +67,7 @@ Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro.
 
 ## Ámbito Académico
 - **Docente *Ad Honorem*** // 2014 -– presente       
-	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación‐ en el Barrio Padre Carlos Mugica (Villa 31 de Retiro).
+	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31 de Retiro).
 - **Adscripto** // 2015
 	- Historia 2, [Cátedra Ex Macchi](https://www.facebook.com/CatedraMacchiH2){:target="_blank"}.
 - **Proyecto de Investigación** // 2014
@@ -88,8 +88,8 @@ Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro.
 - *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://www.flanbe.com.ar){:target="_blank"} // 2011.
 
 ## Idiomas
-- Certificación del idioma Inglés otorgado por el CUI--UBA. Nivel: Consejo Europeo C1, ALTE 4 // 2009.
-- Certificación del idioma Italiano otorgado por el CUI--UBA. Nivel: Consejo Europeo B2, ALTE 3 // 2009.
+- Certificación del idioma Inglés otorgado por el CUI. Nivel: Consejo Europeo C1, ALTE 4 // 2009.
+- Certificación del idioma Italiano otorgado por el CUI. Nivel: Consejo Europeo B2, ALTE 3 // 2009.
 
 ## Otras actividades
 - [Viajar](https://goo.gl/3Jk8tJ).
@@ -99,11 +99,8 @@ Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro.
 - Cofundador de la [Comunidad argentina de Mozilla](https://www.facebook.com/mozilla.ar){:target="_blank"} // 2007.
 - Taller de filosofía y cine con Marcelo Pompei // 2009 -- 2010.
 - Curso de Astronomía General, [Planetario Galileo Galilei](http://www.planetario.gov.ar){:target="_blank"} // 2008.
-- Talleres de improvisación teatral en el Baldío Mov // 2006 -- 2007.
-- Realización de toma fotográfica:
-	- Inauguración exposición «Por la vida», Museo Quinquela Martín, La Boca, CABA, Argentina // 2010.
-	- Agatha Plata. Puesta de set, iluminación y toma fotográfica de productos de plata para sitio web // 2010.
-- Mantenimiento de sistemas informáticos y soporte en general.
+- Talleres de improvisación teatral en el Baldío Móvil // 2006 -- 2007.
+- Un tanto geek.
 
 ## Otras referencias
 Contactos laborales disponibles de ser requeridos.
@@ -122,3 +119,4 @@ Contactos laborales disponibles de ser requeridos.
 *[ALTE]: Association of Language Testers in Europe
 *[CCR]: Centro Cultural Recoleta
 *[AMIA]: Asociación Mutual Israelita Argentina
+*[CMS]: Content Management System
