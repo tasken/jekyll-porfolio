@@ -24,11 +24,11 @@ Publishing and identity design, art and copy preparation for prepress, scanning 
 *Previsite Argentina -- ONELOOP*{: .empleador}  
 Basis development of an online app for realtors. Layout and design leader. Communication and management between sectors of design, development, implementation, marketing and management. Support and implementation of desk support tools. Implementation and optimization of new technologies for websites and services.  
 
-**Design manager**{: .puesto} (consultor externo) // 2010 -- 2011  
+**Design manager**{: .puesto} (external consultant) // 2010 -- 2011  
 *[Universidad Tecnológica Nacional](http://www.utn.edu.ar){:target="_blank"} -- [Subsecretaria de Puertos y Vías Navegables](http://www.sspyvn.gov.ar){:target="_blank"}*{: .empleador}  
 Responsible for designing and creating the design style manual 2010--2011 "Plan Maestro y Director del Sistema de Navegación Troncal".  
 
-**Photographer**{: .puesto} (consultor externo) // 2010  
+**Photographer**{: .puesto} (external consultant) // 2010  
 *[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
 Survey / photo taking and editing material for the "Study of environmental and social impact of a railway project in the Quebrada de Humahuaca, Jujuy. INECO--ECOCONSULT".  
 
