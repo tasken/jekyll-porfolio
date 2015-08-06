@@ -91,15 +91,15 @@ Dictated by the architects Fermín Estrella and Beatriz Pedro.
 - English language certification granted by the CUI. Level: European Council C1, ALTE 4 // 2009.
 - Italian language certification granted by the CUI. Level: European Council B2, ALTE 3 // 2009.
 
-## Otras actividades
-- [Travel](https://goo.gl/3Jk8tJ).
+## Other activities
+- To [Travel](https://goo.gl/3Jk8tJ).
 - Cinephile, reader and very curious.
 - Participant of various design groups.
-- Safari de imagen nocturna, CCR // 2012
+- Night Safari image, CCR // 2012
 - [Mozilla Community Argentina](https://www.facebook.com/mozilla.ar){:target="_blank"} cofounder // 2007.
 - Philosophy and film workshop with Marcelo Pompei // 2009 -- 2010.
 - General Astronomy Course [Planetario Galileo Galilei](http://www.planetario.gov.ar){:target="_blank"} // 2008.
-- Improvisation workshopsen el Baldío Móvil // 2006 -- 2007.
+- Improvisation workshops at El Baldío Móvil // 2006 -- 2007.
 - Somewhat geek.
 
 ## Other references

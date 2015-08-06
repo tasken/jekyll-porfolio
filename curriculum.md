@@ -99,7 +99,7 @@ Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro.
 - Cofundador de la [Comunidad argentina de Mozilla](https://www.facebook.com/mozilla.ar){:target="_blank"} // 2007.
 - Taller de filosofía y cine con Marcelo Pompei // 2009 -- 2010.
 - Curso de Astronomía General, [Planetario Galileo Galilei](http://www.planetario.gov.ar){:target="_blank"} // 2008.
-- Talleres de improvisación teatral en el Baldío Móvil // 2006 -- 2007.
+- Talleres de improvisación teatral en El Baldío Móvil // 2006 -- 2007.
 - Un tanto geek.
 
 ## Otras referencias
