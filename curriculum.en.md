@@ -1,48 +1,48 @@
 ---
-layout: page
-title: Currículum vítæ
+layout: page-alt
+title: Currículum vítæ [en]
 prioridad: 0
 ---
 
-## Experiencias laborales
-**Diseñador freelance**{: .puesto} // 2010 -- presente  
-Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño editorial, comunicaciones internas, identidad corporativa, etc.  
+## Work experience
+**Freelance designer**{: .puesto} // 2010 -- presente  
+Self-managed job tracking of my own projects. Websites, publishing design, internal communications, corporate identity, web design, etc.  
 
-**Diseñador gráfico**{: .puesto} // 2015 -- presente  
+**Graphic designer**{: .puesto} // 2015 -- presente  
 *[Teodoro](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
-Diseño y desarrollo de sitios responsive con 3 o más brakepoints (celular, tablet y computadoras). Diseño editorial y de logos para ediciones en español de mangas y para locales. Diseño y gestión de campañas online (Facebook).  
+Responsive design and development of sites with 3 or more brakepoints (mobile, tablet and desktop). Logo and publishing design. Website updates, design and management of online campaigns (Facebook).  
 
-**Diseñador gráfico**{: .puesto} // 2013 -- 12.2014  
+**Graphic designer**{: .puesto} // 2013 -- 12.2014  
 *[Grupo KPR](http://www.kpr.com.ar){:target="_blank"} -- [Búho Comunicación](http://www.buhocomunicacion.com.ar){:target="_blank"}*{: .empleador}  
-Manejo directo de cuentas medianas y grandes (de distintos sectores), diseño de identidad, corporativo y publicitaria, diseño y gestión de campañas online (Facebook), diseño editorial, desarrollo de nuevas campañas de comunicación.  
+Direct management of medium and large accounts (within different sectors), identity design, corporate and advertising, design and management of online campaigns ads (Facebook), publishing design, development of new campaigns.  
 
-**Diseñador gráficor**{: .puesto} // 2012 -- 2013  
+**Graphic designer**{: .puesto} // 2012 -- 2013  
 *[Industrias Culturales Argentinas](http://www.industriasculturalesargentinas.org){:target="_blank"} -- [Dot Pre Press S.A.](http://dotprepress.com){:target="_blank"}*{: .empleador}  
-Diseño y desarrollo editorial e identidad, preparación de originales para preprensa, digitalización y edición de imágenes. Interiorización con los procesos de preprensa, offset digital y ripeador de filminas.  
+Publishing and identity design, art and copy preparation for prepress, scanning and image editing. Internalization processes with prepress, offset and digital slides ripper.  
 
-**Project leader senior**{: .puesto} // 2011 -- 2012  
+**Senior project leader**{: .puesto} // 2011 -- 2012  
 *Previsite Argentina -- ONELOOP*{: .empleador}  
-Implementación de las bases de un sistema de difusión online para inmobiliarias. Dirección del sector de maquetación. Comunicación y gestión entre sectores de diseño, desarrollo, implementación, marketing y dirección. Soporte e implementación de herramientas de desk support. Implementación y optimización de nuevas tecnologías para sitios web.  
+Basis development of an online app for realtors. Layout and design leader. Communication and management between sectors of design, development, implementation, marketing and management. Support and implementation of desk support tools. Implementation and optimization of new technologies for websites and services.  
 
-**Diseñador a cargo**{: .puesto} (consultor externo) // 2010 -- 2011  
+**Design manager**{: .puesto} (consultor externo) // 2010 -- 2011  
 *[Universidad Tecnológica Nacional](http://www.utn.edu.ar){:target="_blank"} -- [Subsecretaria de Puertos y Vías Navegables](http://www.sspyvn.gov.ar){:target="_blank"}*{: .empleador}  
-Responsable de diseño y creación del estilo para el diseño del manual 2010--2011 del Plan Maestro y Director del Sistema de Navegación Troncal.  
+Responsible for designing and creating the design style manual 2010--2011 "Plan Maestro y Director del Sistema de Navegación Troncal".  
 
-**Fotógrafo**{: .puesto} (consultor externo) // 2010  
+**Photographer**{: .puesto} (consultor externo) // 2010  
 *[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
-Relevamiento / toma y edición de material fotográfico para el «Estudio de impacto ambiental y social de un proyecto ferroviario en la Quebrada de Humahuaca, Jujuy. INECO--ECOCONSULT».  
+Survey / photo taking and editing material for the "Study of environmental and social impact of a railway project in the Quebrada de Humahuaca, Jujuy. INECO--ECOCONSULT".  
 
-**Diagramador**{: .puesto} // 2009 -- 2010  
+**Magazine designer**{: .puesto} // 2009 -- 2010  
 *[Fundación Reunión de Administradores](http://www.reunion-adm.com){:target="_blank"} -- [Tesco S.A.](http://www.fra.org.ar/tesco.asp){:target="_blank"}*{: .empleador}  
-Diagramación de revista Reunión de Administradores, publicación mensual (tirada 2000 ejemplares, 44 páginas color), adaptación del diseño de Quark a InDesign, diseño de publicidades, panfletos, volantes, etc., soporte diseño y actualización de sitios web. Mantenimiento de sistemas.  
+Magazine layout "Reunión de Administradores", a monthly publication (2000 copies, 44 pages color), adapting the design of Quark to InDesign, ad design, brochures, flyers, etc., stand design and website updates. System maintenance.
 
-**Soporte gráfico y de sistemas**{: .puesto} // 2003 -- 2010  
+**Graphic and system support**{: .puesto} // 2003 -- 2010  
 *[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
-Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, diseño de más de 15 posters presentados en congresos nacionales e internacionales, diseño de gráficos y figuras para publicaciones técnicas especializadas, soporte y mantenimiento informático, administración de redes.  
+Corporate image development, development and updating of web site design over 15 posters presented at national and international conferences, graphics and figures design for specialized technical publications, support and system maintenance, network administration.  
 
-**Diseñador junior**{: .puesto} // 2006 -- 2008  
+**Junior designer**{: .puesto} // 2006 -- 2008  
 *Bepinel Regalos*{: .empleador}  
-Diseño bolsas comerciales y etiquetas; fotografías para calendarios empresariales.
+Shopping bags and labels design; photos for business calendars.
 
 ## Conocimientos
 - Desempeño avanzado con programas de diseño: Adobe InDesign, Adobe Illustrator, Adobe Photoshop, Adobe Acrobat y Dreamweaver.
