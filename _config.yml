@@ -1,9 +1,10 @@
 # Entorno
 timezone: America/Argentina/Buenos_Aires
+exclude: [README.md]
 
 # gems:
-#   - jekyll-sitemap
-#   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-feed
 
 # Links
 permalink: '/:categories/:title.html'
@@ -20,4 +21,7 @@ author:
   name: 'Augusto Daniele'
   url: 'http://augustodaniele.com.ar'
 
-exclude: [README.md]
+# NearlyFreeSpeech
+# destination: /home/public
+# keep_files: [demo]
+# url: 'http://augustodaniele.com.ar'
