@@ -22,7 +22,7 @@ author:
   url: 'http://augustodaniele.com.ar'
 
 # NearlyFreeSpeech
-destination: '/home/public'
+destination: /home/public
 keep_files: [demo]
 url: 'http://augustodaniele.com.ar'
 
@@ -32,5 +32,5 @@ git:
 transfer:
   command: 'rsync'
   settings: '-av'
-  source: '_site/'
+  source: '_site/''
   destination: '/home/public'
