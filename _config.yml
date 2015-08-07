@@ -1,9 +1,10 @@
 # Entorno
 timezone: America/Argentina/Buenos_Aires
+exclude: [README.md]
 
 # Gems:
-  - jekyll-sitemap
-  - jekyll-feed
+# - jekyll-sitemap
+# - jekyll-feed
 
 # Links
 permalink: '/:categories/:title.html'
@@ -12,7 +13,7 @@ permalink: '/:categories/:title.html'
 title: 'Porfolio de Augusto Daniele'
 tagline: 'Porfolio web y cv.'
 description: 'Porfolio personal y currículum vítae de Augusto Daniele.'
-url: 'http://tasken.github.io'
+# url: 'http://tasken.github.io'
 baseurl: ''
 
 # Info básica
@@ -21,6 +22,6 @@ author:
   url: 'http://augustodaniele.com.ar'
 
 # NearlyFreeSpeech
-# destination: /home/public
-# keep_files: [demo]
-# url: 'http://augustodaniele.com.ar'
+destination: /home/public
+keep_files: [demo]
+url: 'http://augustodaniele.com.ar'
