@@ -1,6 +1,6 @@
 # Entorno
 timezone: America/Argentina/Buenos_Aires
-exclude: [README.md]
+exclude: [README.md,rakefile.rb]
 
 # Gems:
 # - jekyll-sitemap
@@ -25,3 +25,12 @@ author:
 destination: /home/public
 keep_files: [demo]
 url: 'http://augustodaniele.com.ar'
+
+editor: 'nano'
+git:
+  branch: 'nf'
+transfer:
+  command: 'rsync'
+  settings: '-av'
+  source: '_site/''
+  destination: '/home/public'
