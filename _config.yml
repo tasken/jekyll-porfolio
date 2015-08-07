@@ -1,7 +1,7 @@
 # Entorno
 timezone: America/Argentina/Buenos_Aires
 
-# gems:
+# Gems:
   - jekyll-sitemap
   - jekyll-feed
 
