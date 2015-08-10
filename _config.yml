@@ -1,6 +1,5 @@
 # Entorno
 timezone: America/Argentina/Buenos_Aires
-exclude: [README.md]
 
 # Gems:
 # - jekyll-sitemap
@@ -24,4 +23,5 @@ author:
 # NearlyFreeSpeech
 destination: /home/public
 keep_files: [demo]
+exclude: [README.md]
 url: 'http://augustodaniele.com.ar'
