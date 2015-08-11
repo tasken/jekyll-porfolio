@@ -82,7 +82,7 @@ h1:before {
 			}
 
 		h1:after {
-			content: url(https://chart.googleapis.com/chart?cht=qr&chs=150x150&chl=http://augustodaniele.com.ar/curriculum.html&choe=UTF-8);
+			content: url(https://chart.googleapis.com/chart?cht=qr&chs=125x125&chl=http://augustodaniele.com.ar/curriculum.html&choe=UTF-8);
 			position: absolute;
 			right: 0;
 			top: 0;
