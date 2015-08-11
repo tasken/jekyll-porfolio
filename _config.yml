@@ -5,7 +5,7 @@ timezone: America/Argentina/Buenos_Aires
 gems:
   - jekyll-sitemap
   - jekyll-feed
-url: 'http://tasken.github.io'
+url: 'https://tasken.github.io'
 
 # Links
 permalink: '/:categories/:title.html'

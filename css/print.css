@@ -3,8 +3,6 @@
 
 @media print {
 
-		@import url("https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css");
-
 		html,
 		body {
 			overflow-x: visible;
