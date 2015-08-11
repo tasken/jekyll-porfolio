@@ -1,94 +1,111 @@
+
 /* Print */
 
 @media print {
+
+		@import url("https://raw.githubusercontent.com/necolas/normalize.css/master/normalize.css");
+
 		html,
 		body {
-				overflow-x: visible;
-				font-size: 11px;
+			overflow-x: visible;
+			font-size: 11px;
 		}
 
 		@page {
-				size: auto;
-				margin: 1.25cm;
+			size: auto;
+			margin: 1.25cm;
+		}
+
+		div.page {
+			float: none;
+			position: relative;
+			display: block;
 		}
 
 		div#menu {
-				display: none;
+			float: none;
+			display: none;
 		}
 
 		div#layout {
-				padding-left: 0;
+			float: none;
+			padding-left: 0;
 		}
 
 		*,
 		*:before,
 		*:after {
-				background: transparent !important;
-				color: #000 !important;
-				box-shadow: none !important;
-				text-shadow: none !important;
+			background: transparent !important;
+			color: #000 !important;
+			box-shadow: none !important;
+			text-shadow: none !important;
 		}
 
 		a,
 		a:visited {
-				text-decoration: underline;
+			text-decoration: underline;
 		}
 
+/*
 		a[href]:after {
-				content: " (" attr(href) ")";
+			content: " (" attr(href) ")";
 		}
 
 		abbr[title]:after {
-				content: " (" attr(title) ")";
+			content: " (" attr(title) ")";
 		}
 
-		/*
-		* Don't show links that are fragment identifiers,
-		* or use the `javascript:` pseudo protocol
-		*/
-		
 		a[href^="#"]:after,
 		a[href^="javascript:"]:after {
-				content: "";
+			content: "";
 		}
+*/
 
 		pre,
 		blockquote {
-				border: 1px solid #999;
-				page-break-inside: avoid;
+			border: 1px solid #999;
+			position: relative;
+			display: block;
+			page-break-inside: avoid;
 		}
 
 		img,
 		ul,
 		li,
 		p {
+			float: none;
+			position: relative;
+			display: block;
 			page-break-inside: avoid;
 		}
 
 		img {
-				max-width: 100% !important;
+			max-width: 100% !important;
 		}
 
 		p,
 		h2,
 		h3 {
-				orphans: 3;
-				widows: 3;
+			orphans: 3;
+			widows: 3;
 		}
 
 		h2,
 		h3 {
-				page-break-after: avoid;
+			float: none;
+			position: relative;
+			display: block;
+			page-break-after: avoid;
 		}
 
 		h1:before {
-				content: "Augusto Daniele | ";
+			content: "Augusto Daniele | ";
 		}
 		
 		h1:after {
-				content: url(https://chart.googleapis.com/chart?cht=qr&chs=125x125&chl=http://augustodaniele.com.ar/curriculum.html&choe=UTF-8);
-				position: absolute;
-				right: 0;
-				top: 0;
+			content: url(https://chart.googleapis.com/chart?cht=qr&chs=125x125&chl=http://augustodaniele.com.ar/curriculum.html&choe=UTF-8);
+			position: absolute;
+			right: 0;
+			top: 0;
 		}
 }
