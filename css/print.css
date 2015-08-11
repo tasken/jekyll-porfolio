@@ -1,57 +1,56 @@
 /* Print */
 
 @media print {
-	
-	html,
-	body {
-		overflow-x: visible;
-		font-size: 11px;
-	}
+		html,
+		body {
+				overflow-x: visible;
+				font-size: 11px;
+		}
 
-	div#menu {
-		display: none;
-	}
+		div#menu {
+				display: none;
+		}
 
-	div#layout {
-		padding-left: 0;
-	}
+		div#layout {
+				padding-left: 0;
+		}
 
-	*,
-	*:before,
-	*:after {
-		background: transparent !important;
-		color: #000 !important;
-		box-shadow: none !important;
-		text-shadow: none !important;
-	}
+		*,
+		*:before,
+		*:after {
+				background: transparent !important;
+				color: #000 !important;
+				box-shadow: none !important;
+				text-shadow: none !important;
+		}
 
-	a,
-	a:visited {
-		text-decoration: underline;
-	}
+		a,
+		a:visited {
+				text-decoration: underline;
+		}
 
-	a[href]:after {
-		content: " (" attr(href) ")";
-	}
+		a[href]:after {
+				content: " (" attr(href) ")";
+		}
 
-	abbr[title]:after {
-		content: " (" attr(title) ")";
-	}
+		abbr[title]:after {
+				content: " (" attr(title) ")";
+		}
 
 		/*
 		* Don't show links that are fragment identifiers,
 		* or use the `javascript:` pseudo protocol
 		*/
-
+		
 		a[href^="#"]:after,
 		a[href^="javascript:"]:after {
-			content: "";
+				content: "";
 		}
 
 		pre,
 		blockquote {
-			border: 1px solid #999;
-			page-break-inside: avoid;
+				border: 1px solid #999;
+				page-break-inside: avoid;
 		}
 
 		img,
@@ -62,30 +61,29 @@
 		}
 
 		img {
-			max-width: 100% !important;
+				max-width: 100% !important;
 		}
 
 		p,
 		h2,
 		h3 {
-			orphans: 3;
-			widows: 3;
+				orphans: 3;
+				widows: 3;
 		}
 
 		h2,
 		h3 {
-			page-break-after: avoid;
+				page-break-after: avoid;
 		}
 
-h1:before {
-			content: "Augusto Daniele | ";
-			}
-
+		h1:before {
+				content: "Augusto Daniele | ";
+		}
+		
 		h1:after {
-			content: url(https://chart.googleapis.com/chart?cht=qr&chs=125x125&chl=http://augustodaniele.com.ar/curriculum.html&choe=UTF-8);
-			position: absolute;
-			right: 0;
-			top: 0;
+				content: url(https://chart.googleapis.com/chart?cht=qr&chs=125x125&chl=http://augustodaniele.com.ar/curriculum.html&choe=UTF-8);
+				position: absolute;
+				right: 0;
+				top: 0;
 		}
-
 }

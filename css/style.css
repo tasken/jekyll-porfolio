@@ -21,7 +21,7 @@ body {
 
 @media (min-width: 48em) {
 	.content {
-    padding-top: 2rem;
+		padding-top: 2rem;
 	}
 }
 
@@ -39,9 +39,9 @@ body {
 }
 
 @media (min-width: 48em) {
-  .content {
-    margin-left: 2rem;
-  }
+	.content {
+		margin-left: 2rem;
+	}
 }
 
 @media (min-width: 58em) {
