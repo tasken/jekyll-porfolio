@@ -40,6 +40,6 @@
 	<meta property="og:title" content="Augusto Daniele" />
 	<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
 	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/home_brothers.jpg" />
-	<meta property="og:description" content="{{ site.tagline }}" />
+	<meta property="og:description" content="{% if page.url == '/index.html' %} {{ site.tagline }} {% else %} {{ post.excerpt | remove: '<p>' | remove: '</p>' }} {% endif %}" />
 
 </head>
