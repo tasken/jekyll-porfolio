@@ -12,10 +12,6 @@ El evento se realizó en [Santa](https://www.facebook.com/santagaleria){:target=
 > Lo que importa, mientras estamos aquí, es la vida, la gente. Abrazar a los amigos, vivir feliz. Cambiar el mundo. Y nada más.  
 > --- <cite>Oscar Niemeyer</cite>.
 
-![Bahiana]({{ site.baseurl }}/img/2013_bahiana-1.jpg)
-![Bahiana]({{ site.baseurl }}/img/2013_bahiana-2.jpg)
-
-
 <div class="fotorama">
 	<img src="{{ site.baseurl }}/img/2013_bahiana-1.jpg" alt="Armado" />
 	<img src="{{ site.baseurl }}/img/2013_bahiana-2.jpg" alt="Postal" />
