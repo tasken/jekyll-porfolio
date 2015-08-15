@@ -8,8 +8,7 @@ tags: [Experimental, Editorial]
 
 Búsqueda gráfica a partir de sonidos y del análisis de emergentes identitarios, atributos, del orden de lo sensible y lo simbólico. Traducción de experiencias sonoras en estímulos visuales de forma y color.
 
-<div class="fotorama"
-		 data-allowfullscreen="true">
+<div class="fotorama">
 	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-01.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-02.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-03.jpg" alt="" />
