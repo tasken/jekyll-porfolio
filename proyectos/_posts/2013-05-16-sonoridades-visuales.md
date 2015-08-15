@@ -10,7 +10,8 @@ Búsqueda gráfica a partir de sonidos y del análisis de emergentes identitario
 
 <img src="{{ site.baseurl }}/img/2013_sonoridades-ed-01.jpg" alt="" />
 
-<div class="fotorama">
+<div class="fotorama"
+		 data-allowfullscreen="true">
 	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-02.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-03.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-04.jpg" alt="" />
@@ -20,9 +21,8 @@ Búsqueda gráfica a partir de sonidos y del análisis de emergentes identitario
 	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-08.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-09.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-10.jpg" alt="" />
+	<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-11.jpg" alt="" />
 </div>
-
-<img src="{{ site.baseurl }}/img/2013_sonoridades-ed-11.jpg" alt="" />
 
 <iframe src="https://embed.spotify.com/?uri=spotify:track:6gvtc6TZVhAVR81gA44dvd" width="300" height="80" frameborder="0" allowtransparency="true"></iframe>
 

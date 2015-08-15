@@ -13,7 +13,8 @@ Se presenta el relato de los acontecimientos de 1921 cruzados por imágenes de l
 
 ![Tapa]({{ site.baseurl }}/img/2013_heraldo-1.jpg)
 
-<div class="fotorama">
+<div class="fotorama"
+		data-allowfullscreen="true">
 	<img src="{{ site.baseurl }}/img/2013_heraldo-2.jpg" data-caption="Interior" alt="Interior" />
 	<img src="{{ site.baseurl }}/img/2013_heraldo-3.jpg" data-caption="Interior" alt="Interior" />
 	<img src="{{ site.baseurl }}/img/2013_heraldo-4.jpg" data-caption="Interior" alt="Interior" />
