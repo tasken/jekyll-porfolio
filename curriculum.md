@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Currículum vítæ
+title: "Currículum vítæ"
 prioridad: 0
 ---
 

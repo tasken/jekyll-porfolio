@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Colofón
+title: "Colofón"
 prioridad: 10
 ---
 

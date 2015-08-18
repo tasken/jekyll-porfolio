@@ -1,6 +1,6 @@
 ---
 layout: page-alt
-title: Curriculum vitæ [en]
+title: "Curriculum vitæ [en]"
 prioridad: 0
 ---
 

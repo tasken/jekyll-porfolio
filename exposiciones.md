@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exposiciones
+title: "Exposiciones"
 prioridad: 5
 ---
 
