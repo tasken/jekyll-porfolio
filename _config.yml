@@ -5,7 +5,7 @@ timezone: America/Argentina/Buenos_Aires
 # gems:
 #   - jekyll-sitemap
 #   - jekyll-feed
-url: 'https://tasken.github.io'
+# url: 'https://tasken.github.io'
 
 # Links
 permalink: '/:categories/:title.html'
@@ -22,7 +22,7 @@ author:
   url: 'http://augustodaniele.com.ar'
 
 # NearlyFreeSpeech
-# destination: /home/public
-# keep_files: [demo]
-# exclude: [README.md]
-# url: 'http://augustodaniele.com.ar'
+destination: /home/public
+keep_files: [demo]
+exclude: [README.md]
+url: 'http://augustodaniele.com.ar'
