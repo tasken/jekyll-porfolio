@@ -59,7 +59,7 @@ Diseño bolsas comerciales y etiquetas; fotografías para calendarios empresaria
 - **Diseño Gráfico** // 2008 -- presente
 *[Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
 - El libro en vivo. Organizado por EUDEBA, 2º Bienal Nacional de Diseño UBA--FADU // 2015.  
-Módulos: Del texto a la edición y De la edición al diseño. Dictado por Patricia Piccolini, Darío Contreras, Carlos Venancio. Coordinación: Silvina Simondet.
+Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
 - Seminario de vivienda y urbanismo social. Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro. FADU--UBA // 2014.
 - Introducción al diseño de tipografías, 1º Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
 - Refinamiento macro y micro tipográfico. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
@@ -70,7 +70,7 @@ Módulos: Del texto a la edición y De la edición al diseño. Dictado por Patri
 - **Docente *Ad Honorem*** // 2014 -– presente       
 	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31 de Retiro).
 - **Adscripto** // 2015
-	- Historia 2, [Cátedra Ex Macchi](https://www.facebook.com/CatedraMacchiH2){:target="_blank"}.
+	- Historia II, [Cátedra Ex Macchi](https://www.facebook.com/CatedraMacchiH2){:target="_blank"}.
 - **Proyecto de Investigación** // 2014
 	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/investigacion/proyec_piamyc02){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
 

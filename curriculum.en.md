@@ -48,12 +48,12 @@ Shopping bags and labels design; photos for business calendars.
 - Advanced performance with design software: Adobe Creative Cloud.
 - Advanced knowledge of typesetting and <span title="Orthotypography is the aspect of typography that defines the meaning and rightful usage of typographic signs, notably punctuation marks, and elements of layout such as flush margins and indentation.">orthotypography</span>.
 - Knowledge of HTML and CSS on Web standards (W3C).
-- Site development using WordPress, Drupal, Jekyll, Indexhibit, Berta and other CMS.
+- Site development using WordPress, Drupal, Jekyll, Indexhibit, Berta, Ghost and other CMS.
 - Familiarity with technologies: PHP, MySQL, Javascript.
 - Work experience with GitHub.
 - Advanced knowledge of technical issues, file formats, optimization, compatibility and web and digital technologies in general.
 - Cooperation and productive communication equipment.
-- High performance and ease of learning technologies.
+- High performance and self-taught in digital technologies.
 
 ## Education and training
 - **Graphic Design** // 2008 -- present
@@ -61,7 +61,6 @@ Shopping bags and labels design; photos for business calendars.
 - Seminar on Social Housing and Urbanism - FADU–UBA // 2014.
 Dictated by the architects Fermín Estrella and Beatriz Pedro.
 - Macro and micro typographic refinement, [Tipitos Argentinos](http://www.tipitosargentinos.com.ar){:target="_blank"} given by [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
-- Self-taught in digital technologies.
 - Workshop of audiovisual images (SEU--FADU--UBA) por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009.
 - Advanced Photography (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007.
 
@@ -69,7 +68,7 @@ Dictated by the architects Fermín Estrella and Beatriz Pedro.
 - **Teaching *Pro Bono*** // 2014 -– presente       
 	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, "Memorias Visuales del Territorio". Image and communication, in the neighborhood Padre Carlos Mugica (Villa 31 in Retiro).
 - **Appointed teacher** // 2015
-	- Historia 2, [Chair Ex Macchi](https://www.facebook.com/CatedraMacchiH2){:target="_blank"}.
+	- Historia II, [Chair Ex Macchi](https://www.facebook.com/CatedraMacchiH2){:target="_blank"}.
 - **Investigation project** // 2014
 	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/investigacion/proyec_piamyc02){:target="_blank"}. Dynamics of participation and collective construction of display devices for the reconstruction of social memory. Villa 31, Retiro. Buenos Aires.
 
@@ -119,6 +118,4 @@ Business contacts available if required.
 *[ALTE]: Association of Language Testers in Europe
 *[CCR]: Centro Cultural Recoleta
 *[AMIA]: Asociación Mutual Israelita Argentina
-
 *[CMS]: Content Management System
-
