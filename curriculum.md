@@ -58,8 +58,11 @@ Diseño bolsas comerciales y etiquetas; fotografías para calendarios empresaria
 ## Educación y capacitación
 - **Diseño Gráfico** // 2008 -- presente
 *[Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
-- Seminario de Vivienda y Urbanismo Social - FADU–UBA // 2014.
+- El libro en vivo. [Del texto a la edición] + [De la edición al diseño]. Coordinazión por EUDEBA, 2º Bienal Nacional de Diseño UBA--FADU // 2015.
+EUDEBA, Patricia Piccolini, Darío Contreras, Carlos Venancio. Coordinación: Silvina Simondet.
+- Seminario de Vivienda y Urbanismo Social - FADU--UBA // 2014.
 Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro.
+- Introducción al diseño de tipografías, 1º Bienal de Diseño FADU--UBA, [Tipitos Argentinos](http://www.tipitosargentinos.com.ar){:target="_blank"} a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
 - Refinamiento macro y micro tipográfico, [Tipitos Argentinos](http://www.tipitosargentinos.com.ar){:target="_blank"} a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
 - Autodidacta en tecnologías digitales.
 - Taller de creación de imágenes audiovisuales (SEU--FADU--UBA) por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009.
@@ -120,3 +123,4 @@ Contactos laborales disponibles de ser requeridos.
 *[CCR]: Centro Cultural Recoleta
 *[AMIA]: Asociación Mutual Israelita Argentina
 *[CMS]: Content Management System
+*[EUDEBA]: Editorial Universitaria de Buenos Aires
