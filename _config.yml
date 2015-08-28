@@ -23,6 +23,6 @@ author:
 
 # NearlyFreeSpeech
 destination: /home/public
-keep_files: [demo]
+keep_files: [demo,heuristica]
 exclude: [README.md]
 url: 'http://augustodaniele.com.ar'
