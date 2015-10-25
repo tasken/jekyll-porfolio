@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-alt
 title: "Curriculum vitæ [en]"
 prioridad: 0
 ---
