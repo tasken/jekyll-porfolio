@@ -295,6 +295,7 @@ a.sidebar-nav-item:focus {
 	color: darkgrey;
 	font-weight: normal;
 	font-size: 1.5rem;
+	line-height: 1.6rem;
 }
 
 .comitente,
