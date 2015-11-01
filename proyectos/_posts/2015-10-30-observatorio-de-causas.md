@@ -1,7 +1,7 @@
 ---
 layout: proyecto
 title: "Observatorio de Causas de Corrupción"
-title-alt: "ACIJ"
+title-alt: "Observatorio de Causas"
 trabajo: "Sitio web"
 comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
 tags: [WordPress, Responsivo, Web]
