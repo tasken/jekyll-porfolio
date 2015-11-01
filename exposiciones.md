@@ -11,7 +11,7 @@ prioridad: 5
 - Memoria ilustrada. Historietas para no olvidar. Medios Expresivos 1, Cátedra Groisman
     - [Asociación Mutual Israelita Argentina](http://www.amia.org.ar/index.php/news/default/show/news/260){:target="_blank"}, CABA // 2011
     - [CCR](http://centroculturalrecoleta.org/ccr-sp/exposiciones/2011/06/28/espacio-de-arte-amia-catedra-groisman-de-la-fadu){:target="_blank"}, CABA // 2011
-- [Mirar, Escuchar, Fotografiar… Chacarita](http://biblioteca.fadu.uba.ar/tiki-read_article.php?articleId=238){:target="_blank"}, Diseño 1, Cátedra Rico, (Espacio Cultural Carlos Gardel)[https://www.facebook.com/media/set/?set=a.10150214822907685.316600.114898172684&type=3]{:target="_blank"}, CABA // 2011
+- [Mirar, Escuchar, Fotografiar… Chacarita](http://biblioteca.fadu.uba.ar/tiki-read_article.php?articleId=238){:target="_blank"}, Diseño 1, Cátedra Rico, [Espacio Cultural Carlos Gardel](https://www.facebook.com/media/set/?set=a.10150214822907685.316600.114898172684&type=3){:target="_blank"}, CABA // 2011
 - Muestra anual de los talleres de la imagen, cursos y talleres, CCR, CABA // 2011
 - Muestra de la Secretaría de Extensión Universitaria, Sala Baleiro, FADU–UBA, CABA // 2010
 - Muestra anual de los cursos y talleres, CCR, CABA // 2010
