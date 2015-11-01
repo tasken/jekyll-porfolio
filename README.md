@@ -2,5 +2,3 @@
 
 Requerimientos:
   - jekyll
-  - jekyll-sitemap
-  - jekyll-feed
