@@ -5,10 +5,10 @@ prioridad: 0
 ---
 
 ## Work experience
-**Freelance designer**{: .puesto} // 2010 -- presente  
+**Freelance designer**{: .puesto} // 2010 -- present  
 Self-managed job tracking of my own projects. Websites, publishing design, internal communications, corporate identity, web design, etc.  
 
-**Graphic designer**{: .puesto} // 2015 -- presente  
+**Graphic designer**{: .puesto} // 2015 -- present  
 *[Teodoro](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
 Responsive design and development of sites with 3 or more brakepoints (mobile, tablet and desktop). Logo and publishing design. Website updates, design and management of online campaigns (Facebook).  
 
