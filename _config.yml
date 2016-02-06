@@ -25,3 +25,8 @@ url: 'http://augustodaniele.com.ar'
 destination: /home/public
 keep_files: [demo,heuristica]
 exclude: [README.md]
+
+collections:
+  trabajos:
+    output: true
+    path: /awesome/:path/
