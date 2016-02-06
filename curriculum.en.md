@@ -9,7 +9,7 @@ prioridad: 0
 Self-managed job tracking of my own projects. Websites, publishing design, internal communications, corporate identity, web design, etc.  
 
 **Graphic designer**{: .puesto} // 2015 -- present  
-*[Teodoro](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
+*[Teodoro. Digital & Creative Studio](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
 Responsive design and development of sites with 3 or more brakepoints (mobile, tablet and desktop). Logo and publishing design. Website updates, design and management of online campaigns (Facebook).  
 
 **Graphic designer**{: .puesto} // 2013 -- 12.2014  

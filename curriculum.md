@@ -9,7 +9,7 @@ prioridad: 0
 Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño editorial, comunicaciones internas, identidad corporativa, etc.  
 
 **Diseñador gráfico**{: .puesto} // 2015 -- presente  
-*[Teodoro](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
+*[Teodoro. Estudio Digital & Creativo](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
 Diseño y desarrollo de sitios responsive con 3 o más brakepoints (celular, tablet y computadoras). Diseño editorial y de logos para ediciones en español de mangas y para locales. Diseño y gestión de campañas online (Facebook).  
 
 **Diseñador gráfico**{: .puesto} // 2013 -- 12.2014  
