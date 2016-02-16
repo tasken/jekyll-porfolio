@@ -77,10 +77,10 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 ## Presentaciones y Papers
 - **Proyecto Si + Ter. XI Encuentro Regional** // 2015  
 *El Territorio Visualizado en Memoria y Presente.*  
-Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álvarez. 24, 25 de septiembre.
+Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álvarez.  
 - **Proyecto Si + Red. X Encuentro Regional** // 2014  
 *Memorias Visuales del Territorio, Villa 31.*  
-Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva y Amelia Ojeda. 25, 26 de septiembre.
+Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva y Amelia Ojeda.  
 
 ## Premios
 - «Obsesión fatal», Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.
