@@ -75,11 +75,11 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/investigacion/proyec_piamyc02){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
 
 ## Presentaciones y Papers
-- **Proyecto Si + Ter. XI Encuentro Regional** // 2015
-*El Territorio Visualizado en Memoria y Presente.*
+- **Proyecto Si + Ter. XI Encuentro Regional** // 2015  
+*El Territorio Visualizado en Memoria y Presente.*  
 Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álvarez. 24, 25 de septiembre.
-- **Proyecto Si + Red. X Encuentro Regional** // 2014
-*Memorias Visuales del Territorio, Villa 31.*
+- **Proyecto Si + Red. X Encuentro Regional** // 2014  
+*Memorias Visuales del Territorio, Villa 31.*  
 Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva y Amelia Ojeda. 25, 26 de septiembre.
 
 ## Premios
