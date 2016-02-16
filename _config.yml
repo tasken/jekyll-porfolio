@@ -7,7 +7,7 @@ timezone: America/Argentina/Buenos_Aires
 #   - jekyll-feed
 
 # Links
-permalink: '/:categories/:title.html'
+permalink: '/:categories/:title/'
 
 # Configuración básica
 title: 'Porfolio de Augusto Daniele'
