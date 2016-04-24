@@ -10,7 +10,7 @@ Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño 
 
 **Diseñador gráfico**{: .puesto} // 2015 -- presente  
 *[Teodoro. Estudio Digital & Creativo](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
-Diseño y desarrollo de sitios responsive con 3 o más brakepoints (celular, tablet y computadoras). Diseño editorial y de logos para ediciones en español de mangas y para locales. Diseño y gestión de campañas online (Facebook).  
+Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tablet y computadoras). Diseño editorial e identidad. Desarrollo de logos para publicaciones en español de mangas. Diseño y gestión de campañas online (Facebook).  
 
 **Diseñador gráfico**{: .puesto} // 2013 -- 12.2014  
 *[Grupo KPR](http://www.kpr.com.ar){:target="_blank"} -- [Búho Comunicación](http://www.buhocomunicacion.com.ar){:target="_blank"}*{: .empleador}  
@@ -25,7 +25,7 @@ Diseño y desarrollo editorial e identidad, preparación de originales para prep
 Implementación de las bases de un sistema de difusión online para inmobiliarias. Dirección del sector de maquetación. Comunicación y gestión entre sectores de diseño, desarrollo, implementación, marketing y dirección. Soporte e implementación de herramientas de desk support. Implementación y optimización de nuevas tecnologías para sitios web.  
 
 **Diseñador a cargo**{: .puesto} (consultor externo) // 2010 -- 2011  
-*[Universidad Tecnológica Nacional](http://www.utn.edu.ar){:target="_blank"} -- [Subsecretaria de Puertos y Vías Navegables](http://www.sspyvn.gov.ar){:target="_blank"}*{: .empleador}  
+*[Universidad Tecnológica Nacional](http://www.utn.edu.ar){:target="_blank"} -- [Subsecretaría  de Puertos y Vías Navegables](http://www.sspyvn.gov.ar){:target="_blank"}*{: .empleador}  
 Responsable de diseño y creación del estilo para el diseño del manual 2010--2011 del Plan Maestro y Director del Sistema de Navegación Troncal.  
 
 **Fotógrafo**{: .puesto} (consultor externo) // 2010  
