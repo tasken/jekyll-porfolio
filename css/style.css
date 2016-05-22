@@ -79,6 +79,7 @@ abbr {
 	font-size: 100%;
 	color: inherit;
 	font-weight: inherit;
+	text-transform: initial;
 }
 
 @media (min-width: 58em) {
