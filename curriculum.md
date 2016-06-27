@@ -16,7 +16,7 @@ Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tab
 *[Grupo KPR](http://www.kpr.com.ar){:target="_blank"} -- [Búho Comunicación](http://www.buhocomunicacion.com.ar){:target="_blank"}*{: .empleador}  
 Manejo directo de cuentas medianas y grandes (de distintos sectores), diseño de identidad, corporativo y publicitaria, diseño y gestión de campañas online (Facebook), diseño editorial, desarrollo de nuevas campañas de comunicación.  
 
-**Diseñador gráficor**{: .puesto} // 2012 -- 2013  
+**Diseñador gráfico**{: .puesto} // 2012 -- 2013  
 *[Industrias Culturales Argentinas](http://www.industriasculturalesargentinas.org){:target="_blank"} -- [Dot Pre Press S.A.](http://dotprepress.com){:target="_blank"}*{: .empleador}  
 Diseño y desarrollo editorial e identidad, preparación de originales para preprensa, digitalización y edición de imágenes. Interiorización con los procesos de preprensa, offset digital y ripeador de filminas.  
 
@@ -58,6 +58,8 @@ Diseño bolsas comerciales y etiquetas; fotografías para calendarios empresaria
 ## Educación y capacitación
 - **Diseño Gráfico** // 2008 -- presente
 *[Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
+- Cátedra Miguel Benasayag, Ciencias y política, Colectivo de trabajo La Vaca // 2016.  
+*Relación entre pensamiento y vida*. Las trampas de la teoría: solución, avance, progreso como agentes de destrucción masiva. La actualidad del atropoceno. Alicia en el país sin maravillas. Habitar el devenir.
 - El libro en vivo. Organizado por EUDEBA, 2º Bienal Nacional de Diseño UBA--FADU // 2015.  
 Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
 - Seminario de vivienda y urbanismo social. Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro. FADU--UBA // 2014.
@@ -69,6 +71,8 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 ## Ámbito Académico
 - **Docente *Ad Honorem*** // 2014 -– presente       
 	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31 de Retiro).
+- **Adscripto** // 2016
+	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"}.
 - **Adscripto** // 2015
 	- Historia II, [Cátedra Ex Macchi](https://www.facebook.com/CatedraMacchiH2){:target="_blank"}.
 - **Proyecto de Investigación** // 2014
@@ -93,8 +97,8 @@ Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, 
 - *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://www.flanbe.com.ar){:target="_blank"} // 2011.
 
 ## Idiomas
-- Certificación del idioma Inglés otorgado por el CUI. Nivel: Consejo Europeo C1, ALTE 4 // 2009.
-- Certificación del idioma Italiano otorgado por el CUI. Nivel: Consejo Europeo B2, ALTE 3 // 2009.
+- Certificación del idioma inglés otorgado por el CUI. Nivel: Consejo Europeo C1, ALTE 4 // 2009.
+- Certificación del idioma italiano otorgado por el CUI. Nivel: Consejo Europeo B2, ALTE 3 // 2009.
 
 ## Otras actividades
 - [Viajar](https://goo.gl/3Jk8tJ).
