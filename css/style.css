@@ -352,6 +352,7 @@ a.sidebar-nav-item:focus {
 	background: transparent;
 	margin-bottom: 10px;
 	height: 45px;
+	font-family: "Asap", sans-serif;
 }
 
 .contacto textarea {
@@ -363,4 +364,5 @@ a.sidebar-nav-item:focus {
 	cursor: pointer;
 	font-size: 14px;
 	padding: 8px 18px;
+	font-family: "Asap", sans-serif;
 }
