@@ -171,10 +171,6 @@ blockquote {
 	margin-bottom: 1.1875rem;
 }
 
-.balance-text {
-	text-wrap: balanced;
-}
-
 blockquote p {
 	margin: 0;
 }
