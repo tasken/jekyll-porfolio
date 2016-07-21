@@ -14,7 +14,7 @@ Encargado del marketing digital, newsletters, Facebook ads, análisis de métric
 
 **Diseñador gráfico**{: .puesto} // 2015 -- presente  
 *[Teodoro. Estudio Digital & Creativo](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
-Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tablet y computadoras). Diseño editorial e identidad. Desarrollo de logos para publicaciones en español de mangas. Diseño y gestión de campañas online (Facebook).  
+Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tablet y computadoras). Diseño editorial e identidad. Desarrollo de logos para publicaciones en español de mangas. Diseño y gestión de campañas online (Facebook).{: .balance-text}    
 
 **Diseñador gráfico**{: .puesto} // 2013 -- 2014  
 *[Grupo KPR](http://www.kpr.com.ar){:target="_blank"} -- [Búho Comunicación](http://www.buhocomunicacion.com.ar){:target="_blank"}*{: .empleador}  
