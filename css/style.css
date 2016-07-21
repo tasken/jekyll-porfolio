@@ -44,11 +44,11 @@ body {
 	}
 }
 
-@media (min-width: 58em) {
+/* @media (min-width: 58em) {
 	html {
 		font-size: 14px;
 	}
-}
+} */
 
 body {
 	color: #1E1E20;
@@ -58,12 +58,12 @@ body {
 }
 
 a {
-	color: deeppink;
+	color: deepskyblue;
 }
 
 a:hover,
 a:focus {
-	color: deepskyblue;
+	color: #1E1E20;
 }
 
 a,
@@ -204,15 +204,15 @@ sub {
 /* Sidebar */
 
 .sidebar {
-	color: ghostwhite;
-	background-color: #1E1E20;
+	color: #1E1E20;
+	background-color: ghostwhite;
 	overflow-y: auto;
 	text-align: left;
 	height: 100%;
 }
 
 .sidebar a {
-	color: deepskyblue;
+	color: #1E1E20;
 }
 
 .sidebar-about h1 {
@@ -239,7 +239,7 @@ sub {
 
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
-	color: deeppink;
+	color: deepskyblue;
 }
 
 .sidebar-nav-item.active {
