@@ -68,6 +68,7 @@ a {
 a:hover,
 a:focus {
 	color: #1E1E20;
+	text-decoration: none;
 }
 
 a,
@@ -127,6 +128,10 @@ h4 {
 
 h1 + h2 {
 	margin-top: 0;
+}
+
+h1 + p.lead {
+	font-style: italic;
 }
 
 h1 + h2.trabajo {
@@ -225,7 +230,7 @@ sub {
 	line-height: 2rem;
 }
 
-.sidebar-about h1 a {
+.sidebar-about h1 a:hover {
 	color: deepskyblue;
 	text-decoration: none;
 }
