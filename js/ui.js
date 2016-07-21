@@ -3,6 +3,7 @@
 	var layout   = document.getElementById('layout'),
 		menu     = document.getElementById('menu'),
 		menuLink = document.getElementById('menuLink');
+		body = document.getElementsByTagName("body");
 
 	function toggleClass(element, className) {
 		var classes = element.className.split(/\s+/),
@@ -30,6 +31,7 @@
 		toggleClass(layout, active);
 		toggleClass(menu, active);
 		toggleClass(menuLink, active);
+		body(menuLink, fixed);
 	};
 
 }(this, this.document));
