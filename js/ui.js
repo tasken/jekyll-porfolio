@@ -21,7 +21,7 @@
 			classes.push(className);
 		}
 
-		element.className = classes.join('');
+		element.className = classes.join(' ');
 	}
 
 	menuLink.onclick = function (e) {
