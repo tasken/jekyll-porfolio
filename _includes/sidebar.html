@@ -17,23 +17,23 @@
 		<h3 class="titulo" href="#">{{ currentyear }}</h3>
 		{% capture year %}{{currentyear}}{% endcapture %}
 		{% endif %}
-			<a href="{{ site.baseurl }}{{ post.url }}" class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
+		<a href="{{ site.baseurl }}{{ post.url }}" class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
 		{% endfor %}
 
 		<h3 class="titulo">Info</h3>
 		{% assign pages_list = site.pages | sort: 'prioridad' %}
 		{% for node in pages_list %}
-			{% if node.title != null %}
-				{% if node.layout == "page" %}
-					<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
-				{% endif %}
-			{% endif %}
+		{% if node.title != null %}
+		{% if node.layout == "page" %}
+		<a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a>
+		{% endif %}
+		{% endif %}
 		{% endfor %}
 
-	<p class="small-text subtle">&copy; {{ site.time | date: '%Y' }}<br>
-	<!-- Todos los derechos reservados.<br> -->
-	Última actualización: <span title="{{ site.time }}">{{ site.time | date: '%Y.%m.%d' }}</span>
-	</p>
+		<p class="small-text subtle">&copy; {{ site.time | date: '%Y' }}<br>
+		<!-- Todos los derechos reservados.<br> -->
+		Última actualización: <span title="{{ site.time }}">{{ site.time | date: '%Y.%m.%d' }}</span>
+		</p>
 
 	</div>
 </div>
