@@ -169,6 +169,7 @@ table,
 blockquote {
 	margin-top: 1.1875rem;
 	margin-bottom: 1.1875rem;
+	text-wrap: balanced;
 }
 
 blockquote p {
