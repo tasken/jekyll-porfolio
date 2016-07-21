@@ -336,9 +336,7 @@ a.sidebar-nav-item:focus {
 /* Contacto */
 
 .contacto {
-	width: 500px;
-	padding: 30px;
-	background: #FFFFFF;
+	max-width: 500px;
 }
 
 .contacto input[type="text"],
