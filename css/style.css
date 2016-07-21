@@ -262,6 +262,7 @@ a.sidebar-nav-item:focus {
 .content ul {
 	padding-left: 1rem;
 	list-style-type: none;
+	text-indent: -.6rem;
 }
 
 .content ul li ul {
