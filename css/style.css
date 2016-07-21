@@ -57,6 +57,10 @@ body {
 	margin: 0 auto;
 }
 
+body.fixed {
+	overflow: hidden;
+}
+
 a {
 	color: deepskyblue;
 }
