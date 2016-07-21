@@ -3,7 +3,7 @@
 	var layout   = document.getElementById('layout'),
 		menu     = document.getElementById('menu'),
 		menuLink = document.getElementById('menuLink');
-		body = document.getElementsByTagName("body");
+		body1 = document.getElementsByTagName("body");
 
 	function toggleClass(element, className) {
 		var classes = element.className.split(/\s+/),
@@ -29,10 +29,10 @@
 		var fixed = 'fixed';
 
 		e.preventDefault();
-		toggleClass(layout, active);
-		toggleClass(menu, active);
-		toggleClass(menuLink, active);
-		toggleClass(body, fixed);
+		toggleClass(layout,active);
+		toggleClass(menu,active);
+		toggleClass(menuLink,active);
+		toggleClass(body1,fixed);
 	};
 
 }(this, this.document));
