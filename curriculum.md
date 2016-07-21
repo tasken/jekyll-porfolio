@@ -8,11 +8,15 @@ prioridad: 0
 **Diseñador freelance**{: .puesto} // 2010 -- presente  
 Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño editorial, comunicaciones internas, identidad corporativa, etc.  
 
+**Oficial de marketing y desarrollo web**{: .puesto} // 2015 -- presente  
+*[Amazónica](http://www.amazonica.com.ar){:target="_blank"}*{: .empleador}  
+Encargado del marketing digital, newsletters, Facebook ads, análisis de métricas, desarrollo web e e-commerce.
+
 **Diseñador gráfico**{: .puesto} // 2015 -- presente  
 *[Teodoro. Estudio Digital & Creativo](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
 Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tablet y computadoras). Diseño editorial e identidad. Desarrollo de logos para publicaciones en español de mangas. Diseño y gestión de campañas online (Facebook).  
 
-**Diseñador gráfico**{: .puesto} // 2013 -- 12.2014  
+**Diseñador gráfico**{: .puesto} // 2013 -- 2014  
 *[Grupo KPR](http://www.kpr.com.ar){:target="_blank"} -- [Búho Comunicación](http://www.buhocomunicacion.com.ar){:target="_blank"}*{: .empleador}  
 Manejo directo de cuentas medianas y grandes (de distintos sectores), diseño de identidad, corporativo y publicitaria, diseño y gestión de campañas online (Facebook), diseño editorial, desarrollo de nuevas campañas de comunicación.  
 
