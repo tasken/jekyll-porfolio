@@ -32,7 +32,7 @@
 		toggleClass(layout, active);
 		toggleClass(menu, active);
 		toggleClass(menuLink, active);
-		body(menuLink, fixed);
+		toggleClass(body, fixed);
 	};
 
 }(this, this.document));
