@@ -10,7 +10,7 @@ Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño 
 
 **Oficial de marketing y desarrollo web**{: .puesto} // 2015 -- presente  
 *[Amazónica](http://www.amazonica.com.ar){:target="_blank"}*{: .empleador}  
-Encargado del marketing digital, newsletters, Facebook ads, análisis de métricas, desarrollo web e e-commerce.
+Encargado del marketing digital, newsletters, Facebook ads, análisis de métricas, desarrollo de sitio web con e-commerce.  
 
 **Diseñador gráfico**{: .puesto} // 2015 -- presente  
 *[Teodoro. Estudio Digital & Creativo](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
