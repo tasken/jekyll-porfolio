@@ -21,9 +21,10 @@ Así es como nace el [Observatorio de Causas de Corrupción](http://acij.org.ar/
 </div>
 
 #### Notas de prensa
-Este sitio fue mencionado en los siguientes medios:
-- [Nota de lanzamiento ACIJ](http://acij.org.ar/lanzamos-el-observatorio-de-causas-de-corrupcion/){:target="_blank"}
-- [La Nación](http://www.lanacion.com.ar/1919298-solo-el-10-de-las-causas-mas-resonantes-tiene-condena){:target="_blank"}
+Este sitio fue mencionado en los siguientes medios:  
+
+- [Nota de lanzamiento ACIJ](http://acij.org.ar/lanzamos-el-observatorio-de-causas-de-corrupcion/){:target="_blank"}  
+- [La Nación](http://www.lanacion.com.ar/1919298-solo-el-10-de-las-causas-mas-resonantes-tiene-condena){:target="_blank"}  
 - [Visualización en La Nación](http://www.lanacion.com.ar/1918831-aplicacion-observatorio-de-causas-de-corrupcion){:target="_blank"}.
 
 *[ACIJ]: Asociación Civil por la Igualdad y la Justicia
