@@ -1,4 +1,4 @@
-	---
+---
 layout: proyecto
 title: "Amazónica"
 trabajo: "Desarrollo de sitio web con e-commerce"
