@@ -23,6 +23,7 @@ This is the parent `<div>` that contains the menu and the content area.
 	#layout.active #menu {
 		left: 15rem;
 		width: 15rem;
+		box-shadow: 2px 2px 2px rgba(0,0,0,.2);
 	}
 
 	#layout.active .menu-link {
