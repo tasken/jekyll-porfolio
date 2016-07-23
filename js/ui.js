@@ -26,7 +26,7 @@
 	}
 
 	function toggleAll(e) {
-		var active = 'active',
+		var active = 'active';
 		var fixed = 'fixed';
 
 		e.preventDefault();
