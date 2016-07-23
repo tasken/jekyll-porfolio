@@ -3,7 +3,7 @@
 	var layout = document.getElementById('layout'),
 	menu = document.getElementById('menu'),
 	menuLink = document.getElementById('menuLink'),
-	content = document.getElementById('main');
+	content = document.getElementById('main'),
 	body1 = document.getElementsByTagName('body')[0];
 
 	function toggleClass(element, className) {
@@ -26,7 +26,7 @@
 	}
 
 	function toggleAll(e) {
-		var active = 'active';
+		var active = 'active',
 		var fixed = 'fixed';
 
 		e.preventDefault();
