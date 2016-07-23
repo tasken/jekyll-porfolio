@@ -23,6 +23,10 @@ body.fixed {
 	overflow: hidden;
 }
 
+body.fixed .content.container {
+    opacity: .42;
+}
+
 .content {
 	padding-top: 6rem;
 	max-width: 90%;
