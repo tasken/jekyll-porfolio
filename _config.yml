@@ -23,5 +23,5 @@ author:
 # NearlyFreeSpeech
 url: 'http://augustodaniele.com.ar'
 destination: /home/public
-keep_files: [demo,heuristica]
+keep_files: [demo]
 exclude: [README.md]
