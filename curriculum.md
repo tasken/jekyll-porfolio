@@ -73,7 +73,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 - Fotografía Avanzada (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007.
 
 ## Ámbito Académico
-- **Docente *Ad Honorem*** // 2014 -– presente       
+- **Docente *Ad Honorem*** // 2014 -- presente       
 	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31 de Retiro).
 - **Adscripto** // 2016
 	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"}.
