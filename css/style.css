@@ -1,5 +1,5 @@
 html {
-	font-family: "Asap", sans-serif;
+	font-family: "Open Sans", sans-serif;
 	font-size: 12px;
 }
 
@@ -40,7 +40,7 @@ body.fixed .content.container {
 
 @media (min-width: 48em) {
 	html {
-		font-size: 12.5px;
+		font-size: 12px;
 	}
 	.content {
 		max-width: 60rem;
@@ -221,7 +221,7 @@ sub {
 }
 
 .sidebar-about h1 {
-	font-family: "Asap", sans-serif;
+	font-family: "Open Sans", sans-serif;
 	font-size: 2rem;
 	line-height: 2rem;
 }
@@ -235,7 +235,7 @@ sub {
 	margin: 0;
 	margin-top: .75rem;
 	font-size: 1rem;
-	line-height: 1rem;
+	line-height: 1.4rem;
 }
 
 .sidebar-nav-item {
@@ -277,7 +277,7 @@ a.sidebar-nav-item:focus {
 }
 
 .empleador {
-	font-size: .85rem;
+	font-size: .9rem;
 	font-weight: bold;
 	color: lightcoral;
 }
@@ -356,7 +356,7 @@ a.sidebar-nav-item:focus {
 	background: transparent;
 	margin-bottom: 10px;
 	height: 45px;
-	font-family: "Asap", sans-serif;
+	font-family: "Open Sans", sans-serif;
 }
 
 .contacto textarea {
@@ -368,7 +368,7 @@ a.sidebar-nav-item:focus {
 	cursor: pointer;
 	font-size: 14px;
 	padding: 8px 18px;
-	font-family: "Asap", sans-serif;
+	font-family: "Open Sans", sans-serif;
 }
 
 
