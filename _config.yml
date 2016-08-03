@@ -18,10 +18,10 @@ baseurl: ''
 # Info básica
 author:
   name: 'Augusto Daniele'
-  url: 'http://augustodaniele.com.ar'
+  url: 'https://augustodaniele.com.ar'
 
 # NearlyFreeSpeech
-url: 'http://augustodaniele.com.ar'
+url: 'https://augustodaniele.com.ar'
 destination: /home/public
 keep_files: [demo]
 exclude: [README.md]
