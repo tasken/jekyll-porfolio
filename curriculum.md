@@ -8,13 +8,13 @@ prioridad: 0
 **Diseñador freelance**{: .puesto} // 2010 -- presente  
 Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño editorial, comunicaciones internas, identidad corporativa, etc.  
 
-**Oficial de marketing y desarrollo web**{: .puesto} // 2015 -- presente  
+**Oficial de marketing y desarrollador web**{: .puesto} // 2015 -- presente  
 *[Amazónica](http://www.amazonica.com.ar){:target="_blank"}*{: .empleador}  
 Encargado del marketing digital, newsletters, Facebook ads, análisis de métricas, desarrollo de sitio web con e-commerce.  
 
-**Diseñador gráfico**{: .puesto} // 2015 -- presente  
+**Diseñador gráfico y desarrollador web**{: .puesto} // 2015 -- presente  
 *[Teodoro. Estudio Digital & Creativo](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
-Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tablet y computadoras). Diseño editorial e identidad. Desarrollo de logos para publicaciones en español de mangas. Diseño y gestión de campañas online (Facebook).  
+Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tablet y desktop). Diseño editorial e identidad. Desarrollo de logos para publicaciones en español de mangas. Diseño y gestión de campañas online (Facebook).  
 
 **Diseñador gráfico**{: .puesto} // 2013 -- 2014  
 *[Grupo KPR](http://www.kpr.com.ar){:target="_blank"} -- [Búho Comunicación](http://www.buhocomunicacion.com.ar){:target="_blank"}*{: .empleador}  
@@ -62,6 +62,8 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 ## Educación y capacitación
 - **Diseño Gráfico** // 2008 -- presente
 *[Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
+- I Jornada sobre Diseño Social // 2016  
+*Miradas sobre el Diseño con fines sociales*. Reflexiones sobre el diseño con función social, en el marco del Proyecto UBACyT dirigido por la Dra. María del Valle Ledesma.
 - Cátedra Miguel Benasayag, Ciencias y política, Colectivo de trabajo La Vaca // 2016.  
 *Relación entre pensamiento y vida*. Las trampas de la teoría: solución, avance, progreso como agentes de destrucción masiva. La actualidad del atropoceno. Alicia en el país sin maravillas. Habitar el devenir.
 - El libro en vivo. Organizado por EUDEBA, 2º Bienal Nacional de Diseño UBA--FADU // 2015.  
