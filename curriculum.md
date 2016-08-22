@@ -81,7 +81,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"}.
 - **Adscripto** // 2015 -- presente
 	- Historia II, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"}.
-- **Proyecto de Investigación** // 2014
+- **Proyecto de Investigación** // 2014 -- presente
 	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/post/579-36-morfologa-y-comunicacin){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
 
 ## Presentaciones y Papers
