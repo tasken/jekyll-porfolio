@@ -14,7 +14,7 @@
 		{% for post in site.categories.proyectos %}
 		{% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
 		{% if currentyear != year %}
-		<h3 class="titulo" href="#">{{ currentyear }}</h3>
+		<h3 class="titulo">{{ currentyear }}</h3>
 		{% capture year %}{{ currentyear }}{% endcapture %}
 		{% endif %}
 		<a href="{{ site.baseurl }}{{ post.url }}" class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
