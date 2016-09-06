@@ -85,15 +85,11 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/post/579-36-morfologa-y-comunicacin){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
 
 ## Presentaciones y Papers
-- **2° Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional**. *Investigaciones territoriales: experiencias y miradas* // 2016  
-*El Territorio Visualizado en Memoria y Presente.*  
-Presentación en conjunto con: Soledad Silva, Amelia Ojeda, Camila Álvarez y Andrea Cabrera.  
-- **Proyecto Si + Ter. XI Encuentro Regional** // 2015  
-*El Territorio Visualizado en Memoria y Presente.*  
-Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álvarez.  
-- **Proyecto Si + Red. X Encuentro Regional** // 2014  
-*Memorias Visuales del Territorio, Villa 31.*  
-Presentación de Paper y Exposición del proyecto en conjunto con: Lucas Giono, Soledad Silva y Amelia Ojeda.  
+- **Memorias Visuales del Territorio, Villa 31**. El Territorio Visualizado en Memoria y Presente.  
+Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álvarez.  
+	- **2° Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional**. *Investigaciones territoriales: experiencias y miradas* // 2016  
+	- **Proyecto Si + Ter. XI Encuentro Regional** // 2015  
+	- **Proyecto Si + Red. X Encuentro Regional** // 2014  
 
 ## Premios
 - «Obsesión fatal», Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.
