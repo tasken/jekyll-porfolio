@@ -12,7 +12,7 @@ Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño 
 *[Amazónica](http://www.amazonica.com.ar){:target="_blank"}*{: .empleador}  
 Encargado del marketing digital, newsletters, Facebook ads, análisis de métricas, desarrollo de sitio web con e-commerce.  
 
-**Diseñador gráfico y desarrollador web**{: .puesto} // 2015 -- presente  
+**Diseñador gráfico y desarrollador web**{: .puesto} // 2015 -- 2016  
 *[Teodoro. Estudio Digital & Creativo](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
 Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tablet y desktop). Diseño editorial e identidad. Desarrollo de logos para publicaciones en español de mangas. Diseño y gestión de campañas online (Facebook).  
 
