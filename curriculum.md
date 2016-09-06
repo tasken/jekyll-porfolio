@@ -76,13 +76,12 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 
 ## Ámbito Académico
 - **Docente *Ad Honorem*** // 2014 -- presente
-	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31 de Retiro).
-- **Adscripto** // 2016
-	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"}.
-- **Adscripto** // 2015 -- presente
-	- Historia II, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"}.
+	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31), CABA.
 - **Proyecto de Investigación** // 2014 -- presente
 	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/post/579-36-morfologa-y-comunicacin){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
+- **Adscripto**
+	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"} // 2016
+	- Historia II, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- presente
 
 ## Presentaciones y Papers
 - **Memorias Visuales del Territorio, Villa 31**. *El Territorio Visualizado en Memoria y Presente*.  
