@@ -87,9 +87,9 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 ## Presentaciones y Papers
 - **Memorias Visuales del Territorio, Villa 31**. El Territorio Visualizado en Memoria y Presente.  
 Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álvarez.  
-	- **2° Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional**. *Investigaciones territoriales: experiencias y miradas* // 2016  
-	- **Proyecto Si + Ter. XI Encuentro Regional** // 2015  
-	- **Proyecto Si + Red. X Encuentro Regional** // 2014  
+	- II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Investigaciones territoriales: experiencias y miradas* // 2016  
+	- Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas* // 2015  
+	- Jornadas Si + Red. *Docencia, investigación y desarrollo en red* // 2014  
 
 ## Premios
 - «Obsesión fatal», Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.
