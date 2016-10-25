@@ -8,7 +8,7 @@ prioridad: 0
 **Diseñador freelance**{: .puesto} // 2010 -- presente  
 Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño editorial, comunicaciones internas, identidad corporativa, etc.  
 
-**Oficial de marketing y desarrollador web**{: .puesto} // 2015 -- presente  
+**Oficial de marketing y desarrollador web**{: .puesto} // 2015 -- 2016  
 *[Amazónica](http://www.amazonica.com.ar){:target="_blank"}*{: .empleador}  
 Encargado del marketing digital, newsletters, Facebook ads, análisis de métricas, desarrollo de sitio web con e-commerce.  
 
