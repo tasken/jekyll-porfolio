@@ -361,7 +361,7 @@ a.sidebar-nav-item:focus {
 
 .contacto textarea {
 	resize: vertical;
-	height: 84px;
+	min-height: 84px;
 }
 
 .contacto input[type="submit"] {
