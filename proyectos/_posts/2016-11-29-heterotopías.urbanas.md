@@ -15,6 +15,8 @@ Al igual que el Flâneur, busco en el caos y velocidad de la ciudad, una belleza
 
 PERCEPCIÓN  ›  IMÁGENES  ›  TEXTO  ›  IMÁGENES TÉCNICAS  ›  INFORMÁTICA  ›  HIPERTEXTO
 
+<img src="{{ site.baseurl }}/img/2016_heterotopías-mapa.png" alt="Mapa" />
+
 Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciudad como un hipertexto, conectándolo con el mundo virtual: el teléfono inteligente posee un receptor GPS que al recibir señales de distintos satélites que orbitan a más de 20.000 km del planeta, es capaz de calcular su posición dentro de un sistema de coordenadas geográficas, que a su vez se pueden visualizar como un punto en un mapa.  
 
 La vinculación: realidad / mapa / mundo virtual, permite crear trazas sobre el tejido urbano, y construir así un recorrido propio. Esta traza, puede ser entendida como una «cartografía semántica hecha en tiempo real a partir de acciones y lugares recorridos…» (Di Castro). El mapa permite contextualizar la narrativa tanto de la traza, como de los registros mediáticos. El cuerpo realiza un recorrido, un texto que no puede ser leído, salvo por la mediación tecnológica de los medios locativos.  
