@@ -41,6 +41,7 @@ La vinculación: realidad / mapa / mundo virtual, permite crear trazas sobre el 
 - [Encuentro FASE - Arte + Ciencia + Tecnología](http://encuentrofase.com.ar){:target="_blank"}
 
 #### Trabajo del cual surge el proyecto
+Trabajo realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 <div class="fotorama" data-fit="cover">
 	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-02.jpg" alt="" />
