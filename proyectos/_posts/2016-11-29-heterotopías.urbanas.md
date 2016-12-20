@@ -1,7 +1,6 @@
 ---
 layout: proyecto
 title: "Heterotopías Urbanas"
-title-alt: "Heterotopías"
 trabajo: "Intervención sobre pared"
 tags: [Arte, Ciecia, Tecnología, FASE 8.0]
 ---
