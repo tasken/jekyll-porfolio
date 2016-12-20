@@ -36,5 +36,13 @@ La vinculación: realidad / mapa / mundo virtual, permite crear trazas sobre el 
 - [Ficha en FASE 8.0](http://encuentrofase.com.ar/node/97){:target="_blank"}, [mirror](https://web.archive.org/web/20161220010941/http://encuentrofase.com.ar/node/97){:target="_blank"}
 - [Encuentro FASE - Arte + Ciencia + Tecnología](http://encuentrofase.com.ar){:target="_blank"}
 
+<div class="fotorama" data-fit="cover">
+	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-01.jpg" alt="" />
+	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-02.jpg" alt="" />
+	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-03.jpg" alt="" />
+	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-04.jpg" alt="" />
+	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-05.jpg" alt="" />
+</div>
+
 *[CCR]: Centro Cultural Recoleta
 *[CABA]: Ciudad Autónoma de Buenos Aires
