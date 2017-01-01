@@ -60,7 +60,7 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - Alto desempeño y autodidacta en tecnologías digitales.
 
 ## Educación y capacitación
-- **Diseño Gráfico** // 2008 -- presente
+- **Diseño Gráfico** // 2008 -- 2016
 *[Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
 - I Jornada sobre Diseño Social // 2016  
 *Miradas sobre el Diseño con fines sociales*. Reflexiones sobre el diseño con función social, en el marco del Proyecto UBACyT dirigido por la Dra. María del Valle Ledesma.
