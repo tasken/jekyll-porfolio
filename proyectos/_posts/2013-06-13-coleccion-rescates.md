@@ -20,5 +20,3 @@ Se presenta el relato de los acontecimientos de 1921 cruzados por imágenes de l
 	<img src="{{ site.baseurl }}/img/2013_heraldo-6.jpg" alt="Interior" />
 	<img src="{{ site.baseurl }}/img/2013_heraldo-6b.jpg" data-caption="Detalle interior" alt="Detalle interior" />
 </div>
-
-<!-- ![Contratapa]({{ site.baseurl }}/img/2013_heraldo-7.jpg) -->
