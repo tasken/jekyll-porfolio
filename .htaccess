@@ -3,11 +3,7 @@ Redirect 301 /curriculum.html /curriculum/
 Redirect 301 /exposiciones.html /exposiciones/
 Redirect 301 /colofon.html /colofon/
 
-# Don't allow any pages to be framed
-X-Frame-Options: DENY
-
 ServerSignature Off
-ServerTokens Prod
 
 # Turn on XSS prevention tools
 Header set X-XSS-Protection "1; mode=block"
