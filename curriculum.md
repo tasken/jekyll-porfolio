@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Currículum vítæ"
+title: "Curriculum vitæ"
 prioridad: 0
 ---
 
@@ -24,7 +24,7 @@ Manejo directo de cuentas medianas y grandes (de distintos sectores), diseño de
 *[Industrias Culturales Argentinas](http://www.industriasculturalesargentinas.org){:target="_blank"} -- [Dot Pre Press S.A.](http://dotprepress.com){:target="_blank"}*{: .empleador}  
 Diseño y desarrollo editorial e identidad, preparación de originales para preprensa, digitalización y edición de imágenes. Interiorización con los procesos de preprensa, offset digital y ripeador de filminas.  
 
-**Project leader senior**{: .puesto} // 2011 -- 2012  
+**Project leader**{: .puesto} // 2011 -- 2012  
 *Previsite Argentina -- ONELOOP*{: .empleador}  
 Implementación de las bases de un sistema de difusión online para inmobiliarias. Dirección del sector de maquetación. Comunicación y gestión entre sectores de diseño, desarrollo, implementación, marketing y dirección. Soporte e implementación de herramientas de desk support. Implementación y optimización de nuevas tecnologías para sitios web.  
 
@@ -60,7 +60,7 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - Alto desempeño y autodidacta en tecnologías digitales.
 
 ## Educación y capacitación
-- **Diseño Gráfico** // 2008 -- 2016
+- **Diseño Gráfico** // 2008 -- 2016  
 *[Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
 - I Jornada sobre Diseño Social // 2016  
 *Miradas sobre el Diseño con fines sociales*. Reflexiones sobre el diseño con función social, en el marco del Proyecto UBACyT dirigido por la Dra. María del Valle Ledesma.
@@ -80,7 +80,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 - **Proyecto de Investigación** // 2014 -- presente
 	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/post/579-36-morfologa-y-comunicacin){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
 - **Adscripto**
-	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"} // 2016
+	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"} // 2016 -- presente
 	- Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- presente
 
 ## Presentaciones y Papers
@@ -108,7 +108,7 @@ Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álv
 - [Viajar](https://goo.gl/3Jk8tJ).
 - Cinéfilo, lector y muy curioso.
 - Participante de diversos grupos de diseño.
-- Safari de imagen nocturna, CCR // 2012
+- Safari de imagen nocturna, CCR // 2012.
 - Cofundador de la [Comunidad argentina de Mozilla](https://www.facebook.com/mozilla.ar){:target="_blank"} // 2007.
 - Taller de filosofía y cine con Marcelo Pompei // 2009 -- 2010.
 - Curso de Astronomía General, [Planetario Galileo Galilei](http://www.planetario.gov.ar){:target="_blank"} // 2008.
