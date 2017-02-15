@@ -32,7 +32,6 @@ A lo largo de esta investigación se analizará el cuerpo biopolítico en el act
 	<img src="{{ site.baseurl }}/img/2016_inv-13.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-14.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-15.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-16.jpg" alt="" />
 </div>
 
 **Palabras clave:** *activismo gráfico, argentino contemporáneo, cuerpo biopolítico, cuerpo soporte, soportes analógicos, soportes digitales, performance , convergencia de medios*.
