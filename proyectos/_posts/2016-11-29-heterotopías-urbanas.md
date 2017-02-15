@@ -51,7 +51,7 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 - [Proyecto en Instagram](https://www.instagram.com/heterotopias.urbanas/)
 - [Ficha en FASE 8.0](http://encuentrofase.com.ar/node/97){:target="_blank"} ([mirror](https://web.archive.org/web/20161220010941/http://encuentrofase.com.ar/node/97){:target="_blank"})
-- [Encuentro FASE - Arte + Ciencia + Tecnología](http://encuentrofase.com.ar){:target="_blank"}
+- [Encuentro FASE -- Arte + Ciencia + Tecnología](http://encuentrofase.com.ar){:target="_blank"}
 
 *[CCR]: Centro Cultural Recoleta
 *[CABA]: Ciudad Autónoma de Buenos Aires
