@@ -1,7 +1,7 @@
 ---
 layout: proyecto
 title: "El Cuerpo en Lucha"
-trabajo: "Proyecto de Investigación"
+trabajo: "Proyecto de Investigación en conjunto con Andrea Marin"
 comitente: "Trabajo realizado con Andrea Marin para Investigación: marcos, conceptos y herramientas, [Cátedra Caivano](https://materiainvestigacion.wordpress.com), FADU--UBA."
 tags: [Investigación]
 ---
@@ -34,7 +34,7 @@ A lo largo de esta investigación se analizará el cuerpo biopolítico en el act
 	<img src="{{ site.baseurl }}/img/2016_inv-15.jpg" alt="" />
 </div>
 
-***Palabras clave:** activismo gráfico, argentino contemporáneo, cuerpo biopolítico, cuerpo soporte, soportes analógicos, soportes digitales, performance , convergencia de medios.*
+***Palabras clave:** activismo gráfico, gráfica argentina, cuerpo biopolítico, cuerpo soporte, soportes analógicos, soportes digitales, performance, convergencia de medios.*
 
 *[UBA]: Universidad de Buenos Aires
 *[FADU]: Facultad de Arquitectura, Diseño y Urbanismo

@@ -25,8 +25,7 @@ Trabajo realizado sobre el atentado de la AMIA dentro del proyecrto *Memoria Ilu
 	<img src="{{ site.baseurl }}/img/2011_medios-11.jpg" alt="Foto #10" />
 </div>
 
-Trabajo realizados para Medios Expresivos I, cátedra Groisman en conjunto con Lucía Premuz y <a href="">Sebastian Roitter</a>.
-*Panel realizado en conjunto con Lucía Premuz y [Sebastian Roitter](https://www.behance.net/roitter)*  
+Trabajos realizados en conjunto con Lucía Premuz y [Sebastian Roitter](https://www.behance.net/roitter).
 
 *[AMIA]: Asociación Mutual Israelita Argentina
 *[UBA]: Universidad de Buenos Aires

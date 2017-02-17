@@ -60,13 +60,13 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - Alto desempeño y autodidacta en tecnologías digitales.
 
 ## Educación y capacitación
-- **Diseño Gráfico** // 2008 -- 2016  
-*[Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
+- **Diseño Gráfico** // 2016  
+*Recibido en la [Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
 - I Jornada sobre Diseño Social // 2016  
 *Miradas sobre el Diseño con fines sociales*. Reflexiones sobre el diseño con función social, en el marco del Proyecto UBACyT dirigido por la Dra. María del Valle Ledesma.
-- Cátedra Miguel Benasayag, Ciencias y política, Colectivo de trabajo La Vaca // 2016.  
+- Cátedra Miguel Benasayag, Ciencias y política, Colectivo de trabajo La Vaca // 2016  
 *Relación entre pensamiento y vida*. Las trampas de la teoría: solución, avance, progreso como agentes de destrucción masiva. La actualidad del atropoceno. Alicia en el país sin maravillas. Habitar el devenir.
-- El libro en vivo. Organizado por EUDEBA, 2º Bienal Nacional de Diseño UBA--FADU // 2015.  
+- El libro en vivo. Organizado por EUDEBA, 2º Bienal Nacional de Diseño FADU--UBA // 2015  
 Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
 - Seminario de vivienda y urbanismo social. Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro. FADU--UBA // 2014.
 - Introducción al diseño de tipografías, 1º Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
@@ -80,11 +80,11 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 - **Proyecto de Investigación** // 2014 -- presente
 	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/post/579-36-morfologa-y-comunicacin){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
 - **Adscripto**
-	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"} // 2016 -- presente
-	- Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- presente
+	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"} // 2016 -- presente.
+	- Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- presente.
 
 ## Presentaciones y Papers
-- **Memorias Visuales del Territorio, Villa 31**. *El Territorio Visualizado en Memoria y Presente*.  
+- **Memorias Visuales del Territorio, Villa 31**. *El Territorio Visualizado en Memoria y Presente*  
 Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álvarez.  
 	- II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Investigaciones territoriales: experiencias y miradas* // 2016.  
 	- Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas* // 2015.  
@@ -94,10 +94,10 @@ Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álv
 - «Obsesión fatal», Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.
 - «Mejor promedio y desempeño durante la cursada», Diseño Gráfico I, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA // 2011.
 - «Mayor crecimiento nivel I», Tipografía I, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2010.
-- Ganador del concurso del [logotipo]({% post_url /proyectos/2010-08-08-logo-rbe %}) para la «IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile», CABA, Argentina.
+- Ganador del concurso del [logotipo]({% post_url /proyectos/2010-08-08-logo-rbe %}) para la «IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile», CABA // 2010.
 
 ## Publicaciones
-- *[Memoria ilustrada: Historietas para no olvidar](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Cátedra Groisman](http://www.fadu.uba.ar/sitios/catedras/groisman){:target="_blank"}, FADU--UBA -- AMIA // 2011
+- *[Memoria ilustrada: Historietas para no olvidar](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Cátedra Groisman](http://www.fadu.uba.ar/sitios/catedras/groisman){:target="_blank"}, FADU--UBA -- AMIA // 2011.
 - *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://www.flanbe.com.ar){:target="_blank"} // 2011.
 
 ## Idiomas
