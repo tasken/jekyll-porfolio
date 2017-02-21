@@ -22,7 +22,7 @@ Manejo directo de cuentas medianas y grandes (de distintos sectores), diseño de
 
 **Diseñador gráfico**{: .puesto} // 2012 -- 2013  
 *[Industrias Culturales Argentinas](http://www.industriasculturalesargentinas.org){:target="_blank"} -- [Dot Pre Press S.A.](http://dotprepress.com){:target="_blank"}*{: .empleador}  
-Diseño y desarrollo editorial e identidad, preparación de originales para preprensa, digitalización y edición de imágenes. Interiorización con los procesos de preprensa, offset digital y ripeador de filminas.  
+Diseño y desarrollo editorial e identidad, preparación de originales para preprensa. Trabajo en coordinación con el sector de preprensa, offset digital y ripeador de filminas.  
 
 **Project leader**{: .puesto} // 2011 -- 2012  
 *Previsite Argentina -- ONELOOP*{: .empleador}  
@@ -30,7 +30,7 @@ Implementación de las bases de un sistema de difusión online para inmobiliaria
 
 **Diseñador a cargo**{: .puesto} (consultor externo) // 2010 -- 2011  
 *[Universidad Tecnológica Nacional](http://www.utn.edu.ar){:target="_blank"} -- [Subsecretaría  de Puertos y Vías Navegables](http://www.sspyvn.gov.ar){:target="_blank"}*{: .empleador}  
-Responsable de diseño y creación del estilo para el diseño del manual 2010--2011 del Plan Maestro y Director del Sistema de Navegación Troncal.  
+Responsable de diseño y creación del estilo para el manual 2010--2011 del *Plan Maestro y Director del Sistema de Navegación Troncal*.  
 
 **Fotógrafo**{: .puesto} (consultor externo) // 2010  
 *[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
@@ -38,11 +38,11 @@ Relevamiento / toma y edición de material fotográfico para el «Estudio de imp
 
 **Diagramador**{: .puesto} // 2009 -- 2010  
 *[Fundación Reunión de Administradores](http://www.reunion-adm.com){:target="_blank"} -- [Tesco S.A.](http://www.fra.org.ar/tesco.asp){:target="_blank"}*{: .empleador}  
-Diagramación de revista Reunión de Administradores, publicación mensual (tirada 2000 ejemplares, 44 páginas color), adaptación del diseño de Quark a InDesign, diseño de publicidades, panfletos, volantes, etc., soporte diseño y actualización de sitios web. Mantenimiento de sistemas.  
+Diagramación de revista *Reunión de Administradores*, publicación mensual (tirada 2000 ejemplares, 44 páginas color), adaptación del diseño de Quark a InDesign, diseño de publicidades, panfletos, volantes, soporte diseño y actualización de sitios web. Mantenimiento de sistemas.  
 
-**Diseñador junior**{: .puesto} // 2006 -- 2008  
+<!-- **Diseñador junior**{: .puesto} // 2006 -- 2008  
 *Bepinel Regalos*{: .empleador}  
-Diseño bolsas comerciales y etiquetas; fotografías para calendarios empresariales.
+Diseño bolsas comerciales y etiquetas; fotografías para calendarios empresariales. -->
 
 **Soporte gráfico y de sistemas**{: .puesto} // 2003 -- 2010  
 *[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
@@ -50,7 +50,7 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 
 ## Conocimientos
 - Desempeño avanzado con programas de diseño: Adobe Creative Cloud.
-- Conocimientos avanzados de composición tipográfica y <span title="Conjunto de usos y convenciones particulares con las que se rige la escritura por medio de elementos tipográficos en cada lengua">ortotipografía</span>.
+- Conocimientos avanzados de composición tipográfica y <span title="Conjunto de usos y convenciones particulares con las que se rige la escritura por medio de elementos tipográficos en cada lengua.">ortotipografía</span>.
 - Desarrollo de sitios HTML y CSS bajo estándares web (W3C).
 - Desarrollo de sitios en WordPress, Drupal, Jekyll, Indexhibit, Berta, Ghost y otros CMS.
 - Familiaridad con tecnologías: PHP, MySQL, Javascript.
@@ -62,16 +62,16 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 ## Educación y capacitación
 - **Diseño Gráfico** // 2016  
 *Recibido en la [Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
-- I Jornada sobre Diseño Social // 2016  
-*Miradas sobre el Diseño con fines sociales*. Reflexiones sobre el diseño con función social, en el marco del Proyecto UBACyT dirigido por la Dra. María del Valle Ledesma.
-- Cátedra Miguel Benasayag, Ciencias y política, Colectivo de trabajo La Vaca // 2016  
+- *I Jornada sobre Diseño Social* // 2016  
+*Miradas sobre el Diseño con fines sociales*. Reflexiones sobre el diseño con función social, en el marco del proyecto UBACyT dirigido por la Dra. María del Valle Ledesma.
+- Cátedra Miguel Benasayag, Ciencias y política, Colectivo de trabajo *La Vaca* // 2016  
 *Relación entre pensamiento y vida*. Las trampas de la teoría: solución, avance, progreso como agentes de destrucción masiva. La actualidad del atropoceno. Alicia en el país sin maravillas. Habitar el devenir.
-- El libro en vivo. Organizado por EUDEBA, 2º Bienal Nacional de Diseño FADU--UBA // 2015  
+- *El libro en vivo*. Organizado por EUDEBA, 2º Bienal Nacional de Diseño FADU--UBA // 2015  
 Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
-- Seminario de vivienda y urbanismo social. Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro. FADU--UBA // 2014.
-- Introducción al diseño de tipografías, 1º Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
-- Refinamiento macro y micro tipográfico. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
-- Taller de creación de imágenes audiovisuales (SEU--FADU--UBA) Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009.
+- *Seminario de vivienda y urbanismo social*. Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro. FADU--UBA // 2014.
+- *Introducción al diseño de tipografías*, 1º Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
+- *Refinamiento macro y micro tipográfico*. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
+- *Taller de creación de imágenes audiovisuales* (SEU--FADU--UBA) Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009.
 - Fotografía Avanzada (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007.
 
 ## Ámbito Académico
