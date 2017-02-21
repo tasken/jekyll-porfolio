@@ -60,7 +60,7 @@ Corporate image development, development and updating of web site design over 15
 - High performance and self-taught in digital technologies.
 
 ## Education and training
-- **Graphic Design** // 2016
+- **Graphic Design** // 2016  
 *Graduated from [Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
 - *I Conference on Social Design* // 2016  
 *Perspectives on design with social purposes*. Reflections on design with a social perspectives, under the UBACyT project led by Dr. María del Valle Ledesma.
@@ -84,7 +84,7 @@ Modules: *From text to edition* and *From edition to design*. Dictated by Patric
 	- History I, [Ex Macchi Chair](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- present.
 
 ## Presentations and papers
-- **Visual Memories of the Territory, Villa 31**. *The Territory Viewed in Memory and Present*  
+- **Memorias Visuales del Territorio, Villa 31**. *The Territory Viewed in Memory and Present*  
 Joint project with: Lucas Giono, Soledad Silva, Amelia Ojeda and Camila Álvarez.  
 	- II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Territorial reserch: experiences and looks* // 2016.  
 	- Jornadas Si + Ter. *Territorial reserch: experiences and looks* // 2015.  
