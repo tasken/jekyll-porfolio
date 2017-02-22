@@ -24,12 +24,10 @@ A lo largo de esta investigación se analizará el cuerpo biopolítico en el act
 	<img src="{{ site.baseurl }}/img/2016_inv-02.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-03.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-04.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-05.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-08.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-10.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-11.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-12.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-13.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-14.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-15.jpg" alt="" />
 </div>
