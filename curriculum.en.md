@@ -14,7 +14,7 @@ Responsible for digital marketing, newsletters, Facebook ads, metrics analysis, 
 
 **Graphic designer**{: .puesto} // 2015 -- 2016  
 *[Teodoro. Digital and Creative Studio](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
-Responsive design and development of sites with 3 or more brakepoints (mobile, tablet and desktop). Logo and publishing design. Website updates, design and management of online campaigns (Facebook).  
+Responsive design and development of sites with 3 or more breakpoints (mobile, tablet and desktop). Logo and publishing design. Website updates, design and management of online campaigns (Facebook).  
 
 **Graphic designer**{: .puesto} // 2013 -- 2014  
 *[Grupo KPR](http://www.kpr.com.ar){:target="_blank"} -- [Búho Comunicación](http://www.buhocomunicacion.com.ar){:target="_blank"}*{: .empleador}  
