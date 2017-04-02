@@ -7,7 +7,7 @@
 
 	<div class="sidebar container">
 		<div class="sidebar-about">
-			<h1><a href="{{ site.baseurl }}/">Augusto<br>Daniele</a></h1>
+			<h1><a href="{{ site.baseurl }}/">Augusto<br />Daniele</a></h1>
 			<p class="lead">{{ site.tagline }}</p>
 		</div>
 
@@ -30,8 +30,8 @@
 		<a href="{{ site.baseurl }}{{ post.url }}" class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
 		{% endfor %}
 
-		<p class="small-text subtle">&copy; {{ site.time | date: '%Y' }}<br>
-		<!-- Todos los derechos reservados.<br> -->
+		<p class="small-text subtle">&copy; {{ site.time | date: '%Y' }}<br />
+		<!-- Todos los derechos reservados.<br /> -->
 		Última actualización: <span title="{{ site.time }}">{{ site.time | date: '%Y.%m.%d' }}</span>
 		</p>
 
