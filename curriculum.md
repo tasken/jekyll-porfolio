@@ -51,7 +51,7 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 ## Conocimientos
 - Desempeño avanzado con programas de diseño: Adobe Creative Cloud.
 - Conocimientos avanzados de composición tipográfica y <span title="Conjunto de usos y convenciones particulares con las que se rige la escritura por medio de elementos tipográficos en cada lengua.">ortotipografía</span>.
-- Desarrollo de sitios HTML y CSS bajo estándares web (W3C).
+- Desarrollo de sitios con tecnologías HTML, CSS, JS y Liquid.
 - Desarrollo de sitios en WordPress, Drupal, Jekyll, Indexhibit, Berta, Ghost y otros CMS.
 - Familiaridad con tecnologías: PHP, MySQL, Javascript.
 - Experiencia de trabajo con GitHub.
@@ -126,7 +126,6 @@ Contactos laborales disponibles de ser requeridos.
 *[S.R.L.]: Sociedad de Responsabilidad Limitada
 *[HTML]: HyperText Markup Language
 *[CSS]: Cascading Style Sheets
-*[W3C]: World Wide Web Consortium
 *[CABA]: Ciudad Autónoma de Buenos Aires
 *[PHP]: PHP: Hypertext Preprocessor
 *[ALTE]: Association of Language Testers in Europe
