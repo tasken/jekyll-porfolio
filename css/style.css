@@ -134,10 +134,6 @@ h1 + h2.trabajo {
 	margin-bottom: .75rem;
 }
 
-.sidebar h3 {
-	color: ;
-}
-
 .header h1,
 .header h2,
 .header h3,
@@ -270,10 +266,6 @@ a.sidebar-nav-item:focus {
 .content ul li:before,
 .content ul li ul li:before {
 	content: "\2023 \2009";
-}
-
-.puesto {
-	color: ;
 }
 
 .empleador {
