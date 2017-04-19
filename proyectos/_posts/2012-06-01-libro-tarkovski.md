@@ -2,14 +2,26 @@
 layout: proyecto
 title: "Esculpir en el tiempo"
 trabajo: "Diseño y encuadernación de libro con faja"
-comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar), FADU--UBA."
+comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA."
 tags: [Tipográfico, Editorial, Libro]
 ---
 
 > Mientras fui un fracasado acumulé experiencia, cultura y conocimiento de la vida, fui formando mi gusto y mis concepciones artísticas. Y después, cuando llegué a ser realizador, empecé a distribuir todo aquello, a darlo, y prácticamente, no volví a acumular nada.  
 > --- <cite>Mijail Romm</cite>.
 
-Libro compuesto en *Arno Pro* y *Klavika*.
+A partir del texto *Esculpir en el tiempo* de Andrei Tarkovsky, se diseñó un sistema de dobles páginas para un libro de texto. La propuesta cuenta con las siguientes partes:
+
+1. Faja
+2. Tapa
+3. Portadilla
+4. Portada
+5. Página de derechos o legales
+6. Índice
+7. Dedicatoria
+8. Apertura de capítulo y continuación
+9. Contratapa
+
+El sistema fue compuesto utilizando las tipografías *Arno Pro* y *Klavika*.
 
 <div class="fotorama">
 	<img src="{{ site.baseurl }}/img/2012-libro1.jpg" alt="Portada con faja" />
@@ -18,4 +30,4 @@ Libro compuesto en *Arno Pro* y *Klavika*.
 	<img src="{{ site.baseurl }}/img/2012-libro4.jpg" alt="Doble página con notas al pié" />
 </div>
 
-Trabajo publicado en el [Flickr de la cátedra](https://www.flickr.com/photos/catedracosgaya/8417139667/in/album-72157632619702448/).
+Trabajo publicado en el [Flickr de la cátedra](https://www.flickr.com/photos/catedracosgaya/8417139667/in/album-72157632619702448/){:target="_blank"}.

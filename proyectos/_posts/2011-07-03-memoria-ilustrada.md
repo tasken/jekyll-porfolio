@@ -1,13 +1,13 @@
 ---
 layout: proyecto
-title: "Memoria Ilustrada: El Hallazgo"
+title: "Memoria ilustrada: El hallazgo"
 title-alt: "Memoria Ilustrada"
 trabajo: "Relato gráfico en distintos soportes"
-comitente: "Trabajo realizado para Medios Expresivos I, [Cátedra Groisman](https://catedragroisman.wordpress.com/), FADU--UBA."
+comitente: "Trabajo realizado para Medios Expresivos I, [Cátedra Groisman](https://catedragroisman.wordpress.com/){:target="_blank"}, FADU--UBA."
 tags: [Historieta, Fotografía]
 ---
 
-Trabajo realizado sobre el atentado de la AMIA dentro del proyecrto *Memoria Ilustrada*. Historieta publicada en *[Memoria Ilustrada: Historietas para no Olvidar](http://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja/23)* (FADU--UBA y AMIA) y en el [Flickr de la cátedra](https://www.flickr.com/photos/catedragroisman/5723330979/).
+Trabajo realizado sobre el atentado de la AMIA dentro del proyecrto *Memoria ilustrada*. Historieta publicada en *[Memoria ilustrada: historietas para no olvidar](http://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja/23){:target="_blank"}* (FADU--UBA y AMIA) y en el [Flickr de la cátedra](https://www.flickr.com/photos/catedragroisman/5723330979/){:target="_blank"}.
 
 ![Historieta]({{ site.baseurl }}/img/2011_medios-01.jpg)
 
@@ -25,7 +25,7 @@ Trabajo realizado sobre el atentado de la AMIA dentro del proyecrto *Memoria Ilu
 	<img src="{{ site.baseurl }}/img/2011_medios-11.jpg" alt="Foto #10" />
 </div>
 
-Trabajos realizados en conjunto con Lucía Premuz y [Sebastian Roitter](https://www.behance.net/roitter).
+Trabajos realizados en conjunto con Lucía Premuz y [Sebastian Roitter](https://www.behance.net/roitter){:target="_blank"}.
 
 *[AMIA]: Asociación Mutual Israelita Argentina
 *[UBA]: Universidad de Buenos Aires

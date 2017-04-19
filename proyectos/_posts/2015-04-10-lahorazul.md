@@ -2,7 +2,7 @@
 layout: proyecto
 title: "La Horazul"
 trabajo: "Sitio web"
-comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
+comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com){:target="_blank"}."
 published: false
 tags: [WordPress, Responsivo, Web]
 ---

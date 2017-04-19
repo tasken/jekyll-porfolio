@@ -3,7 +3,7 @@ layout: proyecto
 title: "Observatorio de Causas de Corrupción"
 title-alt: "Observatorio de Causas"
 trabajo: "Sitio web"
-comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
+comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com){:target="_blank"}."
 tags: [WordPress, Responsivo, Web]
 ---
 

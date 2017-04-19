@@ -48,11 +48,11 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 - Encuentro FASE 8.0, Pensar la praxis, CCR, CABA // 2016
 
 #### Menciones periodísticas
-- *Encuentro con otro arte*, [Revista Ñ](http://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html)
-- *FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*, [blog de María de Vedia](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/)
+- *Encuentro con otro arte*, [Revista Ñ](http://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"}
+- *FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*, [blog de María de Vedia](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"}
 
 #### Links complementarios
-- [Proyecto en Instagram](https://www.instagram.com/heterotopias.urbanas/)
+- [Proyecto en Instagram](https://www.instagram.com/heterotopias.urbanas/){:target="_blank"}
 - [Ficha en FASE 8.0](http://encuentrofase.com.ar/node/97){:target="_blank"} ([mirror](https://web.archive.org/web/20161220010941/http://encuentrofase.com.ar/node/97){:target="_blank"})
 - [Encuentro FASE -- Arte + Ciencia + Tecnología](http://encuentrofase.com.ar){:target="_blank"}
 

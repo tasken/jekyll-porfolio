@@ -1,8 +1,8 @@
 ---
 layout: proyecto
-title: "Medicina del Viajero"
+title: "Medicina del viajero"
 trabajo: "Infografía"
-comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
+comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA."
 tags: [Infografía]
 ---
 
@@ -23,4 +23,3 @@ Texto, imagen y visualización de información construyendo un sentido global: e
 ***Fuente:** Elaboración propia a partir de datos de la OPS, Proyecto de Información de la Salud y Análisis. Iniciativa Regional de Datos Básicos en Salud. Washington DC, 2010.*
 
 *[OPS]: Organización Panamericana de la Salud
-*[DC]: District of Columbia

@@ -3,7 +3,7 @@ layout: proyecto
 title: "Editorial sobre «El Gallego» Soto"
 title-alt: "Colección Rescates"
 trabajo: "Editorial"
-comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
+comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA."
 tags: [Editorial]
 ---
 
