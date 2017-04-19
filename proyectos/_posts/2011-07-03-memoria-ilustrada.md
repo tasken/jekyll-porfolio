@@ -3,7 +3,7 @@ layout: proyecto
 title: "Memoria ilustrada: El hallazgo"
 title-alt: "Memoria Ilustrada"
 trabajo: "Relato gráfico en distintos soportes"
-comitente: "Trabajo realizado para Medios Expresivos I, [Cátedra Groisman](https://catedragroisman.wordpress.com/){:target="_blank"}, FADU--UBA."
+comitente: "Trabajo realizado para Medios Expresivos I, [Cátedra Groisman](https://catedragroisman.wordpress.com/), FADU--UBA."
 tags: [Historieta, Fotografía]
 ---
 

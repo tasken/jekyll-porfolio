@@ -2,7 +2,7 @@
 layout: proyecto
 title: "El Cuerpo en Lucha"
 trabajo: "Proyecto de Investigación en conjunto con Andrea Marin"
-comitente: "Trabajo realizado con Andrea Marin para Investigación: marcos, conceptos y herramientas, [Cátedra Caivano](https://materiainvestigacion.wordpress.com){:target="_blank"}, FADU--UBA."
+comitente: "Trabajo realizado con Andrea Marin para Investigación: marcos, conceptos y herramientas, [Cátedra Caivano](https://materiainvestigacion.wordpress.com), FADU--UBA."
 tags: [Investigación]
 ---
 

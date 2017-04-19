@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Sonoridades visuales"
 trabajo: "Editorial experimental"
-comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA."
+comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
 tags: [Experimental, Editorial]
 ---
 

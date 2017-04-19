@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Ramiro Quintana"
 trabajo: "Diseño y desarrollo de sitio web responsivo"
-comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com){:target="_blank"}."
+comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
 tags: [Desarrollo, Responsivo, Web]
 ---
 

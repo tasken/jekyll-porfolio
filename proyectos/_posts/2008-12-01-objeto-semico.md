@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Objéto sémico"
 trabajo: "Trabajo proyectual"
-comitente: "Trabajo realizado para Introducción al Conocimiento Proyectual I, [Cátedra Speranza](http://www.catedrasperanza.com.ar){:target="_blank"}, FADU--UBA."
+comitente: "Trabajo realizado para Introducción al Conocimiento Proyectual I, [Cátedra Speranza](http://www.catedrasperanza.com.ar), FADU--UBA."
 published: false
 tags: [Proyectual, Objetual]
 ---

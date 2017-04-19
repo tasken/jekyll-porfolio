@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Esculpir en el tiempo"
 trabajo: "Diseño y encuadernación de libro con faja"
-comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA."
+comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar), FADU--UBA."
 tags: [Tipográfico, Editorial, Libro]
 ---
 

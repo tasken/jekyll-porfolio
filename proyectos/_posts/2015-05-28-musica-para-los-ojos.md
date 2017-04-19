@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Música para los ojos"
 trabajo: "Animación experimental del video Paraná del grupo Entre Ríos"
-comitente: "Trabajo realizado para Diseño III, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA."
+comitente: "Trabajo realizado para Diseño III, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
 published: false
 tags: [Experimental, Audiovisual]
 ---

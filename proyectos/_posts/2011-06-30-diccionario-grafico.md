@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Diccionario gráfico"
 trabajo: "Audiovisual experimental"
-comitente: "Trabajo realizado para Diseño I, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA."
+comitente: "Trabajo realizado para Diseño I, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
 tags: [Audiovisual, Experimental]
 ---
 

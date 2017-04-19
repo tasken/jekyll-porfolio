@@ -3,7 +3,7 @@ layout: proyecto
 title: "Espécimen de la tipografía Espinosa Nova"
 title-alt: "Espécimen tipográfico"
 trabajo: "Espécimen tipográfico"
-comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA."
+comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar), FADU--UBA."
 tags: [Tipográfico, Editorial]
 ---
 

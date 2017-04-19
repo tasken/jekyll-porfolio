@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Medicina del viajero"
 trabajo: "Infografía"
-comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA."
+comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
 tags: [Infografía]
 ---
 
