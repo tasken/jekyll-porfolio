@@ -1,7 +1,7 @@
 ---
 layout: proyecto
 title: "Esculpir en el tiempo"
-trabajo: "Dieño y encuadernación de libro con faja"
+trabajo: "Diseño y encuadernación de libro con faja"
 comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar), FADU--UBA."
 tags: [Tipográfico, Editorial, Libro]
 ---
@@ -12,8 +12,10 @@ tags: [Tipográfico, Editorial, Libro]
 Libro compuesto en *Arno Pro* y *Klavika*.
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2012-libro1.jpg" alt="Portada con funda" />
+	<img src="{{ site.baseurl }}/img/2012-libro1.jpg" alt="Portada con faja" />
 	<img src="{{ site.baseurl }}/img/2012-libro2.jpg" alt="Detalle de la portada" />
 	<img src="{{ site.baseurl }}/img/2012-libro3.jpg" alt="Interior, apertura de capítulo" />
 	<img src="{{ site.baseurl }}/img/2012-libro4.jpg" alt="Doble página con notas al pié" />
 </div>
+
+Trabajo publicado en el [Flickr de la cátedra](https://www.flickr.com/photos/catedracosgaya/8417139667/in/album-72157632619702448/).
