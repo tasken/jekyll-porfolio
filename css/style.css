@@ -94,6 +94,10 @@ img {
 	border-radius: 4px;
 }
 
+.content img {
+	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+}
+
 h1 {
 	font-size: 2.8125rem;
 	line-height: 3.5625rem;
