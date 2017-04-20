@@ -1,9 +1,9 @@
 ---
 layout: proyecto
-title: "El Cuerpo en Lucha"
-trabajo: "Proyecto de Investigación en conjunto con Andrea Marin"
+title: "El cuerpo en lucha"
+trabajo: "Proyecto de investigación en conjunto con Andrea Marin"
 comitente: "Trabajo realizado con Andrea Marin para Investigación: marcos, conceptos y herramientas, [Cátedra Caivano](https://materiainvestigacion.wordpress.com), FADU--UBA."
-tags: [Investigación]
+tags: [Investigación, Teórico]
 ---
 
 ### El cuerpo humano en su relación con los diversos soportes analógicos y digitales en el activismo gráfico argentino contemporáneo (1983–2016)
