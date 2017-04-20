@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow: /demo
+Disallow: /curriculum.en
