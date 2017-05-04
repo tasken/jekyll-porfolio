@@ -7,7 +7,7 @@ tags: [WordPress, Responsivo, Web, Porfolio]
 
 [Susana González Bianchi](http://www.gonzalezbianchi.com.ar/){:target="_blank"} es una artista argentina nacida en la ciudad de Trelew, en provincia de Chubut. Susana necesitaba un sitio web, donde poder mostrar sus trabajos y contar de sus diversas exposiciones.
 
-> En los últimos años me dedico casi exclusivamente a esta última, ya que la libertad y placer que me produce trabajar con los pigmentos y el agua sobre el papel, me han atrapado totalmente.
+> En los últimos años me dedico casi exclusivamente a esta última, ya que la libertad y placer que me produce trabajar con los pigmentos y el agua sobre el papel, me han atrapado totalmente.  
 > Distintas técnicas y trazos me han permitido desarrollar mi creatividad y plasmarla en paisajes, naturalezas y flores.
 
 Para el proyecto se desarrolló un sitio web responsivo, que siguiera la línea estética de los cuadros de la artista, pero que a su vez no compita con ellos.
