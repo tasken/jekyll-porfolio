@@ -3,6 +3,10 @@ html {
 	font-size: 12px;
 }
 
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: #ddd; }
+::-webkit-scrollbar-thumb { background: #666; }
+
 html,
 body {
 	width: 100%;
