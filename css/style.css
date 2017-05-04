@@ -95,7 +95,7 @@ img {
 }
 
 .content img {
-	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+	box-shadow: 2px 2px 6px rgba(0,0,0,.2);
 }
 
 h1 {
@@ -314,7 +314,7 @@ a.sidebar-nav-item:focus {
 
 .fotorama__stage {
 	border-radius: 4px;
-	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+	box-shadow: 2px 2px 6px rgba(0,0,0,.2);
 }
 
 .fotorama__nav-wrap {
@@ -332,7 +332,7 @@ a.sidebar-nav-item:focus {
 
 video {
 	width: 100%;
-	box-shadow: 2px 2px 2px rgba(0,0,0,.2);
+	box-shadow: 2px 2px 6px rgba(0,0,0,.2);
 	border-radius: 4px;
 }
 
