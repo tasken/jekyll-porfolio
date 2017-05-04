@@ -11,15 +11,7 @@ tags: [Tipográfico, Editorial, Libro]
 
 A partir del texto *Esculpir en el tiempo* de Andrei Tarkovsky, se diseñó un sistema de dobles páginas para un libro de texto. La propuesta cuenta con las siguientes partes:
 
-1. Faja
-2. Tapa
-3. Portadilla
-4. Portada
-5. Página de derechos o legales
-6. Índice
-7. Dedicatoria
-8. Apertura de capítulo y continuación
-9. Contratapa
+> Faja, Tapa, Portadilla, Portada, Página de legales, Índice, Dedicatoria, Apertura de capítulo y continuación, y Contratapa
 
 El sistema fue compuesto utilizando las tipografías *Arno Pro* y *Klavika*.
 
