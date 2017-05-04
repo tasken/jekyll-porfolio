@@ -10,7 +10,7 @@ Diseño y desarrollo del sitio del [Dr. Ramiro Quintana](http://www.rquintana.co
 Se utilizó el framework Skel para el desarrollo y la librería Layers para el menú fuera del canvas.
 El sitio fue desarrollado para ser visualziado correctamente en equipos móbiles, tablets y monitores convencionales.
 
-<div class="fotorama" data-fit="cover">
+<div class="fotorama">
 	<img src="{{ site.baseurl }}/img/2015_rquintana1.jpg" alt="Inicio" />
 	<img src="{{ site.baseurl }}/img/2015_rquintana2.jpg" alt="Bienvenida" />
 	<img src="{{ site.baseurl }}/img/2015_rquintana3.jpg" alt="Sección Información" />

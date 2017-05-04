@@ -30,7 +30,7 @@ Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciu
 #### Trabajo del cual surge el proyecto
 Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
-<div class="fotorama" data-fit="cover">
+<div class="fotorama">
 	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-02.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-03.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-04.jpg" alt="" />

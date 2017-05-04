@@ -13,7 +13,7 @@ Uno de los valores fuertes de Amazónica, y de su dueña Soledad, es la de fomen
 
 Se implementó un sitio web personalizado con e-Commerce que esté integrado a diversos métodos de pago online (MercadoPago y PayPal) y de envío (OCA ePack). Se expandieron las funciones del carrito tradicional a las características de cada línea de productos y de cada ilustradora. 
 
-<div class="fotorama" data-fit="cover">
+<div class="fotorama">
 	<img src="{{ site.baseurl }}/img/2016_amazonica1.jpg" alt="Inicio" />
 	<img src="{{ site.baseurl }}/img/2016_amazonica2.jpg" alt="Inicio (cont.)" />
 	<img src="{{ site.baseurl }}/img/2016_amazonica3.jpg" alt="Página ilustradora" />

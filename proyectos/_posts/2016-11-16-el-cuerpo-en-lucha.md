@@ -19,7 +19,7 @@ A lo largo de esta investigación se analizará el cuerpo biopolítico en el act
 
 #### Presentación (abreviada)
 
-<div class="fotorama" data-fit="cover">
+<div class="fotorama">
 	<img src="{{ site.baseurl }}/img/2016_inv-01.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-02.jpg" alt="" />
 	<img src="{{ site.baseurl }}/img/2016_inv-03.jpg" alt="" />
