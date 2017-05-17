@@ -10,7 +10,7 @@ tags: [WordPress, Responsivo, Web, Porfolio]
 > En los últimos años me dedico casi exclusivamente a esta última, ya que la libertad y placer que me produce trabajar con los pigmentos y el agua sobre el papel, me han atrapado totalmente.  
 > Distintas técnicas y trazos me han permitido desarrollar mi creatividad y plasmarla en paisajes, naturalezas y flores.
 
-Para el proyecto se desarrolló un sitio web responsivo, que siguiera la línea estética de los cuadros de la artista, pero que a su vez no compita con ellos.
+Para el proyecto se desarrolló un sitio web responsivo, que siguiera la línea estética de los cuadros de la artista, pero que a su vez no compitiera con ellos.
 
 <div class="fotorama">
 	<img src="{{ site.baseurl }}/img/2017_susana1.jpg" alt="Inicio" />
