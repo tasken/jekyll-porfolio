@@ -17,7 +17,9 @@
 
 <script src="{{ site.baseurl }}/js/ui.js"></script>
 
+{% if jekyll.environment == "nfs" %}
 {% include google_analytics.html %}
+{% endif %}
 
 </body>
 

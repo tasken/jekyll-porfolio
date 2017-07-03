@@ -3,7 +3,11 @@
   <meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 	<meta name="description" content="{{ site.tagline }}">
-	
+
+	{% if jekyll.environment != "nfs" %}
+	<meta name="robots" content="noindex nofollow">
+	{% endif %}
+
 	<title>
 	{% if page.title == 'Bienvenidos' %} {{ site.author.name }} &#124; {{ site.tagline }}
 	{% else %}
