@@ -1,43 +1,42 @@
 <head>
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
-	<meta name="description" content="{{ site.tagline }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+  <meta name="description" content="{{ site.tagline }}">
+  {% if jekyll.environment != "nfs" %}
+  <meta name="robots" content="noindex nofollow">
+  {% endif %}
 
-	{% if jekyll.environment != "nfs" %}
-	<meta name="robots" content="noindex nofollow">
-	{% endif %}
+  <title>
+  {% if page.title == 'Bienvenidos' %} {{ site.author.name }} &#124; {{ site.tagline }}
+  {% else %}
+  {{ page.title }} &#124; {{ site.title }}
+  {% endif %}
+  </title>
+  
+  <!-- CSS -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/poole.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/hyde.css">
+  <link  href="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/side-menu.css">
+  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
+  
+  <!-- Tipografías -->
+  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Asap:400,400i,700,700i">
+  
+  <!-- Librerías -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+  
+  <!-- Íconos -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/apple-touch-icon-144-precomposed.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
 
-	<title>
-	{% if page.title == 'Bienvenidos' %} {{ site.author.name }} &#124; {{ site.tagline }}
-	{% else %}
-	{{ page.title }} &#124; {{ site.title }}
-	{% endif %}
-	</title>
-	
-	<!-- CSS -->
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/poole.css">
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/hyde.css">
-	<link  href="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css" rel="stylesheet">
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/side-menu.css">
-	<link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
-	
-	<!-- Tipografías -->
-	<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Asap:400,400i,700,700i">
-	
-	<!-- Librerías -->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
-	
-	<!-- Íconos -->
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/apple-touch-icon-144-precomposed.png">
-	<link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
-
-	<!-- Open Graph -->
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Augusto Daniele" />
-	<meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
-	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/ui/home_brothers.jpg" />
-	<meta property="og:description" content="{{ site.tagline }}" />
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Augusto Daniele" />
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/ui/home_brothers.jpg" />
+  <meta property="og:description" content="{{ site.tagline }}" />
 
 </head>
