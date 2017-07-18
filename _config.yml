@@ -1,11 +1,6 @@
 # Entorno
 timezone: America/Argentina/Buenos_Aires
 
-# GitHub Pages:
-# gems:
-#   - jekyll-sitemap
-#   - jekyll-feed
-
 # Links
 permalink: '/:categories/:title/'
 
