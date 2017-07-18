@@ -3,14 +3,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
   <meta name="description" content="{{ site.tagline }}">
-  <title>
-  {% if page.title == 'Bienvenidos' %} {{ site.author.name }} &#124; {{ site.tagline }}
-  {% else %}
-  {{ page.title }} &#124; {{ site.title }}
-  {% endif %}
-  </title>
   {% if jekyll.environment != "nfs" %}<meta name="robots" content="noindex nofollow">{% endif %}
   {% if jekyll.environment != "nfs" %}<meta name="google-site-verification" content="tWQl9YznAVZUAEi9TlEuMZTgETlJgCb6AByjydmbiuk">{% endif %}
+  <title>{% if page.title == 'Bienvenidos' %}{{ site.author.name }} &#124; {{ site.tagline }}{% else %}{{ page.title }} &#124; {{ site.title }}{% endif %}</title>
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}/css/hyde.css">
