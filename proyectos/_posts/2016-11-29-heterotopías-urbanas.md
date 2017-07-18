@@ -9,7 +9,7 @@ Hacia finales del siglo XIX, Baudelaire describe como el *Flâneur*, un explorad
 
 <img src="{{ site.baseurl }}/img/2016_heterotopías-1.jpg" alt="Obra expuesta en el Centro Cultural Recoleta" />
 
-Este trabajo intenta explorar las fronteras de los mundos analógicos y digitales. Trabajando con recorridos urbanos, ejecutando distintos tipos de movimiento: el tradicional (efímero, registrado con dispositivos maquínicos) y el virtual (inmaterial, registrado vía GPS), poniendo en evidencia el trazado realizado, conformando una serie de letras, un manifiesto, un acto político/poético.  
+Este trabajo explora las fronteras de los mundos analógicos y digitales. Trabajando con recorridos urbanos, ejecutando distintos tipos de movimiento: el tradicional (efímero, registrado con dispositivos maquínicos) y el virtual (inmaterial, registrado vía GPS), poniendo en evidencia el trazado realizado, conformando una serie de letras, un manifiesto, un acto político/poético.  
 
 PERCEPCIÓN  ›  IMÁGENES  ›  TEXTO  ›  IMÁGENES TÉCNICAS  ›  INFORMÁTICA  ›  HIPERTEXTO
 
