@@ -49,9 +49,9 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 #### Menciones
 - **[*Audiovisual Design with obstacles*](http://htwo.org/2017/08/25/laferla-szlifman/){:target="_blank"}**, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20170904005648/http://htwo.org/2017/08/25/laferla-szlifman/){:target="_blank"})
-- Publicado en el catálogo de la III Bienal FADU, materia Diseño Audiovisual, cátedra La Ferla, carrera de Diseño Gráfico.
-- *Encuentro con otro arte*, [Revista Ñ](http://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"}
-- *FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*, [blog de María de Vedia](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"}
+- Publicado en el catálogo de la III Bienal FADU, materia Diseño Audiovisual, cátedra La Ferla, carrera de Diseño Gráfico
+- *Encuentro con otro arte*, [Revista Ñ](http://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011746/https://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html))
+- *FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*, [blog de María de Vedia](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011915/http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/))
 
 #### Links complementarios
 - [Proyecto en Instagram](https://www.instagram.com/heterotopias.urbanas/){:target="_blank"}
@@ -59,5 +59,6 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 - [Encuentro FASE -- Arte + Ciencia + Tecnología](http://encuentrofase.com.ar){:target="_blank"}
 
 *[CCR]: Centro Cultural Recoleta
+*[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
 *[CABA]: Ciudad Autónoma de Buenos Aires
 *[GPS]: Global Positioning System
