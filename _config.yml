@@ -19,3 +19,6 @@ url: 'https://augustodaniele.com.ar'
 destination: /home/public
 keep_files: ['demo', '.well-known']
 exclude: [README.md]
+
+sass:
+    style: compressed

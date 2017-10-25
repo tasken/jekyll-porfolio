@@ -7,19 +7,15 @@
   <meta name="google-site-verification" content="tWQl9YznAVZUAEi9TlEuMZTgETlJgCb6AByjydmbiuk">{% endif %}
   <title>{% if page.title == 'Bienvenidos' %}{{ site.author.name }} &#124; {{ site.tagline }}{% else %}{{ page.title }} &#124; {{ site.title }}{% endif %}</title>
   <!-- CSS -->
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/poole.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/hyde.css">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/side-menu.css">
-  <link rel="stylesheet" href="{{ site.baseurl }}/css/style.css">
-  
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/style.css?{{site.time | date: '%s%N'}}">
+
   <!-- Tipografías -->
   <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Asap:400,400i,700,700i">
-  
+
   <!-- Librerías -->
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
-  
+
   <!-- Íconos -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/apple-touch-icon-144-precomposed.png">
   <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
