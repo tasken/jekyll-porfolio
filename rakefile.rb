@@ -3,7 +3,15 @@ task :default do
 end
 
 task :dev do
-    sh 'bundle exec jekyll build'
+    sh 'bundle exec jekyll build --destination _site/'
+end
+
+task :serve do
+    sh 'bundle exec jekyll serve --destination _site/'
+end
+
+task :clean do
+    sh 'bundle exec jekyll clean --destination _site/'
 end
 
 task :pull do
