@@ -11,7 +11,7 @@ Uno de los valores fuertes de Amazónica, y de su dueña Soledad, es la de fomen
 > Unimos las habilidades de mucha gente y en esa cadena donde cada uno despliega su arte, generamos piezas bellas.  
 > Nos preocupamos por el proceso de producción. La cerámica se fabrica en una cooperativa, trabajamos en conjunto con ilustradoras nacionales y proveedores independientes.
 
-Se implementó un sitio web personalizado con e-Commerce que esté integrado a diversos métodos de pago online (MercadoPago y PayPal) y de envío (OCA ePack). Se expandieron las funciones del carrito tradicional a las características de cada línea de productos y de cada ilustradora. 
+En base a un diseño desarrollado por el equipo de diseño de Amazónica, se implementó un sitio web con e-Commerce con sistemas de pago (MercadoPago) y de envío (OCA ePack) integrados. Se expandieron las funciones del carrito tradicional a las características de cada línea de productos y de cada ilustradora.
 
 <div class="fotorama">
 	<img src="{{ site.baseurl }}/img/2016_amazonica1.jpg" alt="Inicio" />
