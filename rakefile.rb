@@ -1,5 +1,5 @@
 task :default do
-    sh 'JEKYLL_ENV=nfs bundle exec jekyll build'
+    sh 'JEKYLL_ENV=prod bundle exec jekyll build'
 end
 
 task :dev do
@@ -8,6 +8,10 @@ end
 
 task :serve do
     sh 'bundle exec jekyll serve --destination _site/'
+end
+
+task :serveprod do
+    sh 'JEKYLL_ENV=prod bundle exec jekyll serve --destination _site/'
 end
 
 task :clean do
@@ -25,11 +29,3 @@ end
 task :reset do
     sh 'git reset --hard HEAD'
 end
-
-# task :default do
-#     sh 'git clone https://github.com/tasken/tasken.github.io.git'
-#     Dir.chdir('tasken.github.io'){
-#         sh 'JEKYLL_ENV=nfs jekyll build'
-#     }
-#     sh 'rm -rf tasken.github.io'
-# end
