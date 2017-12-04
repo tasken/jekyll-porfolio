@@ -1,0 +1,91 @@
+#layout, #menu, a.menu-link, .content {
+    transition: all 0.2s ease-out;
+}
+
+#layout {
+    position: relative;
+    padding-left: 0;
+    &.active {
+        #menu {
+            left: 15rem;
+            width: 15rem;
+            box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+        }
+        .menu-link {
+            left: 15rem;
+        }
+    }
+}
+
+#menu {
+    margin-left: -15rem;
+    width: 15rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.menu-link {
+    width: 100%;
+    position: fixed;
+    display: block;
+    top: 0;
+    left: 0;
+    background: #000;
+    background: rgba(0, 0, 0, 0.7);
+    font-size: 10px;
+    z-index: 10;
+    box-sizing: content-box;
+    padding: 1.5rem 1rem;
+    span {
+        position: relative;
+        display: block;
+        background-color: #fff;
+        width: 1.5rem;
+        height: 0.2em;
+        &:before, &:after {
+            background-color: #fff;
+            width: 1.5rem;
+            height: 0.2em;
+        }
+        &:before {
+            position: absolute;
+            margin-top: -0.6em;
+            content: '';
+        }
+        &:after {
+            position: absolute;
+            content: '';
+            margin-top: 0.6em;
+        }
+    }
+}
+
+@media (min-width: 48em) {
+
+    #layout {
+        padding-left: 15rem;
+        left: 0;
+    }
+    #menu { left: 15rem; }
+    .menu-link {
+        position: fixed;
+        left: 15rem;
+        display: none;
+    }
+    #layout.active .menu-link { left: 15rem; }
+
+}
+
+@media (max-width: 48em) {
+
+    #layout.active {
+        position: relative;
+        left: 15rem;
+    }
+
+}

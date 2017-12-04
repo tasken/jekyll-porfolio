@@ -20,7 +20,13 @@ destination: /home/public
 keep_files: ['demo', '.well-known']
 exclude: ["README.md","Gemfile*", "rakefile"]
 
-plugins: [jekyll-tidy]
+plugins:
+    - jekyll-tidy
+    - jekyll-assets
 
-sass:
-    style: compressed
+assets:
+
+    compressors:
+        uglifier:
+            comments: none
+
