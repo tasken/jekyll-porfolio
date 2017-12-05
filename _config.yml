@@ -18,15 +18,9 @@ author:
 url: 'https://augustodaniele.com.ar'
 destination: /home/public
 keep_files: ['demo', '.well-known']
-exclude: ["README.md","Gemfile*", "rakefile"]
+exclude: ['README.md','Gemfile*', 'rakefile']
 
 plugins:
     - jekyll-tidy
     - jekyll-assets
-
-assets:
-
-    compressors:
-        uglifier:
-            comments: none
 

@@ -1,9 +1,5 @@
 task :default do
-    sh 'JEKYLL_ENV=prod bundle exec jekyll build'
-end
-
-task :dev do
-    sh 'bundle exec jekyll build --destination _site/'
+    sh 'JEKYLL_ENV=production bundle exec jekyll build'
 end
 
 task :serve do
@@ -11,19 +7,11 @@ task :serve do
 end
 
 task :serveprod do
-    sh 'JEKYLL_ENV=prod bundle exec jekyll serve --destination _site/'
+    sh 'JEKYLL_ENV=production bundle exec jekyll serve --destination _site/'
 end
 
 task :clean do
     sh 'bundle exec jekyll clean --destination _site/'
-end
-
-task :pull do
-    sh 'git pull'
-end
-
-task :status do
-    sh 'git status'
 end
 
 task :reset do

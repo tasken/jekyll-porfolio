@@ -1,6 +1,7 @@
-#layout, #menu, a.menu-link, .content {
-    transition: all 0.2s ease-out;
-}
+#layout,
+#menu,
+a.menu-link,
+.content {transition: all .2s ease-out; }
 
 #layout {
     position: relative;
@@ -9,11 +10,9 @@
         #menu {
             left: 15rem;
             width: 15rem;
-            box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+            box-shadow: 2px 2px 2px rgba(#000, .2);
         }
-        .menu-link {
-            left: 15rem;
-        }
+        .menu-link { left: 15rem; }
     }
 }
 
@@ -36,7 +35,7 @@
     top: 0;
     left: 0;
     background: #000;
-    background: rgba(0, 0, 0, 0.7);
+    background: rgba(#000, .7);
     font-size: 10px;
     z-index: 10;
     box-sizing: content-box;
@@ -46,22 +45,16 @@
         display: block;
         background-color: #fff;
         width: 1.5rem;
-        height: 0.2em;
+        height: .2em;
         &:before, &:after {
             background-color: #fff;
             width: 1.5rem;
-            height: 0.2em;
-        }
-        &:before {
-            position: absolute;
-            margin-top: -0.6em;
-            content: '';
-        }
-        &:after {
+            height: .2em;
             position: absolute;
             content: '';
-            margin-top: 0.6em;
         }
+        &:before { margin-top: -.6em; }
+        &:after { margin-top: .6em; }
     }
 }
 
