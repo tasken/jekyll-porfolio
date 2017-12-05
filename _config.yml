@@ -23,6 +23,7 @@ exclude: ['README.md','Gemfile*', 'rakefile']
 plugins:
     - jekyll-tidy
     - jekyll-assets
+    - jekyll-sitemap
 
 collections:
     proyectos:
