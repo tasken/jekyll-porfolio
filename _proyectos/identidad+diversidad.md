@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Identidad + Diversidad"
 trabajo: "Diseño y desarrollo de repositorio online sobre legislación y jurisprudencia LGBTIQ"
-tags: [WordPress, Responsivo, Web, Porfolio]
+tags: [WordPress, Responsivo, Web]
 date: 2017-06-01
 ---
 
