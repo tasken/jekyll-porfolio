@@ -96,7 +96,7 @@ Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álv
 - «Obsesión fatal», Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.
 - «Mejor promedio y desempeño durante la cursada», Diseño Gráfico I, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA // 2011.
 - «Mayor crecimiento nivel I», Tipografía I, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2010.
-- Ganador del concurso del [logotipo]({% post_url /proyectos/2010-08-08-logo-rbe %}) para la «IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile», CABA // 2010.
+- Ganador del concurso del [logotipo]({{ site.baseurl }}{% link _proyectos/logo-rbe.md %})) para la «IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile», CABA // 2010.
 
 ## Publicaciones
 - *[Memoria ilustrada: Historietas para no olvidar](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Cátedra Groisman](http://www.fadu.uba.ar/sitios/catedras/groisman){:target="_blank"}, FADU--UBA -- AMIA // 2011.
