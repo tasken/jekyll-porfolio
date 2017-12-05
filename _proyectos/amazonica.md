@@ -3,6 +3,7 @@ layout: proyecto
 title: "Amazónica"
 trabajo: "Desarrollo de sitio web con eCommerce"
 tags: [WordPress, Responsivo, Web, eCommerce]
+date: 2016-05-01
 ---
 
 [Amazónica](http://www.amazonica.com.ar/){:target="_blank"} es una empresa que busca embellecer con sentido lo cotidiano. Desarrolla distintas líneas de productos ilustrados, principalmente vajilla, frascos y tejidos.  

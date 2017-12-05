@@ -5,6 +5,7 @@ trabajo: "Trabajo proyectual"
 comitente: "Trabajo realizado para Introducción al Conocimiento Proyectual I, [Cátedra Speranza](http://www.catedrasperanza.com.ar), FADU--UBA."
 published: false
 tags: [Proyectual, Objetual]
+date: 2008-12-01
 ---
 
 El trabajo consiste en atribuirle a un espacio confinado por un cubo de 30×30×30 peculiaridades que generen una sensación espacial. En este caso, *Dinamismo armónico*.

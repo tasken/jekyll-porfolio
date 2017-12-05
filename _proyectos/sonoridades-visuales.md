@@ -4,6 +4,7 @@ title: "Sonoridades visuales"
 trabajo: "Editorial experimental"
 comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
 tags: [Experimental, Editorial]
+date: 2013-05-16
 ---
 
 Búsqueda gráfica a partir de sonidos y del análisis de emergentes identitarios, atributos, del orden de lo sensible y lo simbólico. Traducción de experiencias sonoras en estímulos visuales de forma y color.

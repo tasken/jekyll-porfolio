@@ -3,6 +3,7 @@ layout: proyecto
 title: "Susana González Bianchi"
 trabajo: "Diseño y desarrollo de sitio web con porfolio"
 tags: [WordPress, Responsivo, Web, Porfolio]
+date: 2017-02-01
 ---
 
 [Susana González Bianchi](http://www.gonzalezbianchi.com.ar/){:target="_blank"} es una artista argentina nacida en la ciudad de Trelew, en provincia de Chubut. Susana necesitaba un sitio web, donde poder mostrar sus trabajos y contar de sus diversas exposiciones.

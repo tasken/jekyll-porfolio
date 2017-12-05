@@ -3,6 +3,7 @@ layout: proyecto
 title: "Heterotopías urbanas"
 trabajo: "Intervención sobre pared"
 tags: [Arte, Ciecia, Tecnología, Instalación, FASE 8.0]
+date: 2016-11-29
 ---
 
 Hacia finales del siglo XIX, Baudelaire describe como el *Flâneur*, un explorador azaroso de la ciudad, recorre las calles de París, percibiendo en ellas los cambios estéticos introducidos por los cambios sociales y económicos que trajo consigo la Modernidad. Dos siglos después de ese relato, en los inicios del siglo XXI, la descripción de la vida moderna como un balance entre la belleza, lo raro y exquisito, y lo fugaz y transitorio, resulta obsoleta a la vista de los nuevos entornos urbanos y los medios tecnológicos con los que nos comunicamos. La inmaterialidad de los medios digitales y la velocidad de las telecomunicaciones, cambiaron la forma y el modo en el que el *Flâneur* transita y percibe la ciudad.  

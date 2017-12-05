@@ -4,6 +4,7 @@ title: "Diccionario gráfico"
 trabajo: "Audiovisual experimental"
 comitente: "Trabajo realizado para Diseño I, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
 tags: [Audiovisual, Experimental]
+date: 2011-06-30
 ---
 
 Sobre la base de un objeto se realizaro varias traducciones gráficas.

@@ -1,17 +1,15 @@
-<!-- Menu toggle -->
 <a href="#menu" id="menuLink" class="menu-link">
 	<span></span>
 </a>
 
 <div id="menu">
-
 	<div class="sidebar container">
 		<div class="sidebar-about">
 			<h1><a href="{{ site.baseurl }}/">Augusto<br />Daniele</a></h1>
 			<p class="lead">{{ site.tagline }}</p>
 		</div>
-
 		<h3 class="titulo">Info</h3>
+
 		{% assign pages_list = site.pages | sort: 'prioridad' %}
 		{% for node in pages_list %}
     		{% if node.title != null %}
@@ -21,14 +19,15 @@
     		{% endif %}
 		{% endfor %}
 
-		{% for post in site.categories.proyectos %}
-		  {% capture currentyear %}{{ post.date | date: "%Y" }}{% endcapture %}
-		  {% if currentyear != year %}
-		      <h3 class="titulo">{{ currentyear }}</h3>
-		  {% capture year %}{{ currentyear }}{% endcapture %}
-		  {% endif %}
-		  <a href="{{ site.baseurl }}{{ post.url }}" class="sidebar-nav-item{% if page.url == post.url %} active{% endif %}">{% if post.title-alt != null %}{{ post.title-alt }}{% else %}{{ post.title }}{% endif %}</a>
-		{% endfor %}
+        {% assign proyectos = site.proyectos | sort: 'date' %}
+        {% for proyecto in proyectos reversed %}
+            {% capture currentyear %}{{ proyecto.date | date: "%Y" }}{% endcapture %}
+            {% if currentyear != year %}
+                <h3 class="titulo">{{ currentyear }}</h3>
+                {% capture year %}{{ currentyear }}{% endcapture %}
+            {% endif %}
+            <a href="{{ site.baseurl }}{{ proyecto.url }}" class="sidebar-nav-item{% if page.url == proyecto.url %} active{% endif %}">{% if proyecto.title-alt != null %}{{ proyecto.title-alt }}{% else %}{{ proyecto.title }}{% endif %}</a>
+        {% endfor %}
 
 		<div class="small-text subtle">
             <p>&copy; {{ site.time | date: '%Y' }}</p>
@@ -36,6 +35,5 @@
             <p>Última actualización: <span title="{{ site.time }}">{{ site.time | date: '%Y.%m.%d' }}</span>
             </p>
         </div>
-
 	</div>
 </div>

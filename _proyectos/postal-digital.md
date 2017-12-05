@@ -4,6 +4,7 @@ title: "Bahiana"
 trabajo: "Postal digital"
 comitente: "Daniela Raskovsky y Pablo Cosgaya"
 tags: [Experimental, Tipográfico]
+date: 2013-06-08
 ---
 
 Postal que hice para la fiesta de lanzamiento de [Bahiana](http://www.omnibus-type.com/fonts/bahiana.php){:target="_blank"} una nueva tipografía de [Omnibus-Type](http://www.omnibus-type.com){:target="_blank"}, diseñada por Daniela Raskovsky y Pablo Cosgaya.

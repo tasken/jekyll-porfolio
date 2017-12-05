@@ -3,6 +3,7 @@ layout: proyecto
 title: "Zentricx"
 trabajo: "Desarrollo de sitio web con porfolio"
 tags: [WordPress, Responsivo, Web, Porfolio]
+date: 2016-07-01
 ---
 
 [Zentricx](http://www.zentricx.com/){:target="_blank"} es una empresa dedicada al desarrollo de estrategias de negocios innovadoras enfocadas en la experiencia del cliente. Además de la consultoría, realiza papers de investigación sobre distintos aspectos del mercado online.

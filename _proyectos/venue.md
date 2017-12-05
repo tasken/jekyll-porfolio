@@ -4,6 +4,7 @@ title: "Venue"
 trabajo: "Desarrollo de sitio web con porfolio"
 comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
 tags: [WordPress, Responsivo, Web, Porfolio]
+date: 2016-05-01
 ---
 
 [Venue](http://www.venue.com.ar/){:target="_blank"} es una productora de eventos, que se especializa en la creación de experiencias como herramientas de marketing. Conceptualiza, realiza e implementa proyectos llave en mano de experiential marketing.

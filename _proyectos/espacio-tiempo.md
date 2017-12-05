@@ -4,6 +4,7 @@ title: "Espacio tiempo"
 trabajo: "Audiovisual"
 comitente: "Trabajo realizado para Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com), FADU--UBA."
 tags: [Audiovisual, Experimental, Fotografía]
+date: 2011-11-02
 ---
 
 Elaboración de un objeto a partir de una pista de audio brindada por la cátedra. Luego se realizó una secuencia de imágenes que sirvió como storyboard para el video final.

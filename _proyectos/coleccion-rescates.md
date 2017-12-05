@@ -5,6 +5,7 @@ title-alt: "Colección rescates"
 trabajo: "Editorial"
 comitente: "Trabajo realizado para Diseño II, [Cátedra Rico](http://www.catedrarico.com.ar), FADU--UBA."
 tags: [Editorial]
+date: 2013-06-13
 ---
 
 Editorial sobre Antonio «El Gallego» Soto dirigente de la huelga de los peones de Santa Cruz en 1921, lucha sangrientamente reprimida por lo que se conoce como la Patagonia Rebelde, notablemente reconstruida y narrada por Osvaldo Bayer.

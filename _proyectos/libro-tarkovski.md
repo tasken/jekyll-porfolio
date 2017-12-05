@@ -4,6 +4,7 @@ title: "Esculpir en el tiempo"
 trabajo: "Diseño y encuadernación de libro con faja"
 comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar), FADU--UBA."
 tags: [Tipográfico, Editorial, Libro]
+date: 2012-06-01
 ---
 
 > Mientras fui un fracasado acumulé experiencia, cultura y conocimiento de la vida, fui formando mi gusto y mis concepciones artísticas. Y después, cuando llegué a ser realizador, empecé a distribuir todo aquello, a darlo, y prácticamente, no volví a acumular nada.  

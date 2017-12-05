@@ -5,6 +5,7 @@ title-alt: "Espécimen tipográfico"
 trabajo: "Espécimen tipográfico"
 comitente: "Trabajo realizado para Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar), FADU--UBA."
 tags: [Tipográfico, Editorial]
+date: 2012-05-11
 ---
 
 La tipografía [Espinosa Nova](https://www.myfonts.com/fonts/estudio-ch/espinosa-nova/){:target="_blank"}, diseñada por [Cristóbal Henestrosa](http://www.estudio-ch.com){:target="_blank"} (MX) está basada en los tipos utilizados por Antonio de Espinoza, segundo impresor mexicano (1559) y muy probablemente el primer fundidor de y tallador de caracteres de todo el continente americano. Si bien sus particularidades le confieren elegancia y distinción, éstas nunca llegan a interrumpir la fluidez y la lectura. En el 2010 la tipografía fue galardonada con 2 premios a la excelencia ([TDC2](https://www.tdc.org/competitionwriteup/tdc-typeface-design-winners-2010/){:target="_blank"} y Tipos Latinos).

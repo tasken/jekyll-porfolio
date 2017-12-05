@@ -3,6 +3,7 @@ layout: proyecto
 title: "Helios"
 trabajo: "Audiovisual"
 tags: [Arte, Experimental, Audiovisual]
+date: 2010-03-15
 ---
 
 Pieza audiovisual experimental realizado en el Taller de creación de imágenes audiovisuales (SEU--FADU--UBA), dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"}.

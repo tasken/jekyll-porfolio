@@ -5,6 +5,7 @@ title-alt: "Tapa: AySA"
 trabajo: "Diseño de tapa"
 comitente: "Trabajo realizado en el estudio [KPR](http://www.kpr.com.ar)."
 tags: [Editorial]
+date: 2013-09-15
 ---
 
 Diseño de tapa de *La Ingeniería Sanitaria en la Argentina*, primer libro de *[Lazos de Agua](http://www.aysa.com.ar/index.php?id_seccion=708){:target="_blank"}*, proyecto editorial de [AySA](http://www.aysa.com.ar){:target="_blank"}.

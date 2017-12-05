@@ -4,6 +4,7 @@ title: "Logo: IV RBE"
 trabajo: "Desarrollo de identidad: Logo"
 comitente: "XXIV Reunión Argentina de Ecología"
 tags: [Logo, Concurso, Identidad]
+date: 2010-08-08
 ---
 
 <div class="fotorama">

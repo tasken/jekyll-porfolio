@@ -24,3 +24,7 @@ plugins:
     - jekyll-tidy
     - jekyll-assets
 
+collections:
+    proyectos:
+        output: true
+        permalink: /:collection/:name

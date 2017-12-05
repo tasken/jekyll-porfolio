@@ -4,6 +4,7 @@ title: "Imoti Propiedades"
 title-alt: "Imoti"
 trabajo: "Diseño y desarrollo de sitio web"
 tags: [WordPress, Responsivo, Web]
+date: 2016-03-01
 ---
 
 [Imoti](http://www.imoti.com.ar/){:target="_blank"} es una inmobiliaria, manejada por sus dueñas en la zona de Cañitas.

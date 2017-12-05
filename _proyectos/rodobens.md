@@ -4,6 +4,7 @@ title: "Rodobens Argentina"
 trabajo: "Desarrollo de sitio web responsivo"
 comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
 tags: [Desarrollo, Responsivo, Web]
+date: 2015-06-01
 ---
 
 [Rodobens Argentina](http://www.rodobens.com.ar){:target="_blank"} es una empresa lider en el mercado automovilístico e inmobiliario con más de 20 años de trabajo en el país.  

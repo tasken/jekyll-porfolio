@@ -5,6 +5,7 @@ title-alt: "Observatorio de Causas"
 trabajo: "Sitio web"
 comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
 tags: [WordPress, Responsivo, Web]
+date: 2015-10-30
 ---
 
 La ACIJ es una organización apartidaria, sin fines de lucro dedicada a la defensa de los derechos de los grupos más desfavorecidos de la sociedad y el fortalecimiento de la democracia en Argentina.  
