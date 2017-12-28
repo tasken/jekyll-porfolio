@@ -40,10 +40,6 @@ Relevamiento / toma y edición de material fotográfico para el «Estudio de imp
 *[Fundación Reunión de Administradores](http://www.reunion-adm.com){:target="_blank"} -- [Tesco S.A.](http://www.fra.org.ar/tesco.asp){:target="_blank"}*{: .empleador}  
 Diagramación de revista *Reunión de Administradores*, publicación mensual (tirada 2000 ejemplares, 44 páginas color), adaptación del diseño de Quark a InDesign, diseño de publicidades, panfletos, volantes, soporte diseño y actualización de sitios web. Mantenimiento de sistemas.  
 
-<!-- **Diseñador junior**{: .puesto} // 2006 -- 2008  
-*Bepinel Regalos*{: .empleador}  
-Diseño bolsas comerciales y etiquetas; fotografías para calendarios empresariales. -->
-
 **Soporte gráfico y de sistemas**{: .puesto} // 2003 -- 2010  
 *[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
 Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, diseño de más de 15 posters presentados en congresos nacionales e internacionales, diseño de gráficos y figuras para publicaciones técnicas especializadas, soporte y mantenimiento informático, administración de redes.  
