@@ -16,10 +16,10 @@ layout: default
 		</div>
 	{% else %}{% endif %}
 
-	{% if page.tags != null %}
+	{% unless page.tags == empty %}
 	<div class="etiquetas">
-		<p><strong>Etiquetas:</strong> {{ page.tags | join:', ' }}.</p>
+		<p><strong>Etiquetas:</strong> {{ page.tags | sort | join:', ' }}.</p>
 	</div>
-	{% else %}{% endif %}
+	{% endunless %}
 
 </div>
