@@ -10,11 +10,11 @@ layout: default
 
 	{{ content }}
 
-	{% if page.comitente != null %}
+    {% unless page.comitente == nil %}
 		<div class="comitente">
 			{{ page.comitente | prepend:'<strong>Comitente:</strong> ' | markdownify | replace:'">','" target="_blank">' }}
 		</div>
-	{% else %}{% endif %}
+	{% endunless %}
 
 	{% unless page.tags == empty %}
 	<div class="etiquetas">
