@@ -16,10 +16,7 @@
 </div>
 
 {% asset main.js %}
-
-{% if jekyll.environment == "production" %}
-{% include google_analytics.html %}
-{% endif %}
+{% if jekyll.environment == "production" %}{% asset ga.js %}{% endif %}
 
 </body>
 
