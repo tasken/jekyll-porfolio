@@ -42,7 +42,7 @@
 
     content.onclick = function(e) {
         if (menu.className.indexOf('active') != -1)
-            toggleAll(e);
+        toggleAll(e);
     }
 
 }(this, this.document));

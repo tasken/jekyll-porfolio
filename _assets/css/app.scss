@@ -1,5 +1,5 @@
 html {
-    font-family: "Asap", sans-serif;
+    font-family: 'Asap', sans-serif;
     font-size: 12px;
 }
 
@@ -11,13 +11,13 @@ html,
 body {
     width: 100%;
     height: 100%;
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     overflow-x: hidden;
 }
 
 body {
-    color: #1E1E20;
+    color: #1e1e20;
     background-color: ghostwhite;
     line-height: 1.5rem;
     margin: 0 auto;
@@ -30,7 +30,7 @@ body {
 .content {
     padding-top: 6rem;
     max-width: 90%;
-    img { box-shadow: 2px 2px 6px rgba(#000,.2); }
+    img { box-shadow: 2px 2px 6px rgba(#000, .2); }
     ul {
         padding-left: 1rem;
         list-style-type: none;
@@ -44,13 +44,13 @@ body {
         }
     }
     ul li:before,
-    ul li ul li:before { content: "\2023 \2009"; }
+    ul li ul li:before { content: '\2023 \2009'; }
     h1,
     h2,
     h3,
     h4,
     h5,
-    h6 { color: #1E1E20; }
+    h6 { color: #1e1e20; }
     h2.trabajo {
         font-style: italic;
         color: darkgrey;
@@ -62,24 +62,14 @@ body {
 
 @media (min-width: 48em) {
 
-    .content { padding-top: 2rem; }
-
-}
-
-@media (min-width: 48em) {
-
     html { font-size: 12.5px; }
     .content {
+        padding-top: 2rem;
         max-width: 60rem;
         margin-left: 17rem;
+        margin-left: 2rem;
     }
     .sidebar { width: 15rem; }
-
-}
-
-@media (min-width: 48em) {
-
-    .content { margin-left: 2rem; }
 
 }
 
@@ -92,9 +82,11 @@ a {
     }
 }
 
-a,
-a:hover,
-a:focus { transition: color .3s ease; }
+a {
+    &,
+    &:hover,
+    &:focus { transition: color .3s ease; }
+}
 
 abbr {
     font-size: 100%;
@@ -118,8 +110,8 @@ h1 {
     margin-top: 2.375rem;
     margin-bottom: 1.1875rem;
     + h2 { margin-top: 0; }
-    + p.lead { font-style: italic; }
-    + h2.trabajo { margin-bottom: .75rem; }
+    + .lead { font-style: italic; }
+    + .trabajo { margin-bottom: .75rem; }
 }
 
 h2 {
@@ -167,19 +159,20 @@ blockquote {
 
 blockquote p { margin: 0; }
 
-/* Sanitation */
+// Sanitation
 
 hr {
     border: 1px solid;
     margin: -1px 0;
 }
 
-ul ul,
-ol ol,
-ul ol,
-ol ul {
-    margin-top: 0;
-    margin-bottom: 0;
+ul,
+ol {
+    ul,
+    ol {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
 }
 
 b,
@@ -192,21 +185,21 @@ sup,
 sub {
     vertical-align: baseline;
     position: relative;
-    top: -0.4em;
+    top: -.4em;
 }
 
-sub { top: 0.4em; }
+sub { top: .4em; }
 
 
-/* Sidebar */
+// Sidebar
 
 .sidebar {
-    color: #1E1E20;
+    color: #1e1e20;
     background-color: ghostwhite;
     overflow-y: auto;
     text-align: left;
     height: 100%;
-    a { color: #1E1E20; }
+    a { color: #1e1e20; }
     h3.titulo {
         margin: 0;
         margin-top: .75rem;
@@ -217,7 +210,7 @@ sub { top: 0.4em; }
 
 .sidebar-about {
     h1 {
-        font-family: "Asap", sans-serif;
+        font-family: 'Asap', sans-serif;
         font-size: 2rem;
         line-height: 2rem;
         a:hover {
@@ -231,9 +224,7 @@ sub { top: 0.4em; }
     line-height: 1.4;
     &.active {
         color: deeppink;
-        &:before {
-            content: "\2023 \2009";
-        }
+        &:before { content: '\2023 \2009'; }
     }
 }
 
@@ -263,7 +254,7 @@ a.sidebar-nav-item {
 .etiquetas { font-style: italic; }
 
 
-/* Fotorama */
+// Fotorama
 
 .fotorama { overflow: visible; }
 
@@ -283,11 +274,11 @@ a.sidebar-nav-item {
 
 video {
     width: 100%;
-    box-shadow: 2px 2px 6px rgba(#000,.2);
+    box-shadow: 2px 2px 6px rgba(#000, .2);
     border-radius: 4px;
 }
 
-/* Contacto */
+// Contacto
 
 .contacto {
     max-width: 500px;
@@ -295,33 +286,31 @@ video {
         resize: vertical;
         min-height: 84px;
     }
-    input[type="text"],
-    input[type="email"],
+    input[type='text'],
+    input[type='email'],
     textarea {
         box-sizing: border-box;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
         outline: none;
         display: block;
         width: 100%;
         padding: 7px;
-        border: none;
+        border: 0;
         border-bottom: 1px solid #ddd;
         background: transparent;
         margin-bottom: 10px;
         height: 45px;
-        font-family: "Asap", sans-serif;
+        font-family: 'Asap', sans-serif;
     }
-    input[type="submit"] {
+    input[type='submit'] {
         cursor: pointer;
         font-size: 14px;
         padding: 8px 18px;
-        font-family: "Asap", sans-serif;
+        font-family: 'Asap', sans-serif;
     }
 }
 
 
-/* Tweaks */
+// Tweaks
 
 .embed-container {
     position: relative;
@@ -344,13 +333,13 @@ video {
 abbr[title],
 acronym[title] { text-decoration: none; }
 
-.fade-in{
+.fade-in {
     animation: fade-in 2s ease;
     visibility: visible;
     -webkit-backface-visibility: hidden;
 }
 
-@keyframes fade-in{
+@keyframes fade-in {
     0% { opacity: 0; }
     100% { opacity: 1; }
 }

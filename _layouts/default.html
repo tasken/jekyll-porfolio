@@ -5,18 +5,17 @@
 
 <body>
 
-<div id="layout">
+    <div id="layout">
 
-{% include sidebar.html %}
+        {% include sidebar.html %}
 
-<div class="content container" id="main">
-{{ content }}
-</div>
+        <div class="content container" id="main">
+            {{ content }}
+        </div>
 
-</div>
+    </div>
 
-{% asset main.js %}
-{% if jekyll.environment == "production" %}{% asset ga.js %}{% endif %}
+    {% include js.html %}
 
 </body>
 

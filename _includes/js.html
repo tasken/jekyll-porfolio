@@ -1,0 +1,18 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+{% asset menu.js %}
+
+{% if page.collection == "proyectos" %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+{% endif %}
+
+{% if page.path == "index.md" or page.path == "colofon.md" %}
+<script>
+    var images=["home_brothers.jpg","home_farn.jpg","home_road.jpg"];
+    $('<img class="fade-in" src="{{ site.baseurl }}/img/ui/'+images[Math.floor(Math.random()*images.length)]+'">').appendTo("#rnd-home");
+</script>
+{% endif %}
+
+{% if jekyll.environment == "production" %}
+    {% asset ga.js %}
+{% endif %}
