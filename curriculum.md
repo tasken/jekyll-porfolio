@@ -21,7 +21,7 @@ Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tab
 Manejo directo de cuentas medianas y grandes (de distintos sectores), diseño de identidad, corporativo y publicitaria, diseño y gestión de campañas online (Facebook), diseño editorial, desarrollo de nuevas campañas de comunicación.  
 
 **Diseñador gráfico**{: .puesto} // 2012 -- 2013  
-*[Industrias Culturales Argentinas](http://www.industriasculturalesargentinas.org){:target="_blank"} -- [Dot Pre Press S.A.](http://dotprepress.com){:target="_blank"}*{: .empleador}  
+*Industrias Culturales Argentinas -- Dot Pre Press S.A.*{: .empleador}  
 Diseño y desarrollo editorial e identidad, preparación de originales para preprensa. Trabajo en coordinación con el sector de preprensa, offset digital y ripeador de filminas.  
 
 **Project leader**{: .puesto} // 2011 -- 2012  
@@ -67,7 +67,7 @@ Curso de posgrado en [*UNTREF*](https://www.untref.edu.ar/posgrado/curso-de-posg
 - *El libro en vivo*. Organizado por EUDEBA, 2º Bienal Nacional de Diseño FADU--UBA // 2015  
 Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
 - *Seminario de vivienda y urbanismo social*. Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro. FADU--UBA // 2014.
-- *Introducción al diseño de tipografías*, 1º Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
+- *Introducción al diseño de tipografías*, 1º Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](https://www.facebook.com/TipitosArgentinos/){:target="_blank"} // 2013.
 - *Refinamiento macro y micro tipográfico*. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
 - *Taller de creación de imágenes audiovisuales* (SEU--FADU--UBA) Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009.
 - Fotografía Avanzada (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007.
@@ -76,9 +76,9 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 - **Docente *Ad Honorem*** // 2014 -- presente
 	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31), CABA.
 - **Proyecto de Investigación** // 2014 -- presente
-	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/post/579-36-morfologa-y-comunicacin){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
+	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
 - **Ayudante de segunda**
-	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"} // 2016 -- presente.
+	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- presente.
 	- Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- presente.
 
 ## Presentaciones y Papers
@@ -95,8 +95,8 @@ Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álv
 - Ganador del concurso del [logotipo]({{ site.baseurl }}{% link _proyectos/logo-rbe.md %})) para la «IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile», CABA // 2010.
 
 ## Publicaciones
-- *[Memoria ilustrada: Historietas para no olvidar](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Cátedra Groisman](http://www.fadu.uba.ar/sitios/catedras/groisman){:target="_blank"}, FADU--UBA -- AMIA // 2011.
-- *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Cátedra Wainhaus](http://www.morfologiawainhaus.com.ar){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://www.flanbe.com.ar){:target="_blank"} // 2011.
+- *[Memoria ilustrada: Historietas para no olvidar](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011.
+- *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"} // 2011.
 
 ## Idiomas
 - Certificación del idioma inglés otorgado por el CUI. Nivel: Consejo Europeo C1, ALTE 4 // 2009.
@@ -109,7 +109,7 @@ Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álv
 - Safari de imagen nocturna, CCR // 2012.
 - Cofundador de la [Comunidad argentina de Mozilla](https://www.facebook.com/mozilla.ar){:target="_blank"} // 2007.
 - Taller de filosofía y cine con Marcelo Pompei // 2009 -- 2010.
-- Curso de Astronomía General, [Planetario Galileo Galilei](http://www.planetario.gov.ar){:target="_blank"} // 2008.
+- Curso de Astronomía General, [Planetario Galileo Galilei](http://www.planetario.gob.ar){:target="_blank"} // 2008.
 - Talleres de improvisación teatral en El Baldío Móvil // 2006 -- 2007.
 - Un tanto geek.
 

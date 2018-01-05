@@ -21,7 +21,7 @@ Responsive design and development of sites with 3 or more breakpoints (mobile, t
 Direct management of medium and large accounts (within different sectors), identity design, corporate and advertising, design and management of online campaigns ads (Facebook), publishing design, development of new campaigns.  
 
 **Graphic designer**{: .puesto} // 2012 -- 2013  
-*[Industrias Culturales Argentinas](http://www.industriasculturalesargentinas.org){:target="_blank"} -- [Dot Pre Press S.A.](http://dotprepress.com){:target="_blank"}*{: .empleador}  
+*Industrias Culturales Argentinas -- Dot Pre Press S.A.*{: .empleador}  
 Publishing and identity design, art and copy preparation for prepress. Internalization processes with prepress, digital offset and film processor.  
 
 **Project leader**{: .puesto} // 2011 -- 2012  
@@ -70,7 +70,7 @@ Corporate image development, development and updating of web site design over 15
 Modules: *From text to edition* and *From edition to design*. Dictated by Patricia Piccolini, Darío Contreras and Carlos Venancio. Coordination: Silvina Simondet.
 - *Seminar on Social Housing and Urbanism*. Dictated by the architects Fermín Estrella and Beatriz Pedro. FADU--UBA // 2014.
 - *Introduction to font design*, 1st National Design Biennial FADU--UBA. Dictated by Tipitos Argentinos in charge of [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
-- *Macro and micro typographic refinement*, [Tipitos Argentinos](http://www.tipitosargentinos.com.ar){:target="_blank"} given by [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
+- *Macro and micro typographic refinement*, [Tipitos Argentinos](https://www.facebook.com/TipitosArgentinos/){:target="_blank"} given by [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
 - *Workshop of audiovisual images* (SEU--FADU--UBA) por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009.
 - Advanced Photography (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007.
 
@@ -78,9 +78,9 @@ Modules: *From text to edition* and *From edition to design*. Dictated by Patric
 - **Teaching *Pro Bono*** // 2014 -- present  
 	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, "Memorias Visuales del Territorio". Image and communication, in the neighborhood Padre Carlos Mugica (Villa 31 in Retiro).
 - **Investigation project** // 2014 -- present  
-	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/investigacion/proyec_piamyc02){:target="_blank"}. Dynamics of participation and collective construction of display devices for the reconstruction of social memory. Villa 31, Retiro. Buenos Aires.
+	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}. Dynamics of participation and collective construction of display devices for the reconstruction of social memory. Villa 31, Retiro. Buenos Aires.
 - **Appointed teacher** // 2015
-	- Morphology I, [Wainhaus Chair](http://www.morfologiawainhaus.com.ar){:target="_blank"} // 2016 -- present.
+	- Morphology I, [Wainhaus Chair](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- present.
 	- History I, [Ex Macchi Chair](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- present.
 
 ## Presentations and papers
@@ -97,8 +97,8 @@ Joint project with: Lucas Giono, Soledad Silva, Amelia Ojeda and Camila Álvarez
 - [Logo]({{ site.baseurl }}{% link _proyectos/logo-rbe.md %}) contest winner for "IV Binational Meeting of Ecology -- XXIV Ecology Meeting of Argentina -- XVII Meeting of the Ecological Society of Chile", CABA, Argentina.
 
 ## Publications
-- *[Illustrated memory: Comics to remember](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Groisman Chair](http://www.fadu.uba.ar/sitios/catedras/groisman){:target="_blank"}, FADU--UBA -- AMIA // 2011
-- *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Wainhaus Chair](http://www.morfologiawainhaus.com.ar){:target="_blank"}, FADU--UBA, [Flanbé publishing](http://www.flanbe.com.ar){:target="_blank"} // 2011.
+- *[Illustrated memory: Comics to remember](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Groisman Chair](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011
+- *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Wainhaus Chair](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Flanbé publishing](http://flanbe.com.ar/){:target="_blank"} // 2011.
 
 ## Languages
 - English language certification granted by the CUI. Level: European Council C1, ALTE 4 // 2009.
@@ -111,7 +111,7 @@ Joint project with: Lucas Giono, Soledad Silva, Amelia Ojeda and Camila Álvarez
 - Night Safari image, CCR // 2012
 - [Mozilla Community Argentina](https://www.facebook.com/mozilla.ar){:target="_blank"} cofounder // 2007.
 - Philosophy and film workshop with Marcelo Pompei // 2009 -- 2010.
-- General Astronomy Course [Planetario Galileo Galilei](http://www.planetario.gov.ar){:target="_blank"} // 2008.
+- General Astronomy Course [Planetario Galileo Galilei](http://www.planetario.gob.ar){:target="_blank"} // 2008.
 - Improvisation workshops at El Baldío Móvil // 2006 -- 2007.
 - Somewhat geek.
 
