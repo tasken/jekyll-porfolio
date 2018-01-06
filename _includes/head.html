@@ -3,13 +3,15 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <meta name="description" content="{{ site.tagline }}">
-    {% if jekyll.environment != "production" %}<meta name="robots" content="noindex nofollow">
-    <meta name="google-site-verification" content="tWQl9YznAVZUAEi9TlEuMZTgETlJgCb6AByjydmbiuk">{% endif %}
+    {% if jekyll.environment != "production" %}
+        <meta name="robots" content="noindex nofollow">
+    {% endif %}
+    {% if site.google-site-verification %}
+        <meta name="google-site-verification" content="{{ site.google-site-verification }}">
+    {% endif %}
     <title>{% if page.title == 'Bienvenidos' %}{{ site.author.name }} &#124; {{ site.tagline }}{% else %}{{ page.title }} &#124; {{ site.title }}{% endif %}</title>
 
     {% asset style.scss %}
-
-    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Asap:400,400i,700,700i">
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/apple-touch-icon-144-precomposed.png">
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
