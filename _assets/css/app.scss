@@ -1,6 +1,6 @@
 html {
     font-family: 'Asap', sans-serif;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 ::-webkit-scrollbar { width: 5px; }
@@ -66,11 +66,10 @@ body {
 
 @media (min-width: 48em) {
 
-    html { font-size: 12.5px; }
+    html { font-size: 13px; }
     .content {
         padding-top: 2rem;
         max-width: 60rem;
-        margin-left: 17rem;
         margin-left: 2rem;
     }
     .sidebar { width: 15rem; }
