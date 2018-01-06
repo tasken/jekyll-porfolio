@@ -21,4 +21,8 @@
     <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
     <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/ui/home_brothers.jpg" />
     <meta property="og:description" content="{{ site.tagline }}" />
+
+    {% if jekyll.environment == "production" %}
+        {% include gtag.html %}
+    {% endif %}
 </head>

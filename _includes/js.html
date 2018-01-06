@@ -12,7 +12,3 @@
     $('<img class="fade-in" src="{{ site.baseurl }}/img/ui/'+images[Math.floor(Math.random()*images.length)]+'">').appendTo("#rnd-home");
 </script>
 {% endif %}
-
-{% if jekyll.environment == "production" %}
-    {% asset ga.js %}
-{% endif %}
