@@ -1,7 +1,7 @@
 #layout,
 #menu,
 a.menu-link,
-.content {transition: all .2s ease-out; }
+.content { transition: all .2s ease-out; }
 
 #layout {
     position: relative;
@@ -46,16 +46,16 @@ a.menu-link,
         background-color: #fff;
         width: 1.5rem;
         height: .2em;
-        &:before,
-        &:after {
+        &::before,
+        &::after {
             background-color: #fff;
             width: 1.5rem;
             height: .2em;
             position: absolute;
             content: '';
         }
-        &:before { margin-top: -.6em; }
-        &:after { margin-top: .6em; }
+        &::before { margin-top: -.6em; }
+        &::after { margin-top: .6em; }
     }
 }
 

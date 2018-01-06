@@ -43,8 +43,12 @@ body {
             }
         }
     }
-    ul li:before,
-    ul li ul li:before { content: '\2023 \2009'; }
+    ul {
+        li,
+        ul li {
+            &::before { content: '\2023 \2009'; }
+        }
+    }
     h1,
     h2,
     h3,
@@ -224,7 +228,7 @@ sub { top: .4em; }
     line-height: 1.4;
     &.active {
         color: deeppink;
-        &:before { content: '\2023 \2009'; }
+        &::before { content: '\2023 \2009'; }
     }
 }
 
@@ -267,10 +271,10 @@ a.sidebar-nav-item {
 
 .fotorama__nav__frame.fotorama__active .fotorama__dot { border-width: 2px; }
 
-.fotorama__nav:before,
-.fotorama__nav:after,
-.fotorama__stage:before,
-.fotorama__stage:after { background-image: initial; }
+.fotorama__nav::before,
+.fotorama__nav::after,
+.fotorama__stage::before,
+.fotorama__stage::after { background-image: initial; }
 
 video {
     width: 100%;
