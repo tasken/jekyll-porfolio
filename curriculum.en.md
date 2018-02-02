@@ -2,6 +2,7 @@
 layout: page-alt
 title: "Curriculum vitæ [en]"
 prioridad: 0
+sitemap: false
 ---
 
 ## Work experience
