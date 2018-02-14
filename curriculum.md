@@ -130,7 +130,7 @@ Contactos laborales disponibles de ser requeridos.
 *[HTML]: HyperText Markup Language
 *[HTML5]: HyperText Markup Language v5
 *[CSS]: Cascading Style Sheets
-*[CSS3]: Cascading Style Sheets v4
+*[CSS3]: Cascading Style Sheets v3
 *[CABA]: Ciudad Autónoma de Buenos Aires
 *[PHP]: PHP: Hypertext Preprocessor
 *[ALTE]: Association of Language Testers in Europe
