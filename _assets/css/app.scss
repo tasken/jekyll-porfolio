@@ -74,17 +74,12 @@ body {
 
 a {
     color: deepskyblue;
+    transition: color .3s ease;
     &:focus,
     &:hover {
         color: #1e1e20;
         text-decoration: none;
     }
-}
-
-a {
-    &,
-    &:hover,
-    &:focus { transition: color .3s ease; }
 }
 
 abbr {
@@ -226,6 +221,7 @@ sub { top: .4em; }
     &:focus { color: deepskyblue; }
     &.active {
         color: deeppink;
+        font-weight: 700;
         &::before { content: '\2023 \2009'; }
     }
 }
@@ -233,8 +229,8 @@ sub { top: .4em; }
 .empleador {
     font-size: .85rem;
     font-weight: bold;
-    color: lightcoral;
-    a { color: lightcoral; }
+    color: deepskyblue;
+    a { color: deepskyblue; }
 }
 
 .small-text {
@@ -257,7 +253,7 @@ sub { top: .4em; }
 
 .fotorama__stage {
     border-radius: 4px;
-    box-shadow: 2px 2px 6px rgba(#000,.2);
+    box-shadow: 2px 2px 6px rgba(#000, .2);
 }
 
 .fotorama__nav-wrap { margin-top: .5rem; }
