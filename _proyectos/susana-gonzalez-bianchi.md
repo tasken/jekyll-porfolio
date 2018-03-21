@@ -14,8 +14,8 @@ date: 2017-02-01
 Para el proyecto se desarrolló un sitio web responsivo, que siguiera la línea estética de los cuadros de la artista, pero que a su vez no compitiera con ellos.
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2017_susana1.jpg" alt="Inicio" />
-	<img src="{{ site.baseurl }}/img/2017_susana2.jpg" alt="Obras" />
-	<img src="{{ site.baseurl }}/img/2017_susana3.jpg" alt="Galería de flores" />
-	<img src="{{ site.baseurl }}/img/2017_susana4.jpg" alt="Sobre Susana" />
+    <img src="{{ site.baseurl }}/img/2017_susana1.jpg" alt="Inicio" />
+    <img src="{{ site.baseurl }}/img/2017_susana2.jpg" alt="Obras" />
+    <img src="{{ site.baseurl }}/img/2017_susana3.jpg" alt="Galería de flores" />
+    <img src="{{ site.baseurl }}/img/2017_susana4.jpg" alt="Sobre Susana" />
 </div>

@@ -21,28 +21,28 @@ Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciu
 #### Inauguración
 
 <div class="fotorama" data-fit="cover">
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-3.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-4.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-5.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-6.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-7.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-3.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-4.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-5.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-6.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-7.jpg" alt="" />
 </div>
 
 #### Trabajo del cual surge el proyecto
 Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-02.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-03.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-04.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-05.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-06.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-08.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-09.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-10.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-11.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-12.jpg" alt="Foto del trabajo inicial" />
-	<img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-13.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-02.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-03.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-04.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-05.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-06.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-08.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-09.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-10.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-11.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-12.jpg" alt="Foto del trabajo inicial" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-13.jpg" alt="Foto del trabajo inicial" />
 </div>
 
 #### Exposiciones

@@ -17,9 +17,9 @@ Se diseñó el espécimen teniendo en cuenta las particularidades de la familia,
 ## Detalles
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2013_especimen-2.jpg" alt="Detalle" />
-	<img src="{{ site.baseurl }}/img/2013_especimen-3.jpg" alt="Detalle" />
-	<img src="{{ site.baseurl }}/img/2013_especimen-4.jpg" alt="Detalle" />
+    <img src="{{ site.baseurl }}/img/2013_especimen-2.jpg" alt="Detalle" />
+    <img src="{{ site.baseurl }}/img/2013_especimen-3.jpg" alt="Detalle" />
+    <img src="{{ site.baseurl }}/img/2013_especimen-4.jpg" alt="Detalle" />
 </div>
 
 ## Postales
@@ -27,9 +27,9 @@ Se diseñó el espécimen teniendo en cuenta las particularidades de la familia,
 En conjunto con el espécimen se diseñaron algunas postales.
 
 <div class="fotorama" data-width="550">
-	<img src="{{ site.baseurl }}/img/2013_especimen-postal-1.jpg" alt="Postal" />
-	<img src="{{ site.baseurl }}/img/2013_especimen-postal-2.jpg" alt="Postal" />
-	<img src="{{ site.baseurl }}/img/2013_especimen-postal-3.jpg" alt="Postal" />
+    <img src="{{ site.baseurl }}/img/2013_especimen-postal-1.jpg" alt="Postal" />
+    <img src="{{ site.baseurl }}/img/2013_especimen-postal-2.jpg" alt="Postal" />
+    <img src="{{ site.baseurl }}/img/2013_especimen-postal-3.jpg" alt="Postal" />
 </div>
 
 Trabajo publicado en el [Flickr de la cátedra](https://www.flickr.com/photos/catedracosgaya/7483340020/){:target="_blank"}, [postales](https://www.flickr.com/photos/catedracosgaya/7483347866/){:target="_blank"} y [detalle](https://www.flickr.com/photos/catedracosgaya/7483340302/){:target="_blank"}.  

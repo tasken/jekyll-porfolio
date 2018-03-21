@@ -14,13 +14,13 @@ date: 2015-06-01
 Se realizó el diseño y desarrollo a medida de un sitio web ágil, y que se adapte a los requerimientos de los distintos sectores que posee la empresa. Para ello se utilizó el framework Skel para el desarrollo y la librería Layers para el menú fuera del canvas. El sitio fue desarrollado para ser visualziado correctamente en equipos móbiles, tablets y monitores convencionales.
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2015_rodobens1.jpg" alt="Home" />
-	<img src="{{ site.baseurl }}/img/2015_rodobens2.jpg" alt="Secciones internas" />
-	<img src="{{ site.baseurl }}/img/2015_rodobens3.jpg" alt="Sección vehículos" />
-	<img src="{{ site.baseurl }}/img/2015_rodobens4.jpg" alt="Dónde encontrarnos" />
-	<img src="{{ site.baseurl }}/img/2015_rodobens5.jpg" alt="Dónde encontrarnos (cont.)" />
-	<img src="{{ site.baseurl }}/img/2015_rodobens6.jpg" alt="Planes de ahorro" />
-	<img src="{{ site.baseurl }}/img/2015_rodobens7.jpg" alt="Modelos" />
-	<img src="{{ site.baseurl }}/img/2015_rodobens8.jpg" alt="Modelos (cont.)" />
-	<img src="{{ site.baseurl }}/img/2015_rodobens9.jpg" alt="Preguntas frequentes" />
+    <img src="{{ site.baseurl }}/img/2015_rodobens1.jpg" alt="Home" />
+    <img src="{{ site.baseurl }}/img/2015_rodobens2.jpg" alt="Secciones internas" />
+    <img src="{{ site.baseurl }}/img/2015_rodobens3.jpg" alt="Sección vehículos" />
+    <img src="{{ site.baseurl }}/img/2015_rodobens4.jpg" alt="Dónde encontrarnos" />
+    <img src="{{ site.baseurl }}/img/2015_rodobens5.jpg" alt="Dónde encontrarnos (cont.)" />
+    <img src="{{ site.baseurl }}/img/2015_rodobens6.jpg" alt="Planes de ahorro" />
+    <img src="{{ site.baseurl }}/img/2015_rodobens7.jpg" alt="Modelos" />
+    <img src="{{ site.baseurl }}/img/2015_rodobens8.jpg" alt="Modelos (cont.)" />
+    <img src="{{ site.baseurl }}/img/2015_rodobens9.jpg" alt="Preguntas frequentes" />
 </div>

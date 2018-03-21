@@ -14,9 +14,9 @@ date: 2016-05-01
 Para el cliente se desarrolló una web que presente el contenido principal en una página única, con algunos proyectos destacados y categorías específica para cada tipo de evento.
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2016_venue1.jpg" alt="Inicio" />
-	<img src="{{ site.baseurl }}/img/2016_venue2.jpg" alt="Qué es Venue" />
-	<img src="{{ site.baseurl }}/img/2016_venue3.jpg" alt="Servicios" />
-	<img src="{{ site.baseurl }}/img/2016_venue4.jpg" alt="Proyecto" />
-	<img src="{{ site.baseurl }}/img/2016_venue5.jpg" alt="Contacto" />
+    <img src="{{ site.baseurl }}/img/2016_venue1.jpg" alt="Inicio" />
+    <img src="{{ site.baseurl }}/img/2016_venue2.jpg" alt="Qué es Venue" />
+    <img src="{{ site.baseurl }}/img/2016_venue3.jpg" alt="Servicios" />
+    <img src="{{ site.baseurl }}/img/2016_venue4.jpg" alt="Proyecto" />
+    <img src="{{ site.baseurl }}/img/2016_venue5.jpg" alt="Contacto" />
 </div>

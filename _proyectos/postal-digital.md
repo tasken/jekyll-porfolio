@@ -14,6 +14,6 @@ El evento se realizó en [Santa](https://www.facebook.com/santagaleria){:target=
 > --- <cite>Oscar Niemeyer</cite>.
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2013_bahiana-1.jpg" alt="Armado" />
-	<img src="{{ site.baseurl }}/img/2013_bahiana-2.jpg" alt="Postal" />
+    <img src="{{ site.baseurl }}/img/2013_bahiana-1.jpg" alt="Armado" />
+    <img src="{{ site.baseurl }}/img/2013_bahiana-2.jpg" alt="Postal" />
 </div>

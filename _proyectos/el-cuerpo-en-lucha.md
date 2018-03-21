@@ -21,16 +21,16 @@ A lo largo de esta investigación se analizará el cuerpo biopolítico en el act
 #### Presentación (abreviada)
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2016_inv-01.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-02.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-03.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-04.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-08.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-10.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-11.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-12.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-14.jpg" alt="" />
-	<img src="{{ site.baseurl }}/img/2016_inv-15.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-01.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-02.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-03.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-04.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-08.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-10.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-11.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-12.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-14.jpg" alt="" />
+    <img src="{{ site.baseurl }}/img/2016_inv-15.jpg" alt="" />
 </div>
 
 ***Palabras clave:** activismo gráfico, gráfica argentina, cuerpo biopolítico, cuerpo soporte, soportes analógicos, soportes digitales, performance, convergencia de medios.*

@@ -14,16 +14,16 @@ Trabajo realizado sobre el atentado de la AMIA dentro del proyecrto *Memoria ilu
 
 ## Secuencia fotográfica
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2011_medios-02.jpg" alt="Foto #1" />
-	<img src="{{ site.baseurl }}/img/2011_medios-03.jpg" alt="Foto #2" />
-	<img src="{{ site.baseurl }}/img/2011_medios-04.jpg" alt="Foto #3" />
-	<img src="{{ site.baseurl }}/img/2011_medios-05.jpg" alt="Foto #4" />
-	<img src="{{ site.baseurl }}/img/2011_medios-06.jpg" alt="Foto #5" />
-	<img src="{{ site.baseurl }}/img/2011_medios-07.jpg" alt="Foto #6" />
-	<img src="{{ site.baseurl }}/img/2011_medios-08.jpg" alt="Foto #7" />
-	<img src="{{ site.baseurl }}/img/2011_medios-09.jpg" alt="Foto #8" />
-	<img src="{{ site.baseurl }}/img/2011_medios-10.jpg" alt="Foto #9" />
-	<img src="{{ site.baseurl }}/img/2011_medios-11.jpg" alt="Foto #10" />
+    <img src="{{ site.baseurl }}/img/2011_medios-02.jpg" alt="Foto #1" />
+    <img src="{{ site.baseurl }}/img/2011_medios-03.jpg" alt="Foto #2" />
+    <img src="{{ site.baseurl }}/img/2011_medios-04.jpg" alt="Foto #3" />
+    <img src="{{ site.baseurl }}/img/2011_medios-05.jpg" alt="Foto #4" />
+    <img src="{{ site.baseurl }}/img/2011_medios-06.jpg" alt="Foto #5" />
+    <img src="{{ site.baseurl }}/img/2011_medios-07.jpg" alt="Foto #6" />
+    <img src="{{ site.baseurl }}/img/2011_medios-08.jpg" alt="Foto #7" />
+    <img src="{{ site.baseurl }}/img/2011_medios-09.jpg" alt="Foto #8" />
+    <img src="{{ site.baseurl }}/img/2011_medios-10.jpg" alt="Foto #9" />
+    <img src="{{ site.baseurl }}/img/2011_medios-11.jpg" alt="Foto #10" />
 </div>
 
 Trabajos realizados en conjunto con Lucía Premuz y [Sebastian Roitter](https://www.behance.net/roitter){:target="_blank"}.

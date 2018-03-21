@@ -14,7 +14,7 @@ date: 2016-03-01
 Sus dueñas, Carla y Verónica, necesitaban un sitio que muestre la atención perzonalizada que brindan en su inmobiliaria y que pueda presentar las propiedades de una forma vistosa, tanto para aquellos que estén a la búsqueda o para quieren deseen vender o alquilar su propiedad.  
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2016_imoti1.jpg" alt="Inicio" />
-	<img src="{{ site.baseurl }}/img/2016_imoti2.jpg" alt="Propiedades" />
-	<img src="{{ site.baseurl }}/img/2016_imoti3.jpg" alt="Servicios" />
+    <img src="{{ site.baseurl }}/img/2016_imoti1.jpg" alt="Inicio" />
+    <img src="{{ site.baseurl }}/img/2016_imoti2.jpg" alt="Propiedades" />
+    <img src="{{ site.baseurl }}/img/2016_imoti3.jpg" alt="Servicios" />
 </div>

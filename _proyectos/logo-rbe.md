@@ -8,8 +8,8 @@ date: 2010-08-08
 ---
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2010_logo-rae-1.jpg" alt="Armado" />
-	<img src="{{ site.baseurl }}/img/2010_logo-rae-2.png" alt="Logo RBE" />
+    <img src="{{ site.baseurl }}/img/2010_logo-rae-1.jpg" alt="Armado" />
+    <img src="{{ site.baseurl }}/img/2010_logo-rae-2.png" alt="Logo RBE" />
 </div>
 
 Para la elaboración del Isologo nos basamos en los tres conceptos que serán el eje de la XXIV Reunión Argentina de Ecología: Interacción, Espacio y Tiempo.  

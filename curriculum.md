@@ -79,19 +79,19 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 
 ## Ámbito Académico
 - **Docente *Ad Honorem*** // 2014 -- presente
-	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31), CABA.
+    - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31), CABA.
 - **Proyecto de Investigación** // 2014 -- presente
-	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
+    - [Memorias Visuales del Territorio](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
 - **Ayudante de segunda**
-	- Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- presente.
-	- Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- presente.
+    - Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- presente.
+    - Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- presente.
 
 ## Presentaciones y Papers
 - **Memorias Visuales del Territorio, Villa 31**. *El Territorio Visualizado en Memoria y Presente*  
 Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álvarez.  
-	- II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Investigaciones territoriales: experiencias y miradas* // 2016.  
-	- Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas* // 2015.  
-	- Jornadas Si + Red. *Docencia, investigación y desarrollo en red* // 2014.  
+    - II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Investigaciones territoriales: experiencias y miradas* // 2016.  
+    - Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas* // 2015.  
+    - Jornadas Si + Red. *Docencia, investigación y desarrollo en red* // 2014.  
 
 ## Premios
 - «Obsesión fatal», Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.

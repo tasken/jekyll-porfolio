@@ -13,9 +13,9 @@ date: 2016-07-01
 Para el proyecto, se desarrolló una web autoadministrable que sea capaz de presentar los casos de éxito en un porfolio dinámico. Por las diversas cualidades de los trabajos desarrollados, se adaptó el diseño según fuera necesario para optimizar la presentación de la infromación.
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2016_zentricx1.jpg" alt="Inicio" />
-	<img src="{{ site.baseurl }}/img/2016_zentricx2.jpg" alt="Sobre nosotros" />
-	<img src="{{ site.baseurl }}/img/2016_zentricx3.jpg" alt="Trabajos" />
-	<img src="{{ site.baseurl }}/img/2016_zentricx4.jpg" alt="Paper" />
-	<img src="{{ site.baseurl }}/img/2016_zentricx5.jpg" alt="Página de contacto" />
+    <img src="{{ site.baseurl }}/img/2016_zentricx1.jpg" alt="Inicio" />
+    <img src="{{ site.baseurl }}/img/2016_zentricx2.jpg" alt="Sobre nosotros" />
+    <img src="{{ site.baseurl }}/img/2016_zentricx3.jpg" alt="Trabajos" />
+    <img src="{{ site.baseurl }}/img/2016_zentricx4.jpg" alt="Paper" />
+    <img src="{{ site.baseurl }}/img/2016_zentricx5.jpg" alt="Página de contacto" />
 </div>

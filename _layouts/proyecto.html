@@ -3,23 +3,23 @@ layout: default
 ---
 
 <div class="page">
-	<div class="header">
-		<h1 class="page-title">{{ page.title }}</h1>
-		<h2 class="trabajo">{{ page.trabajo }}</h2>
-	</div>
+    <div class="header">
+        <h1 class="page-title">{{ page.title }}</h1>
+        <h2 class="trabajo">{{ page.trabajo }}</h2>
+    </div>
 
-	{{ content }}
+    {{ content }}
 
     {% unless page.comitente == nil %}
-		<div class="comitente">
-			{{ page.comitente | prepend:'<strong>Comitente:</strong> ' | markdownify | replace:'">','" target="_blank">' }}
-		</div>
-	{% endunless %}
+        <div class="comitente">
+            {{ page.comitente | prepend:'<strong>Comitente:</strong> ' | markdownify | replace:'">','" target="_blank">' }}
+        </div>
+    {% endunless %}
 
-	{% unless page.tags == empty %}
-	<div class="etiquetas">
-		<p><strong>Etiquetas:</strong> {{ page.tags | sort | join:', ' }}.</p>
-	</div>
-	{% endunless %}
+    {% unless page.tags == empty %}
+    <div class="etiquetas">
+        <p><strong>Etiquetas:</strong> {{ page.tags | sort | join:', ' }}.</p>
+    </div>
+    {% endunless %}
 
 </div>

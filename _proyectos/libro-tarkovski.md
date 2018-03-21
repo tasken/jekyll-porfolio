@@ -17,10 +17,10 @@ A partir del texto *Esculpir en el tiempo* de Andrei Tarkovsky, se diseñó un s
 El sistema fue compuesto utilizando las tipografías *Arno Pro* y *Klavika*.
 
 <div class="fotorama">
-	<img src="{{ site.baseurl }}/img/2012-libro1.jpg" alt="Portada con faja" />
-	<img src="{{ site.baseurl }}/img/2012-libro2.jpg" alt="Detalle de la portada" />
-	<img src="{{ site.baseurl }}/img/2012-libro3.jpg" alt="Interior, apertura de capítulo" />
-	<img src="{{ site.baseurl }}/img/2012-libro4.jpg" alt="Doble página con notas al pié" />
+    <img src="{{ site.baseurl }}/img/2012-libro1.jpg" alt="Portada con faja" />
+    <img src="{{ site.baseurl }}/img/2012-libro2.jpg" alt="Detalle de la portada" />
+    <img src="{{ site.baseurl }}/img/2012-libro3.jpg" alt="Interior, apertura de capítulo" />
+    <img src="{{ site.baseurl }}/img/2012-libro4.jpg" alt="Doble página con notas al pié" />
 </div>
 
 Trabajo publicado en el [Flickr de la cátedra](https://www.flickr.com/photos/catedracosgaya/8417139667/in/album-72157632619702448/){:target="_blank"}.

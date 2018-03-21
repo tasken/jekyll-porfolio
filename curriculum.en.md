@@ -77,19 +77,19 @@ Modules: *From text to edition* and *From edition to design*. Dictated by Patric
 
 ## Academia
 - **Teaching *Pro Bono*** // 2014 -- present  
-	- [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, "Memorias Visuales del Territorio". Image and communication, in the neighborhood Padre Carlos Mugica (Villa 31 in Retiro).
+    - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, "Memorias Visuales del Territorio". Image and communication, in the neighborhood Padre Carlos Mugica (Villa 31 in Retiro).
 - **Investigation project** // 2014 -- present  
-	- [Memorias Visuales del Territorio](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}. Dynamics of participation and collective construction of display devices for the reconstruction of social memory. Villa 31, Retiro. Buenos Aires.
+    - [Memorias Visuales del Territorio](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}. Dynamics of participation and collective construction of display devices for the reconstruction of social memory. Villa 31, Retiro. Buenos Aires.
 - **Appointed teacher** // 2015
-	- Morphology I, [Wainhaus Chair](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- present.
-	- History I, [Ex Macchi Chair](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- present.
+    - Morphology I, [Wainhaus Chair](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- present.
+    - History I, [Ex Macchi Chair](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- present.
 
 ## Presentations and papers
 - **Memorias Visuales del Territorio, Villa 31**. *The Territory Viewed in Memory and Present*  
 Joint project with: Lucas Giono, Soledad Silva, Amelia Ojeda and Camila Álvarez.  
-	- II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Territorial reserch: experiences and looks* // 2016.  
-	- Jornadas Si + Ter. *Territorial reserch: experiences and looks* // 2015.  
-	- Jornadas Si + Red. *Teaching, research and development in network* // 2014.  
+    - II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Territorial reserch: experiences and looks* // 2016.  
+    - Jornadas Si + Ter. *Territorial reserch: experiences and looks* // 2015.  
+    - Jornadas Si + Red. *Teaching, research and development in network* // 2014.  
 
 ## Awards
 - "Fatal obsession", Typography II, [Cosgaya Chair](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.
