@@ -8,10 +8,10 @@ prioridad: 0
 **Diseñador freelance**{: .puesto} // 2010 -- presente  
 Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño editorial, comunicaciones internas, identidad corporativa, etc.  
 
-**Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- presente  
+**Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- 03.2018  
 *[The Plus.](http://www.theplus.agency){:target="_blank"}*{: .empleador}  
 Análisis de requerimientos funcionales para aplicaciones y sitios web, casos de uso, desarrollo de esquema de base de datos, diseño UI/UX, mockups, y wireframes.  
-Desarrollo en HTML5 y CSS3, templates para Wagtail (Django), emails responsive (MJML), experiencia básica con JavaScript (nativo y ECMAScript 6), React, y Python.  
+Desarrollo en HTML5 y CSS3, templates para Wagtail (Django), e emails responsive (MJML). Experiencia básica con JavaScript (nativo y ECMAScript 6), React, y Python.  
 
 **Oficial de marketing y desarrollador web**{: .puesto} // 08.2015 -- 12.2016  
 *[Amazónica](http://www.amazonica.com.ar){:target="_blank"}*{: .empleador}  
