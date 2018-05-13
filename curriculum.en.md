@@ -9,6 +9,12 @@ sitemap: false
 **Freelance designer**{: .puesto} // 2010 -- present  
 Self-managed job tracking of my own projects. Websites, publishing design, internal communications, corporate identity, web design, etc.  
 
+**UI/UX designer**{: .puesto} // 04.2018 -- present  
+*[White Prompt](https://www.whiteprompt.com){:target="_blank"}*{: .empleador}  
+
+**Functional analyst and web developer**{: .puesto} // 08.2017 -- 03.2018  
+*[The Plus.](http://www.theplus.agency){:target="_blank"}*{: .empleador}  
+
 **CMO and front-end web developer**{: .puesto} // 2015 -- 2016  
 *[Amazónica](http://www.amazonica.com.ar){:target="_blank"}*{: .empleador}  
 Responsible for digital marketing, newsletters, Facebook ads, metrics analysis, website development with e-commerce.  

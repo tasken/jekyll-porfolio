@@ -8,6 +8,9 @@ prioridad: 0
 **Diseñador freelance**{: .puesto} // 2010 -- presente  
 Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño editorial, comunicaciones internas, identidad corporativa, etc.  
 
+**Diseñador UI/UX**{: .puesto} // 04.2018 -- presente  
+*[White Prompt](https://www.whiteprompt.com){:target="_blank"}*{: .empleador}  
+
 **Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- 03.2018  
 *[The Plus.](http://www.theplus.agency){:target="_blank"}*{: .empleador}  
 Análisis de requerimientos funcionales para aplicaciones y sitios web, casos de uso, desarrollo de esquema de base de datos, diseño UI/UX, mockups, y wireframes.  
