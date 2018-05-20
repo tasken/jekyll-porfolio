@@ -4,6 +4,7 @@ title: "Exposiciones"
 prioridad: 5
 ---
 
+- [Libros de Artista](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, FADU-UBA, CABA // 2018
 - [**Heterotopías Urbanas**](http://encuentrofase.com.ar/node/97), [Encuentro FASE 8.0](http://encuentrofase.com.ar){:target="_blank"}, Pensar la praxis, CCR, CABA // 2016
 - Exposición conmemorativa [“El año 25 del Taller de Fotografía FADU/UBA”](https://web.archive.org/web/20160522231508/http://fola.com.ar/wp/programacion/sala-tres/){:target="_blank"}, FoLa, CABA // 2016
 - Grupo Kraut, [Inauguración ODD CG](https://www.facebook.com/media/set/?set=a.351884681573445.80819.100296976732218&type=3){:target="_blank"}, CABA // 2012

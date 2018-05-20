@@ -86,7 +86,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 - **Proyecto de Investigación** // 2014 -- presente
     - [Memorias Visuales del Territorio](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
 - **Ayudante de segunda**
-    - Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- presente.
+    - Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- 2017.
     - Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- presente.
 
 ## Presentaciones y Papers
@@ -103,6 +103,8 @@ Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álv
 - Ganador del concurso del [logotipo]({{ site.baseurl }}{% link _proyectos/logo-rbe.md %})) para la «IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile», CABA // 2010.
 
 ## Publicaciones
+- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018.
+- [Catálogo de la III Bienal FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA // 2017.
 - *[Memoria ilustrada: Historietas para no olvidar](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011.
 - *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"} // 2011.
 
