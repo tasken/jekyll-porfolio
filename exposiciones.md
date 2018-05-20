@@ -4,14 +4,15 @@ title: "Exposiciones"
 prioridad: 5
 ---
 
-- [Libros de Artista](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
-- [**Heterotopías Urbanas**](http://encuentrofase.com.ar/node/97), [Encuentro FASE 8.0](http://encuentrofase.com.ar){:target="_blank"}, Pensar la praxis, CCR, CABA // 2016
+- [Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})
+    - [Libros de Artista](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
+    - [Encuentro FASE 8.0](http://encuentrofase.com.ar){:target="_blank"}, Pensar la praxis, CCR, CABA // 2016
 - Exposición conmemorativa [“El año 25 del Taller de Fotografía FADU/UBA”](https://web.archive.org/web/20160522231508/http://fola.com.ar/wp/programacion/sala-tres/){:target="_blank"}, FoLa, CABA // 2016
 - Grupo Kraut, [Inauguración ODD CG](https://www.facebook.com/media/set/?set=a.351884681573445.80819.100296976732218&type=3){:target="_blank"}, CABA // 2012
 - [Santa Kraut](https://www.facebook.com/events/115275905284236){:target="_blank"}, Santa, Galeria Patio del Liceo, CABA // 2012
 - Muestra de fin de año Cátedra Rico, Diseño 1, Cátedra Rico, FADU–UBA, CABA // 2011
 - Sembrando Voces. Diseño 1, Cátedra Rico, Centro Cultural IMPA, Almagro, CABA // 2011
-- Memoria ilustrada. Historietas para no olvidar. Medios Expresivos 1, Cátedra Groisman
+- [Memoria ilustrada]({{ site.baseurl }}{% link _proyectos/memoria-ilustrada.md %}). Historietas para no olvidar. Medios Expresivos 1, Cátedra Groisman
     - [AMIA](http://www.amia.org.ar/index.php/news/default/show/news/260){:target="_blank"}, CABA // 2011
     - [CCR](http://centroculturalrecoleta.org/ccr-sp/exposiciones/2011/06/28/espacio-de-arte-amia-catedra-groisman-de-la-fadu){:target="_blank"}, CABA // 2011
 - [Mirar, Escuchar, Fotografiar… Chacarita](http://biblioteca.fadu.uba.ar/tiki-read_article.php?articleId=238){:target="_blank"}, Diseño 1, Cátedra Rico, [Espacio Cultural Carlos Gardel](https://www.facebook.com/media/set/?set=a.10150214822907685.316600.114898172684&type=3){:target="_blank"}, CABA // 2011
