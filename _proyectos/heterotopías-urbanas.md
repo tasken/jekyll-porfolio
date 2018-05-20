@@ -46,11 +46,15 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 </div>
 
 #### Exposiciones
+- [Libros de Artista](https://www.instagram.com/expolibrosdeartista/){:target="_blank"}, FADU-UBA, CABA // 2018
 - Encuentro FASE 8.0, Pensar la praxis, CCR, CABA // 2016
 
 #### Menciones
-- **[*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}**, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"})
+- [**Reflexiones en torno a la producción audiovisual: el diseño como obstáculo**](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom.
+- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/)
+- [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"})
 - Publicado en el catálogo de la III Bienal FADU, materia Diseño Audiovisual, cátedra La Ferla, carrera de Diseño Gráfico
+- [Arte Hispano](http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"}
 - *Encuentro con otro arte*, [Revista Ñ](http://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011746/https://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html))
 - *FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*, [blog de María de Vedia](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011915/http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/))
 
@@ -59,7 +63,9 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 - [Ficha en FASE 8.0](http://encuentrofase.com.ar/node/97){:target="_blank"} ([mirror](https://web.archive.org/web/20161220010941/http://encuentrofase.com.ar/node/97){:target="_blank"})
 - [Encuentro FASE -- Arte + Ciencia + Tecnología](http://encuentrofase.com.ar){:target="_blank"}
 
+*[diCom]: Diseño Comunicacional
 *[CCR]: Centro Cultural Recoleta
 *[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
+*[UBA]: Universidad de Buenos Aires
 *[CABA]: Ciudad Autónoma de Buenos Aires
 *[GPS]: Global Positioning System
