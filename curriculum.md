@@ -94,6 +94,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
     - Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- 2017
 - **Disertante de workshop**
     - Cartografiando la FADU. Del registro locativo móvil a la obra editada, III Bienal de Diseño FADU--UBA // 2017
+    - Taller de gráfica colectiva sobre el derecho a la ciudad, III Bienal de Diseño FADU--UBA // 2017
 
 ### Investigación
 - Proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
