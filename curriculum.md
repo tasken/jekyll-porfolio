@@ -12,7 +12,7 @@ Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño 
 *[White Prompt](https://www.whiteprompt.com){:target="_blank"}*{: .empleador}  
 
 **Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- 03.2018  
-*[The Plus.](http://www.theplus.agency){:target="_blank"}*{: .empleador}  
+*[The Plus](https://theplus.agency){:target="_blank"}*{: .empleador}  
 Análisis de requerimientos funcionales para aplicaciones y sitios web, casos de uso, desarrollo de esquema de base de datos, diseño UI/UX, mockups, y wireframes.  
 Desarrollo en HTML5 y CSS3, templates para Wagtail (Django), e emails responsive (MJML). Experiencia básica con JavaScript (nativo y ECMAScript 6), React, y Python.  
 
@@ -48,9 +48,11 @@ Relevamiento / toma y edición de material fotográfico para el «Estudio de imp
 *[Fundación Reunión de Administradores](http://www.reunion-adm.com){:target="_blank"} -- [Tesco S.A.](http://www.fra.org.ar/tesco.asp){:target="_blank"}*{: .empleador}  
 Diagramación de revista *Reunión de Administradores*, publicación mensual (tirada 2000 ejemplares, 44 páginas color), adaptación del diseño de Quark a InDesign, diseño de publicidades, panfletos, volantes, soporte diseño y actualización de sitios web. Mantenimiento de sistemas.  
 
+{% comment %}
 **Soporte gráfico y de sistemas**{: .puesto} // 2003 -- 2010  
 *[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
 Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, diseño de más de 15 posters presentados en congresos nacionales e internacionales, diseño de gráficos y figuras para publicaciones técnicas especializadas, soporte y mantenimiento informático, administración de redes.  
+{% endcomment %}
 
 ## Conocimientos
 - Desempeño avanzado con programas de diseño: Adobe Creative Cloud.
@@ -65,48 +67,56 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 
 ## Educación y capacitación
 - *Industrias Culturales: claves para su gestión y desarrollo* // 2017 -- Diplomatura en 2018  
-Curso de posgrado en [*UNTREF*](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"}
-- **Diseño Gráfico** // Egresado 2016  
-*Recibido en la [Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
-- *I Jornada sobre Diseño Social* // 2016  
-*Miradas sobre el Diseño con fines sociales*. Reflexiones sobre el diseño con función social, en el marco del proyecto UBACyT dirigido por la Dra. María del Valle Ledesma.
-- Cátedra Miguel Benasayag, Ciencias y política, Colectivo de trabajo *La Vaca* // 2016  
-*Relación entre pensamiento y vida*. Las trampas de la teoría: solución, avance, progreso como agentes de destrucción masiva. La actualidad del atropoceno. Alicia en el país sin maravillas. Habitar el devenir.
-- *El libro en vivo*. Organizado por EUDEBA, 2º Bienal Nacional de Diseño FADU--UBA // 2015  
+Curso de posgrado en la [*Universidad Nacional de Tres de Febrero*](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"}
+- ***Diseño Gráfico*** // 2008 -- 2016  
+Titulo de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}.  
+Abanderado de la bandera nacional en la jura del 23/03/2018.
+- *Pensar y actuar en una época oscura* // 2016  
+Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"} // 2016  
+- *El libro en vivo*. Organizado por EUDEBA, II Bienal de Diseño FADU--UBA // 2015  
 Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
 - *Seminario de vivienda y urbanismo social*. Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro. FADU--UBA // 2014.
-- *Introducción al diseño de tipografías*, 1º Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](https://www.facebook.com/TipitosArgentinos/){:target="_blank"} // 2013.
+- *Introducción al diseño de tipografías*, I Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](https://www.facebook.com/TipitosArgentinos/){:target="_blank"} // 2013.
 - *Refinamiento macro y micro tipográfico*. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013.
 - *Taller de creación de imágenes audiovisuales* (SEU--FADU--UBA) Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009.
 - Fotografía Avanzada (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007.
 
 ## Ámbito Académico
-- **Docente *Ad Honorem*** // 2014 -- presente
-    - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, «Memorias Visuales del Territorio». Área imagen y comunicación, en el Barrio Padre Carlos Mugica (Villa 31), CABA.
-- **Proyecto de Investigación** // 2014 -- presente
-    - [Memorias Visuales del Territorio](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}. Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social. Villa 31, Retiro. Buenos Aires.
-- **Ayudante de segunda**
-    - Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- 2017.
-    - Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- presente.
 
-## Presentaciones y Papers
-- **Memorias Visuales del Territorio, Villa 31**. *El Territorio Visualizado en Memoria y Presente*  
-Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álvarez.  
-    - II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Investigaciones territoriales: experiencias y miradas* // 2016.  
-    - Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas* // 2015.  
-    - Jornadas Si + Red. *Docencia, investigación y desarrollo en red* // 2014.  
+### Docencia
+- **Jefe de Trabajos Prácticos** // 2018 -- presente
+    - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}.
+- **Ayudante de primera**
+    - Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2018 -- presente
+- **Ayudante de segunda**
+    - Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- 2017
+    - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"} // 2014 -- 2017.
+    - Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- 2017.
+- **Disertante de workshop**
+    - Cartografiando la FADU. Del registro locativo móvil a la obra editada, III Bienal de Diseño FADU--UBA // 2017
+
+### Investigación
+- Proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
+Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social.  
+Proyecto en conjunto con: Lucas Giono, Amelia Ojeda, Camila Álvarez, Andrea Cabrera y Magdalena Castría.
+    - Jornadas Si + Campos, FADU--UBA // 2018  
+    - Cuarto Congreso DiSUR, Dimensión política del diseño en Latinoamérica. *Debates y desafíos* // 2017
+    - II Jornadas sobre Diseño Social, organizadas por la Dra. María del Valle Ledesma, FADU--UBA // 2017
+    - II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Investigaciones territoriales: experiencias y miradas*, UNC // 2016  
+    - Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas*, FADU--UBA // 2015  
+    - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014  
+
+### Trabajos publicados en
+- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018.
+- [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA // 2017.
+- *[Memoria ilustrada: Historietas para no olvidar](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011.
+- *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"} // 2011.
 
 ## Premios
 - «Obsesión fatal», Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.
 - «Mejor promedio y desempeño durante la cursada», Diseño Gráfico I, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA // 2011.
 - «Mayor crecimiento nivel I», Tipografía I, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2010.
 - Ganador del concurso del [logotipo]({{ site.baseurl }}{% link _proyectos/logo-rbe.md %})) para la «IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile», CABA // 2010.
-
-## Publicaciones
-- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018.
-- [Catálogo de la III Bienal FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA // 2017.
-- *[Memoria ilustrada: Historietas para no olvidar](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011.
-- *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"} // 2011.
 
 ## Idiomas
 - Certificación del idioma inglés otorgado por el CUI. Nivel: Consejo Europeo C1, ALTE 4 // 2009.
@@ -126,21 +136,24 @@ Proyecto en conjunto con: Lucas Giono, Soledad Silva, Amelia Ojeda y Camila Álv
 ## Otras referencias
 Contactos laborales disponibles de ser requeridos.
 
-*[UBA]: Universidad de Buenos Aires
-*[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
-*[CUI]: Centro Universitario de Idiomas
-*[SEU]: Secretaría de Extensión Universitaria
-*[S.A.]: Sociedad Anónima
-*[S.R.L.]: Sociedad de Responsabilidad Limitada
-*[HTML]: HyperText Markup Language
-*[HTML5]: HyperText Markup Language v5
+*[ALTE]: Association of Language Testers in Europe
+*[AMIA]: Asociación Mutual Israelita Argentina
+*[CABA]: Ciudad Autónoma de Buenos Aires
+*[CCR]: Centro Cultural Recoleta
+*[CMS]: Content Management System
 *[CSS]: Cascading Style Sheets
 *[CSS3]: Cascading Style Sheets v3
-*[CABA]: Ciudad Autónoma de Buenos Aires
-*[PHP]: PHP: Hypertext Preprocessor
-*[ALTE]: Association of Language Testers in Europe
-*[CCR]: Centro Cultural Recoleta
-*[AMIA]: Asociación Mutual Israelita Argentina
-*[CMS]: Content Management System
+*[CUI]: Centro Universitario de Idiomas
 *[EUDEBA]: Editorial Universitaria de Buenos Aires
+*[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
+*[HTML]: HyperText Markup Language
+*[HTML5]: HyperText Markup Language v5
+*[MyC]: Morfología y Comunicación
+*[PHP]: PHP: Hypertext Preprocessor
+*[PIA]: Proyectos de Investigación Avanzados
+*[S.A.]: Sociedad Anónima
+*[S.R.L.]: Sociedad de Responsabilidad Limitada
+*[SEU]: Secretaría de Extensión Universitaria
+*[UBA]: Universidad de Buenos Aires
 *[UI/UX]: User interface + User experience
+*[UNC]: Universidad Nacional de Córdoba
