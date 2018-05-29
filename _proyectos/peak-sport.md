@@ -7,7 +7,7 @@ tags: [Desarrollo, Responsivo, Web, eCommerce, Wagtail]
 date: 2018-05-14
 ---
 
-Desarrollo me maqueta HTML y CSS para el sitio [Peak Sport Argentina](https://www.peaksport.com.ar/){:target="_blank"} y de template de email responsivo (utilizando el framework MJML) para notificaciones.
+Desarrollo de maqueta HTML y CSS para el sitio [Peak Sport Argentina](https://www.peaksport.com.ar/){:target="_blank"} y de template de email responsivo (utilizando el framework MJML) para notificaciones.
 
 <div class="fotorama" data-loop="true">
     <img src="{{ site.baseurl }}/img/2018_peak-01.jpg" alt="Captura #1" />
