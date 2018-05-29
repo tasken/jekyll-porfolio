@@ -7,7 +7,7 @@ tags: [Desarrollo, Responsivo, Web, Wagtail]
 date: 2018-03-08
 ---
 
-Desarrollo me maqueta HTML y CSS para el sitio [Centro Transpersonal](https://www.centrotranspersonal.com.ar/){:target="_blank"}.
+Desarrollo de maqueta HTML y CSS para el sitio [Centro Transpersonal](https://www.centrotranspersonal.com.ar/){:target="_blank"}.
 
 <div class="fotorama single" data-loop="true">
     <img src="{{ site.baseurl }}/img/2018_centro-01.jpg" alt="Captura #1" />
