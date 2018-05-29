@@ -3,9 +3,9 @@ html {
     font-size: 13px;
 }
 
-::-webkit-scrollbar { width: 5px; }
-::-webkit-scrollbar-track { background: #ddd; }
-::-webkit-scrollbar-thumb { background: #666; }
+::scrollbar { width: 5px; }
+::scrollbar-track { background: #ddd; }
+::scrollbar-thumb { background: #666; }
 
 html,
 body {
@@ -254,7 +254,10 @@ sub { top: .4em; }
 
 // Fotorama
 
-.fotorama { overflow: visible; }
+.fotorama {
+    overflow: visible;
+    &.single { margin-top: 3rem; }
+}
 
 .fotorama__stage {
     border-radius: 4px;
@@ -270,11 +273,6 @@ sub { top: .4em; }
 .fotorama__stage::before,
 .fotorama__stage::after { background-image: initial; }
 
-video {
-    width: 100%;
-    box-shadow: 2px 2px 6px rgba(#000, .2);
-    border-radius: 4px;
-}
 
 // Contacto
 
@@ -328,13 +326,19 @@ video {
     }
 }
 
+video {
+    width: 100%;
+    box-shadow: 2px 2px 6px rgba(#000, .2);
+    border-radius: 4px;
+}
+
 abbr[title],
 acronym[title] { text-decoration: none; }
 
 .fade-in {
     animation: fade-in 2s ease;
     visibility: visible;
-    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
 }
 
 @keyframes fade-in {
