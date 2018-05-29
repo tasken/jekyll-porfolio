@@ -20,18 +20,18 @@ Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciu
 
 #### Inauguración
 
-<div class="fotorama" data-fit="cover">
-    <img src="{{ site.baseurl }}/img/2016_heterotopías-3.jpg" alt="" />
-    <img src="{{ site.baseurl }}/img/2016_heterotopías-4.jpg" alt="" />
-    <img src="{{ site.baseurl }}/img/2016_heterotopías-5.jpg" alt="" />
-    <img src="{{ site.baseurl }}/img/2016_heterotopías-6.jpg" alt="" />
-    <img src="{{ site.baseurl }}/img/2016_heterotopías-7.jpg" alt="" />
+<div class="fotorama" data-loop="true">
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-3.jpg" alt="Inauguración en FASE" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-4.jpg" alt="Inauguración en FASE" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-5.jpg" alt="Inauguración en FASE" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-6.jpg" alt="Inauguración en FASE" />
+    <img src="{{ site.baseurl }}/img/2016_heterotopías-7.jpg" alt="Inauguración en FASE" />
 </div>
 
 #### Trabajo del cual surge el proyecto
 Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
-<div class="fotorama">
+<div class="fotorama" data-loop="true">
     <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-02.jpg" alt="Foto del trabajo inicial" />
     <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-03.jpg" alt="Foto del trabajo inicial" />
     <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-04.jpg" alt="Foto del trabajo inicial" />

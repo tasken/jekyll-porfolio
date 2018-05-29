@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Axel Krieger"
 trabajo: "Sitio web"
-comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
+comitente: "Desarrollo realizado para el estudio [Teodoro](http://mundoteodoro.com)."
 tags: [WordPress, Responsivo, Web]
 date: 2015-04-15
 ---

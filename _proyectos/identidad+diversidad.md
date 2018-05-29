@@ -13,7 +13,7 @@ También ofrece diversas estrategias y guías orientadas a medios de comunicaci�
 
 Bajo estas premisas, se diseñó y desarrolló un sitio que ofrezca la posibilidad de sostener dicho repositorio, y a la vez permita al usuario navegarlo según diversos ejes temáticos o geográficos. El material provisto por las instituciones fue adecuado, sistematizado, y estructurado de modo que pudiese ofrecerse de manera abreviada, y a la vez acceder a la información completa (vía un link externo o un PDF).
 
-<div class="fotorama">
+<div class="fotorama" data-loop="true">
     <img src="{{ site.baseurl }}/img/2017_i+d-01.jpg" alt="" />
     <img src="{{ site.baseurl }}/img/2017_i+d-02.jpg" alt="" />
     <img src="{{ site.baseurl }}/img/2017_i+d-03.jpg" alt="" />

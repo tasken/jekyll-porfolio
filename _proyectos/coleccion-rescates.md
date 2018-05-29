@@ -12,7 +12,7 @@ Editorial sobre Antonio «El Gallego» Soto dirigente de la huelga de los peones
 
 Se presenta el relato de los acontecimientos de 1921 cruzados por imágenes de la crisis socio-política del 2001.
 
-<div class="fotorama">
+<div class="fotorama" data-loop="true">
     <img src="{{ site.baseurl }}/img/2013_heraldo-1.jpg" alt="Tapa" />
     <img src="{{ site.baseurl }}/img/2013_heraldo-2.jpg" alt="Interior" />
     <img src="{{ site.baseurl }}/img/2013_heraldo-3.jpg" alt="Interior" />

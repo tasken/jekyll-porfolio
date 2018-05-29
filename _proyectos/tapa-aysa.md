@@ -3,7 +3,7 @@ layout: proyecto
 title: "La ingeniería sanitaria en la Argentina"
 title-alt: "Tapa: AySA"
 trabajo: "Diseño de tapa"
-comitente: "Trabajo realizado en el estudio [KPR](http://www.kpr.com.ar)."
+comitente: "Trabajo realizado para el estudio [KPR](http://www.kpr.com.ar)."
 tags: [Editorial]
 date: 2013-09-15
 ---

@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Ramiro Quintana"
 trabajo: "Diseño y desarrollo de sitio web responsivo"
-comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
+comitente: "Desarrollo realizado para el estudio [Teodoro](http://mundoteodoro.com)."
 tags: [Desarrollo, Responsivo, Web]
 date: 2015-05-01
 ---
@@ -17,4 +17,3 @@ El sitio fue desarrollado para ser visualziado correctamente en equipos móbiles
     <img src="{{ site.baseurl }}/img/2015_rquintana3.jpg" alt="Sección Información" />
     <img src="{{ site.baseurl }}/img/2015_rquintana4.jpg" alt="Artículo" />
 </div>
-

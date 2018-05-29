@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Venue"
 trabajo: "Desarrollo de sitio web con porfolio"
-comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
+comitente: "Desarrollo realizado para el estudio [Teodoro](http://mundoteodoro.com)."
 tags: [WordPress, Responsivo, Web, Porfolio]
 date: 2016-05-01
 ---

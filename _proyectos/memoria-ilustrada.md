@@ -13,7 +13,7 @@ Trabajo realizado sobre el atentado de la AMIA dentro del proyecrto *Memoria ilu
 ![Historieta]({{ site.baseurl }}/img/2011_medios-01.jpg)
 
 ## Secuencia fotográfica
-<div class="fotorama">
+<div class="fotorama" data-loop="true">
     <img src="{{ site.baseurl }}/img/2011_medios-02.jpg" alt="Foto #1" />
     <img src="{{ site.baseurl }}/img/2011_medios-03.jpg" alt="Foto #2" />
     <img src="{{ site.baseurl }}/img/2011_medios-04.jpg" alt="Foto #3" />

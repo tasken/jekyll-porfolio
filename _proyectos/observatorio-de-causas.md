@@ -3,7 +3,7 @@ layout: proyecto
 title: "Observatorio de Causas de Corrupción"
 title-alt: "Observatorio de Causas"
 trabajo: "Sitio web"
-comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
+comitente: "Desarrollo realizado para el estudio [Teodoro](http://mundoteodoro.com)."
 tags: [WordPress, Responsivo, Web]
 date: 2015-10-30
 ---
@@ -16,7 +16,7 @@ Desde hace algunos años viene haciendo un seguimiento de las principales causas
 
 Así es como nace el [Observatorio de Causas de Corrupción](http://acij.org.ar/causas-de-corrupcion/){:target="_blank"} de [ACIJ](http://acij.org.ar/){:target="_blank"}, con la implementación y personalización de una configuración avanzada de WordPress con campos específicos, búsquedas paramétricas, fichas y cruce de datos.  
 
-<div class="fotorama">
+<div class="fotorama" data-loop="true">
     <img src="{{ site.baseurl }}/img/2015_observatorio-1.jpg" alt="Inicio" />
     <img src="{{ site.baseurl }}/img/2015_observatorio-2.jpg" alt="Lista de causas" />
     <img src="{{ site.baseurl }}/img/2015_observatorio-3.jpg" alt="Ficha de causa" />

@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Rodobens Argentina"
 trabajo: "Desarrollo de sitio web responsivo"
-comitente: "Dirección del proyecto a cargo del estudio [Teodoro](http://mundoteodoro.com)."
+comitente: "Desarrollo realizado para el estudio [Teodoro](http://mundoteodoro.com)."
 tags: [Desarrollo, Responsivo, Web]
 date: 2015-06-01
 ---
@@ -13,7 +13,7 @@ date: 2015-06-01
 
 Se realizó el diseño y desarrollo a medida de un sitio web ágil, y que se adapte a los requerimientos de los distintos sectores que posee la empresa. Para ello se utilizó el framework Skel para el desarrollo y la librería Layers para el menú fuera del canvas. El sitio fue desarrollado para ser visualziado correctamente en equipos móbiles, tablets y monitores convencionales.
 
-<div class="fotorama">
+<div class="fotorama" data-loop="true">
     <img src="{{ site.baseurl }}/img/2015_rodobens1.jpg" alt="Home" />
     <img src="{{ site.baseurl }}/img/2015_rodobens2.jpg" alt="Secciones internas" />
     <img src="{{ site.baseurl }}/img/2015_rodobens3.jpg" alt="Sección vehículos" />
