@@ -47,6 +47,9 @@ deploy:
   image: alpine:latest
   cache: {}
   when: on_success
+  environment:
+    name: 'Augusto Daniele'
+    url: https://augustodaniele.com.ar
   before_script:
   - 'which ssh-agent || ( apk update && apk add openssh-client bash rsync )'
   - eval $(ssh-agent -s)
