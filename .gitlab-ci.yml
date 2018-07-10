@@ -31,8 +31,10 @@ code_quality:
   variables:
     DOCKER_DRIVER: overlay2
   allow_failure: true
+  cache: {}
   services:
     - docker:stable-dind
+  before_script: {}
   script:
     - export SP_VERSION=$(echo "$CI_SERVER_VERSION" | sed 's/^\([0-9]*\)\.\([0-9]*\).*/\1-\2-stable/')
     - docker run
@@ -49,8 +51,10 @@ dependency_scanning:
   variables:
     DOCKER_DRIVER: overlay2
   allow_failure: true
+  cache: {}
   services:
     - docker:stable-dind
+  before_script: {}
   script:
     - export SP_VERSION=$(echo "$CI_SERVER_VERSION" | sed 's/^\([0-9]*\)\.\([0-9]*\).*/\1-\2-stable/')
     - docker run
@@ -68,6 +72,8 @@ stages:
 
 build:
   stage: build
+  when: manual
+  allow_failure: false
   script:
   - bundle exec jekyll build -d deploy
   artifacts:
@@ -79,8 +85,8 @@ build:
 deploy:
   stage: deploy
   image: alpine:latest
-  when: manual
   cache: {}
+  when: on_success
   before_script:
   - 'which ssh-agent || ( apk update && apk add openssh-client bash rsync )'
   - eval $(ssh-agent -s)
