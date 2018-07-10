@@ -41,7 +41,7 @@
     };
 
     content.onclick = function(e) {
-        if (menu.className.indexOf('active') != -1)
+        if (menu.className.indexOf('active') !== -1)
         toggleAll(e);
     }
 
