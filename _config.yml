@@ -8,7 +8,6 @@ permalink: '/:categories/:title/'
 title: 'Porfolio de Augusto Daniele'
 tagline: 'Porfolio web y cv.'
 description: 'Porfolio personal y currículum vítae de Augusto Daniele.'
-# google-site-verification: ''
 
 # Info básica
 author:
@@ -17,9 +16,7 @@ author:
 
 # NearlyFreeSpeech
 url: 'https://augustodaniele.com.ar'
-destination: /home/public
-keep_files: ['demo', '.well-known']
-exclude: ['README.md','Gemfile*', 'rakefile.rb']
+exclude: ['vendor', 'Gemfile*', 'rakefile.rb']
 
 plugins:
     - jekyll-tidy
@@ -36,7 +33,3 @@ assets:
         browsers:
         - "last 2 versions"
         - "IE > 9"
-    plugins:
-        css: {
-            autoprefixer: { browsers }
-        }

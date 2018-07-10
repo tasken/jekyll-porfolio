@@ -10,3 +10,5 @@ group :jekyll_plugins do
 end
 
 gem 'autoprefixer-rails'
+
+gem "therubyracer", "~> 0.12.3"

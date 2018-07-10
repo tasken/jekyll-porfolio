@@ -1,0 +1,58 @@
+image: ruby:2.5.1
+
+variables:
+  JEKYLL_ENV: production
+  LC_ALL: C.UTF-8
+  NOKOGIRI_USE_SYSTEM_LIBRARIES: "true"
+
+before_script:
+  - bundle install --path vendor
+
+cache:
+  key: ${CI_COMMIT_REF_SLUG}
+  paths:
+    - vendor/ruby
+
+pages:
+  stage: deploy
+  variables:
+    JEKYLL_ENV: development
+  script:
+  - bundle exec jekyll build -d public --config _config.yml,_config.dev.yml
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+
+stages:
+  - build
+  - deploy
+
+build:
+  stage: build
+  script:
+  - bundle exec jekyll build -d deploy
+  artifacts:
+    paths:
+    - deploy
+  only:
+  - master
+
+deploy:
+  stage: deploy
+  image: alpine:latest
+  when: manual
+  cache: {}
+  before_script:
+  - 'which ssh-agent || ( apk update && apk add openssh-client bash rsync )'
+  - mkdir -p ~/.ssh
+  - chmod 700 ~/.ssh
+  - eval $(ssh-agent -s)
+  - echo "$PRODUCTION_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+  - ssh-keyscan -H $PRODUCTION_SERVER >> ~/.ssh/known_hosts
+  - chmod 644 ~/.ssh/known_hosts
+  script:
+  - rsync -hrvz --delete-before --exclude=.well-known -e ssh deploy/ "${SSH_USER_HOST_LOCATION}"
+  only:
+  - master
