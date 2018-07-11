@@ -12,3 +12,7 @@ end
 gem 'autoprefixer-rails'
 
 gem "therubyracer", "~> 0.12.3"
+
+gem "image_optim", "~> 0.26.1"
+
+gem "image_optim_pack", "~> 0.5.1"
