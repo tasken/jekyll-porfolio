@@ -5,13 +5,18 @@ variables:
   LC_ALL: C.UTF-8
   NOKOGIRI_USE_SYSTEM_LIBRARIES: "true"
 
-before_script:
-  - bundle install --path vendor
-
 cache:
   key: ${CI_COMMIT_REF_SLUG}
   paths:
     - vendor/ruby
+
+stages:
+  - test
+  - build
+  - deploy
+
+before_script:
+  - bundle install --path vendor
 
 pages:
   stage: test
@@ -24,11 +29,6 @@ pages:
     - public
   only:
   - master
-
-stages:
-  - test
-  - build
-  - deploy
 
 build:
   stage: build
@@ -60,5 +60,7 @@ deploy:
   - chmod 644 ~/.ssh/known_hosts
   script:
   - rsync -hrvz --delete-before --exclude=.well-known -e ssh deploy/ "${SSH_USER_HOST_LOCATION}"
+  dependencies:
+  - build
   only:
   - master
