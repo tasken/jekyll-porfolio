@@ -36,6 +36,7 @@ build:
   allow_failure: false
   script:
   - bundle exec jekyll build -d deploy
+  dependencies: []
   artifacts:
     paths:
     - deploy
