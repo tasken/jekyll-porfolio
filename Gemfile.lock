@@ -126,14 +126,14 @@ PLATFORMS
 
 DEPENDENCIES
   autoprefixer-rails
-  image_optim (~> 0.26.1)
-  image_optim_pack (~> 0.5.1)
+  image_optim
+  image_optim_pack
   jekyll
   jekyll-assets
   jekyll-sitemap
   jekyll-tidy
   rake
-  therubyracer (~> 0.12.3)
+  therubyracer
   uglifier
 
 BUNDLED WITH
