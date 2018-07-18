@@ -75,7 +75,7 @@ Abanderado de la bandera nacional en la jura del 23/03/2018.
 Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"} // 2016  
 - *El libro en vivo*. Organizado por EUDEBA, II Bienal de Diseño FADU--UBA // 2015  
 Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
-- *Seminario de vivienda y urbanismo social*. Dictado por el Arq. Fermín Estrella y la Arq. Beatríz Pedro. FADU--UBA // 2014
+- *Seminario de vivienda y urbanismo social*. Dictado por el Arq. Fermín Estrella y la Arq. Beatriz H. Pedro. FADU--UBA // 2014
 - *Introducción al diseño de tipografías*, I Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](https://www.facebook.com/TipitosArgentinos/){:target="_blank"} // 2013
 - *Refinamiento macro y micro tipográfico*. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013
 - *Taller de creación de imágenes audiovisuales* (SEU--FADU--UBA) Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009
