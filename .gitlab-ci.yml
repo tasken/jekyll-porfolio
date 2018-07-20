@@ -45,6 +45,8 @@ build:
 
 deploy:
   stage: deploy
+  variables:
+    GIT_STRATEGY: none
   image: alpine:latest
   cache: {}
   when: on_success
