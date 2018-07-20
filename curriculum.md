@@ -84,8 +84,8 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 ## Ámbito Académico
 
 ### Docencia
-- **Jefe de Trabajos Prácticos** // 2018 -- presente
-    - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}.
+- **Jefe de Trabajos Prácticos**
+    - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"} // 2018 -- presente
 - **Ayudante de primera**
     - Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2018 -- presente
 - **Ayudante de segunda**
@@ -100,12 +100,14 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 - Proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
 Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social.  
 Proyecto en conjunto con: Lucas Giono, Amelia Ojeda, Camila Álvarez, Andrea Cabrera y Magdalena Castría.
-    - Jornadas Si + Campos, FADU--UBA // 2018  
     - Cuarto Congreso DiSUR, Dimensión política del diseño en Latinoamérica. *Debates y desafíos* // 2017
     - II Jornadas sobre Diseño Social, organizadas por la Dra. María del Valle Ledesma, FADU--UBA // 2017
     - II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Investigaciones territoriales: experiencias y miradas*, UNC // 2016  
     - Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas*, FADU--UBA // 2015  
     - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014  
+
+### Publicaciones
+- Daniele, Augusto y Szlifman, Mariel; “[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}”. En: _[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del Centro Argentino de Investigadores de Arte (CAIA)_. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"} | Primer semestre 2018, pp. 125-140.
 
 ### Trabajos publicados en
 - [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018
@@ -126,7 +128,6 @@ Proyecto en conjunto con: Lucas Giono, Amelia Ojeda, Camila Álvarez, Andrea Cab
 ## Otras actividades
 - [Viajar](https://goo.gl/3Jk8tJ).
 - Cinéfilo, lector y muy curioso.
-- Participante de diversos grupos de diseño.
 - Safari de imagen nocturna, CCR // 2012
 - Cofundador de la [Comunidad argentina de Mozilla](https://www.facebook.com/mozilla.ar){:target="_blank"} // 2007
 - Taller de filosofía y cine con Marcelo Pompei // 2009 -- 2010
