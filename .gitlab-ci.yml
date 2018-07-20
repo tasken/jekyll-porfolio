@@ -1,9 +1,9 @@
 image: ruby:2.5.1
 
 variables:
-  JEKYLL_ENV: production
+  JEKYLL_ENV: development
   LC_ALL: C.UTF-8
-  NOKOGIRI_USE_SYSTEM_LIBRARIES: "true"
+  BUNDLE_BUILD__NOKOGIRI: --use-system-libraries
 
 cache:
   key: ${CI_COMMIT_REF_SLUG}
@@ -20,8 +20,6 @@ before_script:
 
 pages:
   stage: test
-  variables:
-    JEKYLL_ENV: development
   script:
   - bundle exec jekyll build -d public --config _config.yml,_config.dev.yml
   artifacts:
@@ -32,6 +30,8 @@ pages:
 
 build:
   stage: build
+  variables:
+    JEKYLL_ENV: production
   when: manual
   allow_failure: false
   script:
