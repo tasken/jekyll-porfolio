@@ -107,7 +107,7 @@ Proyecto en conjunto con: Lucas Giono, Amelia Ojeda, Camila Álvarez, Andrea Cab
     - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014  
 
 ### Publicaciones
-- Daniele, Augusto y Szlifman, Mariel; “[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}”. En: _[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del Centro Argentino de Investigadores de Arte (CAIA)_. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"} | Primer semestre 2018, pp. 125-140.
+- Daniele, Augusto y Szlifman, Mariel; “[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}”. En: _[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del Centro Argentino de Investigadores de Arte (CAIA)_. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125--140.
 
 ### Trabajos publicados en
 - [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018
