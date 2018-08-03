@@ -69,7 +69,7 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - *Industrias Culturales: claves para su gestión y desarrollo* // 2017 -- Diplomatura en 2018  
 Curso de posgrado en la [*Universidad Nacional de Tres de Febrero*](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"}
 - ***Diseño Gráfico*** // 2008 -- 2016  
-Titulo de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}.  
+Título de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}.  
 Abanderado de la bandera nacional en la jura del 23/03/2018.
 - *Pensar y actuar en una época oscura* // 2016  
 Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"} // 2016  
