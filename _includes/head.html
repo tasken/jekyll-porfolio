@@ -22,13 +22,13 @@
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/apple-touch-icon-144-precomposed.png">
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
 
-    <meta property="og:type" content="website" />
-    <meta property="og:title" content="Augusto Daniele" />
-    <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
-    <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/ui/home_brothers.jpg" />
-    <meta property="og:description" content="{{ site.tagline }}" />
-
     {% if jekyll.environment == "production" %}
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Augusto Daniele" />
+        <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" />
+        <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/img/ui/home_brothers.jpg" />
+        <meta property="og:description" content="{{ site.tagline }}" />
+
         {% include gtag.html %}
     {% endif %}
 </head>
