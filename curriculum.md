@@ -65,14 +65,15 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - Cooperación y comunicación productiva en equipos.
 - Alto desempeño y autodidacta en tecnologías digitales.
 
-## Educación y capacitación
-- 1º Jornadas de Formación Docente (FormarFADU) // 2018  
-Actividades: *Didáctica Proyectual* dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"} y *Reinventar la clase en la Universidad* dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
+## Educación
 - *Industrias Culturales: claves para su gestión y desarrollo* // 2017 -- Diplomatura en 2018  
 Curso de posgrado en la [*Universidad Nacional de Tres de Febrero*](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"}.
 - ***Diseño Gráfico*** // 2008 -- 2016  
-Título de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}.  
-Abanderado de la bandera nacional en la jura del 23/03/2018.
+Título de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
+
+## Capacitación
+- 1º Jornadas de Formación Docente, FormarFADU // 2018  
+Actividades: *Didáctica Proyectual* dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"} y *Reinventar la clase en la Universidad* dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
 - *Pensar y actuar en una época oscura* // 2016  
 Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"}.
 - *El libro en vivo*. Organizado por EUDEBA, II Bienal de Diseño FADU--UBA // 2015  
@@ -80,7 +81,8 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
 - *Seminario de vivienda y urbanismo social*. Dictado por el Arq. Fermín Estrella y la Arq. Beatriz H. Pedro. FADU--UBA // 2014
 - *Introducción al diseño de tipografías*, I Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](https://www.facebook.com/TipitosArgentinos/){:target="_blank"} // 2013
 - *Refinamiento macro y micro tipográfico*. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013
-- *Taller de creación de imágenes audiovisuales* (SEU--FADU--UBA) Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009
+- Safari de imagen nocturna, CCR. Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2012
+- *Taller de creación de imágenes audiovisuales*, SEU--FADU--UBA. Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009
 - Fotografía Avanzada (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007
 
 ## Ámbito Académico
@@ -109,7 +111,7 @@ Proyecto en conjunto con: Lucas Giono, Amelia Ojeda, Camila Álvarez, Andrea Cab
     - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014  
 
 ### Publicaciones
-- Daniele, Augusto y Szlifman, Mariel; “[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}”. En: _[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del Centro Argentino de Investigadores de Arte (CAIA)_. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125--140.
+- Daniele, Augusto y Szlifman, Mariel; “[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}”. En: _[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del Centro Argentino de Investigadores de Arte (CAIA)_. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125 -- 140.
 
 ### Trabajos publicados en
 - [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018
@@ -130,7 +132,6 @@ Proyecto en conjunto con: Lucas Giono, Amelia Ojeda, Camila Álvarez, Andrea Cab
 ## Otras actividades
 - [Viajar](https://goo.gl/3Jk8tJ).
 - Cinéfilo, lector y muy curioso.
-- Safari de imagen nocturna, CCR // 2012
 - Cofundador de la [Comunidad argentina de Mozilla](https://www.facebook.com/mozilla.ar){:target="_blank"} // 2007
 - Taller de filosofía y cine con Marcelo Pompei // 2009 -- 2010
 - Curso de Astronomía General, [Planetario Galileo Galilei](http://www.planetario.gob.ar){:target="_blank"} // 2008
