@@ -1,4 +1,4 @@
-image: ruby:2.5.1
+image: ruby:latest
 
 variables:
   JEKYLL_ENV: development
@@ -18,6 +18,9 @@ stages:
 before_script:
   - bundle install --path vendor
 
+only:
+  - master
+
 pages:
   stage: test
   script:
@@ -25,8 +28,6 @@ pages:
   artifacts:
     paths:
     - public
-  only:
-  - master
 
 build:
   stage: build
@@ -40,8 +41,6 @@ build:
   artifacts:
     paths:
     - deploy
-  only:
-  - master
 
 deploy:
   stage: deploy
@@ -62,8 +61,6 @@ deploy:
   - ssh-keyscan -H $PRODUCTION_SERVER >> ~/.ssh/known_hosts
   - chmod 644 ~/.ssh/known_hosts
   script:
-  - rsync -hrvz --delete-before --exclude=.well-known -e ssh deploy/ "${SSH_USER_HOST_LOCATION}"
+  - rsync -hriz --delete-before --exclude=.well-known -e ssh deploy/ "${SSH_USER_HOST_LOCATION}"
   dependencies:
   - build
-  only:
-  - master
