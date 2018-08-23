@@ -12,9 +12,8 @@ Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño 
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
 
 **Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- 03.2018  
-[*The Plus*](https://theplus.agency){:target="_blank"}*{: .empleador}  
-Análisis de requerimientos funcionales para aplicaciones y sitios web, casos de uso, desarrollo de esquema de base de datos, diseño UI/UX, mockups, y wireframes.  
-Desarrollo en HTML5 y CSS3, templates para Wagtail (Django), e emails responsive (MJML). Experiencia básica con JavaScript (nativo y ECMAScript 6), React, y Python.  
+[*The Plus*](https://theplus.agency){:target="_blank"}{: .empleador}  
+Análisis de requerimientos funcionales para aplicaciones y sitios web, casos de uso, desarrollo de esquema de base de datos, diseño UI/UX, mockups, y wireframes. Desarrollo en HTML5 y CSS3, templates para Wagtail (Django), e emails responsive (MJML). Experiencia básica con JavaScript (nativo y ECMAScript 6), React, y Python.  
 
 **Oficial de marketing y desarrollador web**{: .puesto} // 08.2015 -- 12.2016  
 [*Amazónica*](http://www.amazonica.com.ar){:target="_blank"}{: .empleador}  
@@ -25,19 +24,19 @@ Encargado del marketing digital, newsletters, Facebook ads, análisis de métric
 Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tablet y desktop). Diseño editorial e identidad. Desarrollo de logos para publicaciones en español de mangas. Diseño y gestión de campañas online (Facebook).  
 
 **Diseñador gráfico**{: .puesto} // 05.2013 -- 12.2014  
-[*Grupo KPR*](http://www.kpr.com.ar){:target="_blank"} -- [*Búho Comunicación*](http://www.buhocomunicacion.com.ar){:target="_blank"}{: .empleador}  
+[*Grupo KPR*](http://www.kpr.com.ar){:target="_blank"}{: .empleador} -- [*Búho Comunicación*](http://www.buhocomunicacion.com.ar){:target="_blank"}{: .empleador}  
 Manejo directo de cuentas medianas y grandes (de distintos sectores), diseño de identidad, corporativo y publicitaria, diseño y gestión de campañas online (Facebook), diseño editorial, desarrollo de nuevas campañas de comunicación.  
 
 **Diseñador gráfico**{: .puesto} // 10.2012 -- 04.2013  
-*Industrias Culturales Argentinas* -- *Dot Pre Press S.A.*{: .empleador}  
+*Industrias Culturales Argentinas*{: .empleador} -- *Dot Pre Press S.A.*{: .empleador}  
 Diseño y desarrollo editorial e identidad, preparación de originales para preprensa. Trabajo en coordinación con el sector de preprensa, offset digital y ripeador de filminas.  
 
 **Project leader**{: .puesto} // 06.2011 -- 09.2012  
-*Previsite Argentina* -- *ONELOOP*{: .empleador}  
+*Previsite Argentina*{: .empleador} -- *ONELOOP*{: .empleador}  
 Implementación de las bases de un sistema de difusión online para inmobiliarias. Dirección del sector de maquetación. Comunicación y gestión entre sectores de diseño, desarrollo, implementación, marketing y dirección. Soporte e implementación de herramientas de desk support. Implementación y optimización de nuevas tecnologías para sitios web.  
 
 **Diseñador a cargo**{: .puesto} *(consultor externo)* // 2010 -- 2011  
-[*Universidad Tecnológica Nacional*](http://www.utn.edu.ar){:target="_blank"} -- [*Subsecretaría  de Puertos y Vías Navegables*](http://www.sspyvn.gov.ar){:target="_blank"}{: .empleador}  
+[*Universidad Tecnológica Nacional*](http://www.utn.edu.ar){:target="_blank"}{: .empleador} -- [*Subsecretaría  de Puertos y Vías Navegables*](http://www.sspyvn.gov.ar){:target="_blank"}{: .empleador}  
 Responsable de diseño y creación del estilo para el manual 2010--2011 del *Plan Maestro y Director del Sistema de Navegación Troncal*.  
 
 **Fotógrafo**{: .puesto} *(consultor externo)* // 2010  
@@ -45,7 +44,7 @@ Responsable de diseño y creación del estilo para el manual 2010--2011 del *Pla
 Relevamiento / toma y edición de material fotográfico para el *Estudio de impacto ambiental y social de un proyecto ferroviario en la Quebrada de Humahuaca, Jujuy. INECO--ECOCONSULT*.  
 
 **Diagramador**{: .puesto} // 02.2009 -- 09.2010  
-[*Fundación Reunión de Administradores*](http://www.reunion-adm.com){:target="_blank"} -- [*Tesco S.A.*](http://www.fra.org.ar/tesco.asp){:target="_blank"}{: .empleador}  
+[*Fundación Reunión de Administradores*](http://www.reunion-adm.com){:target="_blank"}{: .empleador} -- [*Tesco S.A.*](http://www.fra.org.ar/tesco.asp){:target="_blank"}{: .empleador}  
 Diagramación de revista *Reunión de Administradores*, publicación mensual (tirada 2000 ejemplares, 44 páginas color), adaptación del diseño de Quark a InDesign, diseño de publicidades, panfletos, volantes, soporte diseño y actualización de sitios web. Mantenimiento de sistemas.  
 
 {% comment %}
