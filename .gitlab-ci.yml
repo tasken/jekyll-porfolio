@@ -62,7 +62,7 @@ deploy:
   - ssh-keyscan -H $PRODUCTION_SERVER >> ~/.ssh/known_hosts
   - chmod 644 ~/.ssh/known_hosts
   script:
-  - rsync -hriz --delete-before --exclude=.well-known -e ssh deploy/ "${SSH_USER_HOST_LOCATION}"
+  - rsync -hrvz --delete-before --exclude=.well-known -e ssh deploy/ "${SSH_USER_HOST_LOCATION}"
   dependencies:
   - build
   only:
