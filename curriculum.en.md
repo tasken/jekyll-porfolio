@@ -10,49 +10,45 @@ sitemap: false
 Self-managed job tracking of my own projects. Websites, publishing design, internal communications, corporate identity, web design, etc.  
 
 **UI/UX designer**{: .puesto} // 04.2018 -- present  
-*[White Prompt](https://www.whiteprompt.com){:target="_blank"}*{: .empleador}  
+[*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
 
 **Functional analyst and web developer**{: .puesto} // 08.2017 -- 03.2018  
-*[The Plus.](http://www.theplus.agency){:target="_blank"}*{: .empleador}  
+[*The Plus.*](http://www.theplus.agency){:target="_blank"}{: .empleador}  
 
 **CMO and front-end web developer**{: .puesto} // 2015 -- 2016  
-*[Amazónica](http://www.amazonica.com.ar){:target="_blank"}*{: .empleador}  
+[*Amazónica*](http://www.amazonica.com.ar){:target="_blank"}{: .empleador}  
 Responsible for digital marketing, newsletters, Facebook ads, metrics analysis, website development with e-commerce.  
 
 **Graphic designer**{: .puesto} // 2015 -- 2016  
-*[Teodoro. Digital and Creative Studio](http://mundoteodoro.com){:target="_blank"}*{: .empleador}  
+[*Teodoro. Digital and Creative Studio*](http://mundoteodoro.com){:target="_blank"}{: .empleador}  
 Responsive design and development of sites with 3 or more breakpoints (mobile, tablet and desktop). Logo and publishing design. Website updates, design and management of online campaigns (Facebook).  
 
 **Graphic designer**{: .puesto} // 2013 -- 2014  
-*[Grupo KPR](http://www.kpr.com.ar){:target="_blank"} -- [Búho Comunicación](http://www.buhocomunicacion.com.ar){:target="_blank"}*{: .empleador}  
+[*Grupo KPR*](http://www.kpr.com.ar){:target="_blank"}{: .empleador} -- [*Búho Comunicación*](http://www.buhocomunicacion.com.ar){:target="_blank"}{: .empleador}  
 Direct management of medium and large accounts (within different sectors), identity design, corporate and advertising, design and management of online campaigns ads (Facebook), publishing design, development of new campaigns.  
 
 **Graphic designer**{: .puesto} // 2012 -- 2013  
-*Industrias Culturales Argentinas -- Dot Pre Press S.A.*{: .empleador}  
+*Industrias Culturales Argentinas*{: .empleador} -- *Dot Pre Press S.A.*{: .empleador}  
 Publishing and identity design, art and copy preparation for prepress. Internalization processes with prepress, digital offset and film processor.  
 
 **Project leader**{: .puesto} // 2011 -- 2012  
-*Previsite Argentina -- ONELOOP*{: .empleador}  
+*Previsite Argentina*{: .empleador} -- *ONELOOP*{: .empleador}  
 Basis development of an online app for realtors. Layout and design leader. Communication and management between sectors of design, development, implementation, marketing and management. Support and implementation of desk support tools. Implementation and optimization of new technologies for websites and services.  
 
 **Design manager**{: .puesto} (external consultant) // 2010 -- 2011  
-*[Universidad Tecnológica Nacional](http://www.utn.edu.ar){:target="_blank"} -- [Subsecretaria de Puertos y Vías Navegables](http://www.sspyvn.gov.ar){:target="_blank"}*{: .empleador}  
+[*Universidad Tecnológica Nacional*](http://www.utn.edu.ar){:target="_blank"}{: .empleador} -- [*Subsecretaria de Puertos y Vías Navegables*](http://www.sspyvn.gov.ar){:target="_blank"}{: .empleador}  
 Responsible for designing and creating the design style manual 2010--2011 *Plan Maestro y Director del Sistema de Navegación Troncal*.  
 
 **Photographer**{: .puesto} (external consultant) // 2010  
-*[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
+[*Estudio de Ambiente y Desarrollo S.R.L.*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
 Survey / photo taking and editing material for the "Study of environmental and social impact of a railway project in the Quebrada de Humahuaca, Jujuy. INECO--ECOCONSULT".  
 
 **Magazine designer**{: .puesto} // 2009 -- 2010  
-*[Fundación Reunión de Administradores](http://www.reunion-adm.com){:target="_blank"} -- [Tesco S.A.](http://www.fra.org.ar/tesco.asp){:target="_blank"}*{: .empleador}  
+[*Fundación Reunión de Administradores*](http://www.reunion-adm.com){:target="_blank"}{: .empleador} -- [*Tesco S.A.*](http://www.fra.org.ar/tesco.asp){:target="_blank"}{: .empleador}  
 Magazine layout "Reunión de Administradores", a monthly publication (2000 copies, 44 pages color), adapting the design of Quark to InDesign, ad design, brochures, flyers, stand design and website updates. System maintenance.
 
-<!-- **Junior designer**{: .puesto} // 2006 -- 2008  
-*Bepinel Regalos*{: .empleador}  
-Shopping bags and labels design; photos for business calendars. -->
-
 **Graphic and system support**{: .puesto} // 2003 -- 2010  
-*[Estudio de Ambiente y Desarrollo S.R.L.](http://estudioayd.com.ar){:target="_blank"}*{: .empleador}  
+[*Estudio de Ambiente y Desarrollo S.R.L.*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
 Corporate image development, development and updating of web site design over 15 posters presented at national and international conferences, graphics and figures design for specialized technical publications, support and system maintenance, network administration.  
 
 ## Expertise

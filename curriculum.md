@@ -47,11 +47,9 @@ Relevamiento / toma y edición de material fotográfico para el *Estudio de impa
 [*Fundación Reunión de Administradores*](http://www.reunion-adm.com){:target="_blank"}{: .empleador} -- [*Tesco S.A.*](http://www.fra.org.ar/tesco.asp){:target="_blank"}{: .empleador}  
 Diagramación de revista *Reunión de Administradores*, publicación mensual (tirada 2000 ejemplares, 44 páginas color), adaptación del diseño de Quark a InDesign, diseño de publicidades, panfletos, volantes, soporte diseño y actualización de sitios web. Mantenimiento de sistemas.  
 
-{% comment %}
-**Soporte gráfico y de sistemas**{: .puesto} // 2003 -- 2010  
+**Soporte gráfico y sistemas**{: .puesto} // 2003 -- 2010  
 [*Estudio de Ambiente y Desarrollo S.R.L.*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
 Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, diseño de más de 15 posters presentados en congresos nacionales e internacionales, diseño de gráficos y figuras para publicaciones técnicas especializadas, soporte y mantenimiento informático, administración de redes.  
-{% endcomment %}
 
 ## Conocimientos
 - Desempeño avanzado con programas de diseño: Adobe Creative Cloud.
@@ -95,7 +93,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
     - Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2015 -- 2017
     - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"} // 2014 -- 2017
     - Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- 2017
-- **Disertante de workshop**
+- **Disertante**
     - *Cartografiando la FADU. Del registro locativo móvil a la obra editada*, III Bienal de Diseño FADU--UBA // 2017
     - *Taller de gráfica colectiva sobre el derecho a la ciudad*, III Bienal de Diseño FADU--UBA // 2017
 
@@ -157,6 +155,7 @@ Contactos laborales disponibles de ser requeridos.
 *[HTML5]: HyperText Markup Language v5
 *[MyC]: Morfología y Comunicación
 *[PHP]: PHP: Hypertext Preprocessor
+*[Previsite Argentina]: Sumaprop en la actualidad
 *[PIA]: Proyectos de Investigación Avanzados
 *[S.A.]: Sociedad Anónima
 *[S.R.L.]: Sociedad de Responsabilidad Limitada
