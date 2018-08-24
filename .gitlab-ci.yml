@@ -51,7 +51,7 @@ deploy:
   cache: {}
   when: on_success
   environment:
-    name: 'Augusto Daniele'
+    name: 'NearlyFreeSpeech'
     url: https://augustodaniele.com.ar
   before_script:
   - 'which ssh-agent || ( apk update && apk add openssh-client bash rsync )'
