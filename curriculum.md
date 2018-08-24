@@ -71,18 +71,18 @@ Curso de posgrado en la [Universidad Nacional de Tres de Febrero](https://www.un
 Título de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
 ## Capacitación
-- 1º Jornadas de Formación Docente, FormarFADU // 2018  
+- *1º Jornadas de Formación Docente*, FormarFADU, FADU--UBA // 2018  
 Actividades: *Didáctica Proyectual* dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"} y *Reinventar la clase en la Universidad* dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
 - *Pensar y actuar en una época oscura* // 2016  
 Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"}.
-- *El libro en vivo*. Organizado por EUDEBA, II Bienal de Diseño FADU--UBA // 2015  
-Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
-- *Seminario de vivienda y urbanismo social*. Dictado por el Arq. Fermín Estrella y la Arq. Beatriz H. Pedro. FADU--UBA // 2014
-- *Introducción al diseño de tipografías*, I Bienal de Diseño FADU--UBA. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](https://www.facebook.com/TipitosArgentinos/){:target="_blank"} // 2013
-- *Refinamiento macro y micro tipográfico*. Dictado por Tipitos Argentinos a cargo de [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013
-- Safari de imagen nocturna, CCR. Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2012
-- *Taller de creación de imágenes audiovisuales*, SEU--FADU--UBA. Dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"} // 2009
-- Fotografía Avanzada (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007
+- *El libro en vivo*, organizado por EUDEBA, II Bienal de Diseño, FADU--UBA // 2015  
+Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
+- *Seminario de vivienda y urbanismo social*, dictado por el Arq. Fermín Estrella y la Arq. Beatriz H. Pedro, FADU--UBA // 2014
+- *Introducción al diseño de tipografías*, dictado por Tipitos Argentinos a cargo de [Aldo de Losa](https://www.facebook.com/TipitosArgentinos/){:target="_blank"}, I Bienal de Diseño, FADU--UBA // 2013
+- *Refinamiento macro y micro tipográfico*, dictado por [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"}, Tipitos Argentinos // 2013
+- *Safari de imagen nocturna*, dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"}, CCR // 2012
+- *Taller de creación de imágenes audiovisuales*, dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"}, SEU--FADU--UBA // 2009
+- Diversos cursos de fotografía práctica y teórica (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007
 
 ## Ámbito Académico
 
@@ -100,7 +100,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*. Dictado por P
     - *Taller de gráfica colectiva sobre el derecho a la ciudad*, III Bienal de Diseño FADU--UBA // 2017
 
 ### Investigación
-- Integrante del proyecto UBACyT *El derecho a la imagen: figuraciones de colectivos desfavorecidos de la sociedad en el diseño emergente argentino*, dirigido por la Dra. María del Valle Ledesma, UBA // 2018 -- presente
+- Integrante del proyecto UBACyT *El derecho a la imagen: figuraciones de colectivos desfavorecidos de la sociedad en el diseño emergente argentino (2007 -- 2017)*, dirigido por la Dra. María del Valle Ledesma, UBA // 2018 -- presente
 - Integrante del proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
 *Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social*.  
 Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvarez, DIyS Andrea Cabrera y DG Magdalena Castría.
