@@ -2,7 +2,7 @@
 layout: proyecto
 title: "Heterotopías urbanas"
 trabajo: "Intervención sobre pared"
-tags: [Arte, Ciecia, Tecnología, Instalación, FASE 8.0]
+tags: [Arte, Ciencia, Tecnología, Instalación]
 date: 2016-11-29
 ---
 
@@ -18,7 +18,7 @@ PERCEPCIÓN  ›  IMÁGENES  ›  TEXTO  ›  IMÁGENES TÉCNICAS  ›  INFORMÁ
 
 Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciudad como un hipertexto, conectándolo con el mundo virtual: el teléfono inteligente posee un receptor GPS que al recibir señales de distintos satélites que orbitan a más de 20.000 km del planeta, es capaz de calcular su posición dentro de un sistema de coordenadas geográficas, que a su vez se pueden visualizar como un punto en un mapa.  
 
-#### Inauguración
+#### Inauguración FASE 8.0, CCR // 2016
 
 <div class="fotorama" data-loop="true">
     <img src="{{ site.baseurl }}/img/2016_heterotopías-3.jpg" alt="Inauguración en FASE" />
@@ -28,7 +28,7 @@ Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciu
     <img src="{{ site.baseurl }}/img/2016_heterotopías-7.jpg" alt="Inauguración en FASE" />
 </div>
 
-#### Trabajo del cual surge el proyecto
+#### Orígenes
 Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 <div class="fotorama" data-loop="true">
@@ -46,10 +46,11 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 </div>
 
 #### Exposiciones
-- [Libros de Artista](https://www.instagram.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
-- Encuentro FASE 8.0, Pensar la praxis, CCR, CABA // 2016
+- [*Libros de Artista*](https://www.instagram.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
+- *Festival Escalatrónica 2017*, Segundo festival internacional de arte electrónico, obra seleccinada, UNLa, Lanús, Provincia de Buenos Aires // 2017
+- *Encuentro FASE 8.0*, Pensar la praxis, CCR, CABA // 2016
 
-#### Menciones
+#### Prensa
 - [**Reflexiones en torno a la producción audiovisual: el diseño como obstáculo**](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom ([mirror](https://web.archive.org/web/20180520215528/https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}).
 - [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018.
 - [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}).
@@ -66,6 +67,7 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 *[diCom]: Diseño Comunicacional
 *[CCR]: Centro Cultural Recoleta
 *[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
-*[UBA]: Universidad de Buenos Aires
+*[UBA]: Universidad de Buenos Aire
+*[UNLa]: Universidad Nacional de Lanús
 *[CABA]: Ciudad Autónoma de Buenos Aires
 *[GPS]: Global Positioning System
