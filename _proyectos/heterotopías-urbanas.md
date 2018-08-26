@@ -51,13 +51,13 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 - *Encuentro FASE 8.0*, Pensar la praxis, CCR, CABA // 2016
 
 #### Menciones
-- [**Reflexiones en torno a la producción audiovisual: el diseño como obstáculo**](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom ([mirror](https://web.archive.org/web/20180520215528/https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}).
-- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018.
-- [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}).
+- [*Reflexiones en torno a la producción audiovisual: el diseño como obstáculo*](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom ([mirror](https://web.archive.org/web/20180520215528/https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"})
+- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018
+- [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"})
 - Publicado en el catálogo de la III Bienal FADU--UBA, materia Diseño Audiovisual, cátedra La Ferla, carrera de Diseño Gráfico // 2017
-- [Arte Hispano](http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"} ([mirror](https://web.archive.org/web/20180520215645/http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"}).
-- *Encuentro con otro arte*, [Revista Ñ](http://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011746/https://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"}).
-- *FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*, [blog de María de Vedia](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011915/http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"}).
+- [*Arte Hispano*](http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"} ([mirror](https://web.archive.org/web/20180520215645/http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"})
+- *Encuentro con otro arte*, [Revista Ñ](http://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011746/https://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"})
+- *FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*, [blog de María de Vedia](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011915/http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"})
 
 #### Links complementarios
 - [Proyecto en Instagram](https://www.instagram.com/heterotopias.urbanas/){:target="_blank"}
@@ -67,7 +67,7 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 *[diCom]: Diseño Comunicacional
 *[CCR]: Centro Cultural Recoleta
 *[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
-*[UBA]: Universidad de Buenos Aire
+*[UBA]: Universidad de Buenos Aires
 *[UNLa]: Universidad Nacional de Lanús
 *[CABA]: Ciudad Autónoma de Buenos Aires
 *[GPS]: Global Positioning System
