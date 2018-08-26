@@ -315,6 +315,7 @@ sub { top: .4em; }
     overflow: hidden;
     max-width: 100%;
     border-radius: 4px;
+    &.ar-75 { padding-bottom: 75%; }
     iframe,
     object,
     embed {

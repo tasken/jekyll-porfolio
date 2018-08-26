@@ -25,4 +25,4 @@ Elaboración de un objeto a partir de una pista de audio brindada por la cátedr
 </div>
 
 ## Video
-<div class="embed-container"><iframe src="https://player.vimeo.com/video/31470550?title=0&byline=0&portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div class="embed-container ar-75"><iframe src="https://player.vimeo.com/video/31470550?title=0&byline=0&portrait=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
