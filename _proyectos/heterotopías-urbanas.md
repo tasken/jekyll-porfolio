@@ -28,7 +28,7 @@ Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciu
     <img src="{{ site.baseurl }}/img/2016_heterotopías-7.jpg" alt="Inauguración en FASE" />
 </div>
 
-#### Orígenes
+#### Orígenes del proyecto
 Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 <div class="fotorama" data-loop="true">
@@ -47,10 +47,10 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 #### Exposiciones
 - [*Libros de Artista*](https://www.instagram.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
-- *Festival Escalatrónica 2017*, Segundo festival internacional de arte electrónico, obra seleccinada, UNLa, Lanús, Provincia de Buenos Aires // 2017
+- [*Festival Escalatrónica 2017*](http://www.unla.edu.ar/index.php/escalatronica/){:target="_blank"}, Segundo festival internacional de arte electrónico, obra seleccinada, UNLa, Lanús, Provincia de Buenos Aires // 2017
 - *Encuentro FASE 8.0*, Pensar la praxis, CCR, CABA // 2016
 
-#### Prensa
+#### Menciones
 - [**Reflexiones en torno a la producción audiovisual: el diseño como obstáculo**](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom ([mirror](https://web.archive.org/web/20180520215528/https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}).
 - [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018.
 - [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}).

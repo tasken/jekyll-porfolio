@@ -68,7 +68,7 @@ Curso de posgrado en la [Universidad Nacional de Tres de Febrero](https://www.un
 - ***Diseño Gráfico*** // 2008 -- 2016  
 Título de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
-## Capacitación
+## Formación
 - *1º Jornadas de Formación Docente*, FormarFADU, FADU--UBA // 2018  
 Actividades: *Didáctica Proyectual* dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"} y *Reinventar la clase en la Universidad* dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
 - *Pensar y actuar en una época oscura* // 2016  

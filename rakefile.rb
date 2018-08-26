@@ -26,11 +26,7 @@ task :clean do
     sh 'bundle exec jekyll clean'
 end
 
-task :image_optim => [:clean] do |t|
+task :imageoptim => [:clean] do |t|
     puts 'Crunch site images using image_optim'
     sh 'image_optim -r . --verbose'
-end
-
-task :reset do
-    sh 'git reset --hard HEAD'
 end
