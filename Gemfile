@@ -8,5 +8,5 @@ gem 'jekyll-assets'
 gem 'jekyll-sitemap'
 gem 'jekyll-tidy'
 gem 'rake'
-gem 'therubyracer', :platforms => :ruby
+gem 'therubyracer'
 gem 'uglifier'
