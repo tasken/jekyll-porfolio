@@ -1,4 +1,4 @@
-image: starefossen/ruby-node
+image: starefossen/ruby-node:slim
 
 variables:
   JEKYLL_ENV: development
