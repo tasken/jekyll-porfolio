@@ -33,10 +33,12 @@ prioridad: 5
 - *Imágenes precarias*, Estudio Uno Arte, CABA // 2006
 - *Palermo fest*, El Baldío Móvil, CABA // 2006
 
+*[AMIA]: Asociación Mutual Israelita Argentina
 *[CABA]: Ciudad Autónoma de Buenos Aires
-*[UBA]: Universidad de Buenos Aires
 *[CCR]: Centro Cultural Recoleta
 *[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
-*[IMPA]: Industrias Metalúrgicas y Plásticas Argentina
-*[AMIA]: Asociación Mutual Israelita Argentina
 *[FoLa]: Fototeca Latinoamericana
+*[IMPA]: Industrias Metalúrgicas y Plásticas Argentina
+*[UBA]: Universidad de Buenos Aires
+*[UNLa]: Universidad Nacional de Lanús
+
