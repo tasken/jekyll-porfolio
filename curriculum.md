@@ -10,6 +10,7 @@ Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño 
 
 **Diseñador UI/UX**{: .puesto} // 04.2018 -- presente  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
+Análisis de negocio y funcional, diseño de interfaz de usuario, creación de prototipos, wireframing, sitemaps, flujos de usuarios, personas, casos de uso. Descubrimiento de marca (benchmark de diseño). Definiciones lado a lado con desarrolladores senior y semi senior.
 
 **Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- 03.2018  
 [*The Plus*](https://theplus.agency){:target="_blank"}{: .empleador}  

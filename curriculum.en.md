@@ -11,9 +11,11 @@ Self-managed job tracking of my own projects. Websites, publishing design, inter
 
 **UI/UX designer**{: .puesto} // 04.2018 -- present  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
+Business and functional analysis, user interface design, prototyping, wireframing, sitemaps, user flows, personas, use cases. Branding discovery (design benchmark). Side by side definitions with senior and semi senior developers.  
 
 **Functional analyst and web developer**{: .puesto} // 08.2017 -- 03.2018  
 [*The Plus.*](http://www.theplus.agency){:target="_blank"}{: .empleador}  
+Analysis of functional requirements for applications and websites, use cases, development of database schema, UI / UX design, mockups, and wireframes. Development in HTML5 and CSS3, templates for Wagtail (Django), and responsive emails (MJML). Basic understanding of JavaScript (native and ECMAScript 6), React, and Python development flows.  
 
 **CMO and front-end web developer**{: .puesto} // 2015 -- 2016  
 [*Amazónica*](http://www.amazonica.com.ar){:target="_blank"}{: .empleador}  
@@ -63,8 +65,10 @@ Corporate image development, development and updating of web site design over 15
 - High performance and self-taught in digital technologies.
 
 ## Education and training
-- **Graphic Design** // 2016  
-*Graduated from [Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.
+- *Cultural Industries: keys for its management and development* // 2017 - Diploma in 2018  
+Postgraduate course at the [Universidad Nacional de Tres de Febrero](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"}.
+- ***Graphic Design*** // 2008 -- 2016
+*Graduated from [Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.  Degree title of the [Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"} of the [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Flag bearer of the national flag in the oath of 23/03/2018.  
 - *I Conference on Social Design* // 2016  
 *Perspectives on design with social purposes*. Reflections on design with a social perspectives, under the UBACyT project led by Dr. María del Valle Ledesma.
 - Miguel Benasayag Chair, Sciences and politics, *La Vaca* Work collective // 2016  
