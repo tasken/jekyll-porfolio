@@ -8,7 +8,7 @@
             <h1><a href="{{ site.baseurl }}/">Augusto<br />Daniele</a></h1>
             <p class="lead">{{ site.tagline }}</p>
         </div>
-        <h3 class="titulo">Info</h3>
+        <h3 class="sidebar-nav-title">Info</h3>
 
         {% assign pages_list = site.pages | sort: 'prioridad' %}
         {% for node in pages_list %}
@@ -23,7 +23,7 @@
         {% for proyecto in proyectos reversed %}
             {% capture currentyear %}{{ proyecto.date | date: "%Y" }}{% endcapture %}
             {% if currentyear != year %}
-                <h3 class="titulo">{{ currentyear }}</h3>
+                <h3 class="sidebar-nav-title">{{ currentyear }}</h3>
                 {% capture year %}{{ currentyear }}{% endcapture %}
             {% endif %}
             <a href="{{ site.baseurl }}{{ proyecto.url }}" class="sidebar-nav-item{% if page.url == proyecto.url %} active{% endif %}">{% if proyecto.title-alt != null %}{{ proyecto.title-alt }}{% else %}{{ proyecto.title }}{% endif %}</a>
