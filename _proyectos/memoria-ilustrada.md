@@ -8,7 +8,7 @@ tags: [Historieta, Fotografía]
 date: 2011-07-03
 ---
 
-Trabajo realizado sobre el atentado de la AMIA dentro del proyecrto *Memoria ilustrada*. Historieta publicada en *[Memoria ilustrada: historietas para no olvidar](http://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja/23){:target="_blank"}* (FADU--UBA y AMIA) y en el [Flickr de la cátedra](https://www.flickr.com/photos/catedragroisman/5723330979/){:target="_blank"}.
+Trabajo realizado sobre el atentado de la AMIA dentro del proyecrto *Memoria ilustrada*. Historieta publicada en *[Memoria ilustrada: historietas para no olvidar](http://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja/23){:target="_blank"}* (FADU--UBA y AMIA) (pp. 20 -- 21) y en el [Flickr de la cátedra](https://www.flickr.com/photos/catedragroisman/5723330979/){:target="_blank"}.
 
 ![Historieta]({{ site.baseurl }}/img/2011_medios-01.jpg)
 
