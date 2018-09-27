@@ -52,7 +52,7 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 #### Menciones
 - [*Reflexiones en torno a la producción audiovisual: el diseño como obstáculo*](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom ([mirror](https://web.archive.org/web/20180520215528/https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"})
-- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, por Wolkowicz Editores // 2018
+- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018
 - [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"})
 - Publicado en el [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, carrera de Diseño Gráfico, p. 59 // 2017
 - [*Arte Hispano*](http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"} ([mirror](https://web.archive.org/web/20180520215645/http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"})
