@@ -26,10 +26,10 @@ prioridad: 5
     - [Sala Consigo](http://www.ramona.org.ar/node/18266){:target="_blank"}, São Paulo, Brasil // 2007
     - [*Palermo Fest*](http://www.ramona.org.ar/node/17620){:target="_blank"}, CABA // 2007
     - Centro de Convenciones, Villa la Angostura, Provincia de Neuquén // 2007
-- *SOS Tierra*, Centro Ecológico Guillermo Hudson, Provincia de Buenos Aires // 2007
+- *SOS Tierra*, Centro Ecológico Guillermo E. Hudson, Provincia de Buenos Aires // 2007
 - *Dípticos y trípticos*, El Baldío Móvil, CABA // 2007
-- *Periférica, arte de base*, Espacio "El Baldío Móvil", Centro Cultural Borges, CABA // 2006
-- *Encuentro de las artes*, junto al grupo "El Bondi", Centro Cultural Amancay, San Martín de los Andes, Provincia de Neuquén // 2006
+- *Periférica, arte de base*, Espacio «El Baldío Móvil», Centro Cultural Borges, CABA // 2006
+- *Encuentro de las artes*, junto al grupo «El Bondi», Centro Cultural Amancay, San Martín de los Andes, Provincia de Neuquén // 2006
 - *Imágenes precarias*, Estudio Uno Arte, CABA // 2006
 - *Palermo fest*, El Baldío Móvil, CABA // 2006
 
