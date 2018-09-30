@@ -10,7 +10,7 @@ Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño 
 
 **Diseñador UI/UX**{: .puesto} // 04.2018 -- presente  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
-Análisis de negocio y funcional, diseño de interfaz de usuario, creacizzón de prototipos, wireframing, sitemaps, flujos de usuarios, personas, casos de uso. Descubrimiento de marca (benchmark de diseño). Definiciones lado a lado con desarrolladores senior y semi senior.
+Análisis de negocio y funcional, diseño de interfaz de usuario, creación de prototipos, wireframing, sitemaps, flujos de usuarios, personas, casos de uso. Descubrimiento de marca (benchmark de diseño). Definiciones lado a lado con desarrolladores senior y semi senior.
 
 **Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- 03.2018  
 [*The Plus*](https://theplus.agency){:target="_blank"}{: .empleador}  
@@ -110,14 +110,14 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
     - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014  
 
 ### Publicaciones
-- “Hacer visible lo invisible”, en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018
-- “[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}”, coescrito con Mariel Szlifman. En: *[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del [Centro Argentino de Investigadores de Arte](http://www.caia.org.ar){:target="_blank"} (CAIA)*. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125 -- 140.
+- «“Hacer visible lo invisible», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018
+- «[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}», coescrito con Mariel Szlifman. En: *[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del [Centro Argentino de Investigadores de Arte](http://www.caia.org.ar){:target="_blank"} (CAIA)*. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125 -- 140.
 
 ### Trabajos publicados
-- “[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})”, en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018
-- “[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})”, en [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA, p. 59 // 2017
-- “[El hallazgo]({{ site.baseurl }}{% link _proyectos/memoria-ilustrada.md %})”, en [*Memoria ilustrada: Historietas para no olvidar*](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA, pp. 20 -- 21, // 2011
-- “Tangram”, en [*Gramática T'ang*](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"}, p. 16 // 2011
+- «[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018
+- «[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})», en [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA, p. 59 // 2017
+- «[El hallazgo]({{ site.baseurl }}{% link _proyectos/memoria-ilustrada.md %})», en [*Memoria ilustrada: Historietas para no olvidar*](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA, pp. 20 -- 21, // 2011
+- «Tangram», en [*Gramática T'ang*](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"}, p. 16 // 2011
 
 ## Reconocimientos
 - *Obsesión fatal*, Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012
