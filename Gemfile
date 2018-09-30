@@ -9,4 +9,3 @@ gem 'jekyll-sitemap'
 gem 'jekyll-tidy'
 gem 'rake'
 gem 'uglifier'
-
