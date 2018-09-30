@@ -67,4 +67,3 @@ deploy:
   - build
   only:
   - master
-  
