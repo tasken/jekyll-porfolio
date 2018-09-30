@@ -23,15 +23,14 @@ body {
 html {
     font-size: 16px;
     line-height: 1.5;
-}
-@media (min-width: 38em) {
-    html { font-size: 20px; }
+    @media (min-width: 38em) {
+        font-size: 20px;
+    }
 }
 
 body {
     color: #515151;
     background-color: #fff;
-    text-size-adjust: 100%;
 }
 
 a {
@@ -124,7 +123,6 @@ pre {
     padding: 1rem;
     font-size: .8rem;
     line-height: 1.4;
-    white-space: pre;
     white-space: pre-wrap;
     word-break: break-all;
     word-wrap: break-word;
@@ -149,10 +147,7 @@ blockquote {
     color: #7a7a7a;
     border-left: .25rem solid #e5e5e5;
     p:last-child { margin-bottom: 0; }
-}
-
-@media (min-width: 30em) {
-    blockquote {
+    @media (min-width: 30em) {
         padding-right: 5rem;
         padding-left: 1.25rem;
     }

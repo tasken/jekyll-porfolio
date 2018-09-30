@@ -3,9 +3,9 @@ html {
     font-size: 13.5px;
 }
 
-::scrollbar { width: 5px; }
-::scrollbar-track { background: #ddd; }
-::scrollbar-thumb { background: #666; }
+::-webkit-scrollbar { width: 5px; }
+::-webkit-scrollbar-track { background: #ddd; }
+::-webkit-scrollbar-thumb { background: #666; }
 
 html,
 body {
@@ -200,8 +200,7 @@ sub { top: .4em; }
     height: 100%;
     a { color: #1e1e20; }
     .sidebar-nav-title {
-        margin: 0;
-        margin-top: .75rem;
+        margin: .75rem 0 0;
         font-size: 1rem;
         line-height: 1.4rem;
     }
