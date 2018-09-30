@@ -110,7 +110,7 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
     - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014  
 
 ### Publicaciones
-- «“Hacer visible lo invisible», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018
+- «Hacer visible lo invisible», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018
 - «[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}», coescrito con Mariel Szlifman. En: *[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del [Centro Argentino de Investigadores de Arte](http://www.caia.org.ar){:target="_blank"} (CAIA)*. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125 -- 140.
 
 ### Trabajos publicados
