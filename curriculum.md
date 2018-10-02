@@ -100,7 +100,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
 
 ### Investigación
 - Integrante del proyecto UBACyT *El derecho a la imagen: figuraciones de colectivos desfavorecidos de la sociedad en el diseño emergente argentino (2007 -- 2017)*, dirigido por la [Dra. María del Valle Ledesma](https://maestriadicom.org/integrantes/dra-maria-del-valle-ledesma/){:target="_blank"}, UBA // 2018 -- presente
-- Codirector del proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
+- Integrante del proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
 *Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social*.  
 Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvarez, DIyS Andrea Cabrera y DG Magdalena Castría.
     - Cuarto Congreso DiSUR, *Dimensión política del diseño en Latinoamérica. Debates y desafíos* // 2017
