@@ -81,7 +81,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
 - *Refinamiento macro y micro tipográfico*, dictado por [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"}, Tipitos Argentinos // 2013
 - *Safari de imagen nocturna*, dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"}, CCR // 2012
 - *Taller de creación de imágenes audiovisuales*, dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"}, SEU--FADU--UBA // 2009
-- Diversos cursos de fotografía práctica y teórica (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"} // 2003 -- 2007
+- Cursos de fotografía práctica y teórica (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"}) // 2003 -- 2007
 
 ## Ámbito Académico
 
@@ -100,7 +100,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
 
 ### Investigación
 - Integrante del proyecto UBACyT *El derecho a la imagen: figuraciones de colectivos desfavorecidos de la sociedad en el diseño emergente argentino (2007 -- 2017)*, dirigido por la [Dra. María del Valle Ledesma](https://maestriadicom.org/integrantes/dra-maria-del-valle-ledesma/){:target="_blank"}, UBA // 2018 -- presente
-- Integrante del proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
+- Codirector del proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
 *Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social*.  
 Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvarez, DIyS Andrea Cabrera y DG Magdalena Castría.
     - Cuarto Congreso DiSUR, *Dimensión política del diseño en Latinoamérica. Debates y desafíos* // 2017
