@@ -8,7 +8,7 @@
 
 {% if page.path == "index.md" or page.path == "colofon.md" %}
 <script>
-    const images = ["home_brothers.jpg", "home_farm.jpg", "home_road.jpg"];
+    var images = ["home_brothers.jpg", "home_farm.jpg", "home_road.jpg"];
     $('<img class="fade-in" src="{{ site.baseurl }}/img/ui/'+images[Math.floor(Math.random()*images.length)]+'">').appendTo("#rnd-home");
 </script>
 {% endif %}
