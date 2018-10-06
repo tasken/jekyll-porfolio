@@ -10,7 +10,7 @@ date: 2017-10-19
 
 Desarrollo de maqueta HTML y CSS para el sitio [Nocito Constructora](https://www.nocitoconstructora.com.ar/){:target="_blank"}.
 
-<div class="fotorama" data-loop="true">
+<div class="carousel">
     <img src="{{ site.baseurl }}/img/2017_nocito-01.jpg" alt="Captura #1" />
     <img src="{{ site.baseurl }}/img/2017_nocito-02.jpg" alt="Captura #2" />
     <img src="{{ site.baseurl }}/img/2017_nocito-03.jpg" alt="Captura #3" />

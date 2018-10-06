@@ -20,7 +20,7 @@ Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciu
 
 #### Inauguración FASE 8.0, CCR // 2016
 
-<div class="fotorama" data-loop="true">
+<div class="carousel">
     <img src="{{ site.baseurl }}/img/2016_heterotopías-3.jpg" alt="Inauguración en FASE" />
     <img src="{{ site.baseurl }}/img/2016_heterotopías-4.jpg" alt="Inauguración en FASE" />
     <img src="{{ site.baseurl }}/img/2016_heterotopías-5.jpg" alt="Inauguración en FASE" />
@@ -31,7 +31,7 @@ Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciu
 #### Orígenes del proyecto
 Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
-<div class="fotorama" data-loop="true">
+<div class="carousel">
     <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-02.jpg" alt="Foto del trabajo inicial" />
     <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-03.jpg" alt="Foto del trabajo inicial" />
     <img src="{{ site.baseurl }}/img/2016_heterotopías-proceso-04.jpg" alt="Foto del trabajo inicial" />

@@ -13,7 +13,7 @@ Texto, imagen y visualización de información construyendo un sentido global: e
 ![Infografía]({{ site.baseurl }}/img/2013_infografia-1.jpg)
 
 ## Detalles
-<div class="fotorama" data-loop="true">
+<div class="carousel">
     <img src="{{ site.baseurl }}/img/2013_infografia-2.jpg" alt="Detalle de la infografía" />
     <img src="{{ site.baseurl }}/img/2013_infografia-3.jpg" alt="Detalle de la infografía" />
     <img src="{{ site.baseurl }}/img/2013_infografia-4.jpg" alt="Detalle de la infografía" />

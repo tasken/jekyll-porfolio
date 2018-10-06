@@ -7,7 +7,7 @@ tags: [Logo, Concurso, Identidad]
 date: 2010-08-08
 ---
 
-<div class="fotorama">
+<div class="carousel">
     <img src="{{ site.baseurl }}/img/2010_logo-rae-1.jpg" alt="Armado" />
     <img src="{{ site.baseurl }}/img/2010_logo-rae-2.png" alt="Logo RBE" />
 </div>

@@ -9,7 +9,7 @@ date: 2018-05-14
 
 Desarrollo de maqueta HTML y CSS para el sitio [Peak Sport Argentina](https://www.peaksport.com.ar/){:target="_blank"} y de template de email responsivo (utilizando el framework MJML) para notificaciones.
 
-<div class="fotorama" data-loop="true">
+<div class="carousel">
     <img src="{{ site.baseurl }}/img/2018_peak-01.jpg" alt="Captura #1" />
     <img src="{{ site.baseurl }}/img/2018_peak-02.jpg" alt="Captura #2" />
     <img src="{{ site.baseurl }}/img/2018_peak-03.jpg" alt="Captura #3" />

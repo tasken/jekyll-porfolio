@@ -1,9 +1,18 @@
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-
 {% asset menu.js %}
 
 {% if page.collection == "proyectos" %}
-    <script src="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+<script src="//unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
+<script>
+var galleryElems = document.querySelectorAll('.carousel');
+
+for ( var i=0, len = galleryElems.length; i < len; i++ ) {
+    var galleryElem = galleryElems[i];
+    new Flickity( galleryElem, {
+        wrapAround: true,
+        autoPlay: 3500
+  });
+}
+</script>
 {% endif %}
 
 {% if page.path == "index.md" or page.path == "colofon.md" %}
