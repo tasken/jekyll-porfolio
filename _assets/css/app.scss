@@ -260,6 +260,7 @@ sub { top: .4em; }
         opacity: 0;
     }
     .flickity-prev-next-button {
+        box-shadow: 2px 2px 6px rgba(#000, .2);
         height: 30px;
         width: 30px;
         top: calc(50% - 15px);
@@ -278,17 +279,17 @@ sub { top: .4em; }
         .flickity-prev-next-button {
             &.previous {
                 left: 0;
-                transform: translate3d(10px, 0, 0);
+                transform: translate3d(20px, 0, 0);
             }
             &.next {
                 right: 0;
-                transform: translate3d(-10px, 0, 0);
+                transform: translate3d(-20px, 0, 0);
             }
         }
     }
     .flickity-slider img {
-        margin-right: 10px;
-        width: calc(100% - 10px);
+        margin-right: 12px;
+        width: calc(100% - 12px);
     }
     .flickity-page-dots {
         position: relative;
