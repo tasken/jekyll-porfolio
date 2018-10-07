@@ -18,6 +18,9 @@
     </title>
 
     {% asset style.scss %}
+    {% if page.collection == "proyectos" %}
+    <link rel="stylesheet" type="text/css" href="//unpkg.com/flickity@2/dist/flickity.min.css">
+    {% endif %}
 
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ site.baseurl }}/apple-touch-icon-144-precomposed.png">
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">

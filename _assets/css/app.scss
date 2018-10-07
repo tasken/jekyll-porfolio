@@ -33,7 +33,10 @@ body {
 .content {
     padding-top: 6rem;
     max-width: 90%;
-    img { box-shadow: 2px 2px 6px rgba(#000, .2); }
+    img {
+        border-radius: 4px;
+        box-shadow: 2px 2px 6px rgba(#000, .2);
+    }
     ul {
         padding-left: 1rem;
         list-style-type: none;
@@ -98,8 +101,6 @@ abbr {
         border-bottom: 1px dotted #ccc;
     }
 }
-
-img { border-radius: 4px; }
 
 h1 {
     font-size: 2.8125rem;
@@ -248,31 +249,63 @@ sub { top: .4em; }
 .tags,
 .etiquetas { font-style: italic; }
 
-
-// Fotorama
-
-.fotorama {
-    overflow: visible;
-    &.single { margin-top: 3rem; }
+// flickity
+.carousel {
+    overflow: hidden;
+    margin-bottom: 2rem;
+    button {
+        transition: all ease-in-out .25s;
+        opacity: 0;
+    }
+    .flickity-prev-next-button {
+        box-shadow: 2px 2px 6px rgba(#000, .2);
+        height: 30px;
+        width: 30px;
+        top: calc(50% - 15px);
+        transition: all ease-in-out .25s;
+        &.previous {
+            left: 0;
+            transform: translate3d(-30px, 0, 0);
+        }
+        &.next {
+            right: 0;
+            transform: translate3d(30px, 0, 0);
+        }
+    }
+    &:hover {
+        button { opacity: 1; }
+        .flickity-prev-next-button {
+            &.previous {
+                left: 0;
+                transform: translate3d(20px, 0, 0);
+            }
+            &.next {
+                right: 0;
+                transform: translate3d(-20px, 0, 0);
+            }
+        }
+    }
+    .flickity-slider img {
+        margin-right: 12px;
+        width: calc(100% - 12px);
+    }
+    .flickity-page-dots {
+        position: relative;
+        transition: all ease-in-out .25s;
+        bottom: 0;
+        line-height: 0;
+        .dot {
+            width: 4px;
+            height: 4px;
+            opacity: 1;
+            background: transparent;
+            border: 1px solid #303030;
+            &.is-selected { background: #303030; }
+        }
+    }
 }
-
-.fotorama__stage {
-    border-radius: 4px;
-    box-shadow: 2px 2px 6px rgba(#000, .2);
-}
-
-.fotorama__nav-wrap { margin-top: .5rem; }
-
-.fotorama__nav__frame.fotorama__active .fotorama__dot { border-width: 2px; }
-
-.fotorama__nav::before,
-.fotorama__nav::after,
-.fotorama__stage::before,
-.fotorama__stage::after { background-image: initial; }
-
 
 // Contacto
-
 .contacto {
     max-width: 500px;
     textarea {

@@ -10,7 +10,7 @@ date: 2011-11-02
 Elaboración de un objeto a partir de una pista de audio brindada por la cátedra. Luego se realizó una secuencia de imágenes que sirvió como storyboard para el video final.
 
 ## Secuencia fotográfica
-<div class="fotorama" data-loop="true">
+<div class="carousel">
     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-01.jpg" alt="Foto #1" />
     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-02.jpg" alt="Foto #2" />
     <img src="{{ site.baseurl }}/img/2011_espacio-tiempo-03.jpg" alt="Foto #3" />

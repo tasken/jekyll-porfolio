@@ -9,7 +9,7 @@ date: 2018-03-08
 
 Desarrollo de maqueta HTML y CSS para el sitio [Centro Transpersonal](https://www.centrotranspersonal.com.ar/){:target="_blank"}.
 
-<div class="fotorama single" data-loop="true">
+<div class="carousel">
     <img src="{{ site.baseurl }}/img/2018_centro-01.jpg" alt="Captura #1" />
     <img src="{{ site.baseurl }}/img/2018_centro-02.jpg" alt="Captura #2" />
     <img src="{{ site.baseurl }}/img/2018_centro-03.jpg" alt="Captura #3" />

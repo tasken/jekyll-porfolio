@@ -16,7 +16,7 @@ Se diseñó el espécimen teniendo en cuenta las particularidades de la familia,
 
 ## Detalles
 
-<div class="fotorama" data-loop="true">
+<div class="carousel">
     <img src="{{ site.baseurl }}/img/2013_especimen-2.jpg" alt="Detalle" />
     <img src="{{ site.baseurl }}/img/2013_especimen-3.jpg" alt="Detalle" />
     <img src="{{ site.baseurl }}/img/2013_especimen-4.jpg" alt="Detalle" />
@@ -26,7 +26,7 @@ Se diseñó el espécimen teniendo en cuenta las particularidades de la familia,
 
 En conjunto con el espécimen se diseñaron algunas postales.
 
-<div class="fotorama" data-width="550" data-loop="true"> 
+<div class="carousel" style="width: 550px;"> 
     <img src="{{ site.baseurl }}/img/2013_especimen-postal-1.jpg" alt="Postal" />
     <img src="{{ site.baseurl }}/img/2013_especimen-postal-2.jpg" alt="Postal" />
     <img src="{{ site.baseurl }}/img/2013_especimen-postal-3.jpg" alt="Postal" />
