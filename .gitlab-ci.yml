@@ -18,6 +18,9 @@ stages:
 before_script:
   - bundle install --path vendor
 
+only:
+  - master
+
 pages:
   stage: test
   script:
@@ -25,8 +28,6 @@ pages:
   artifacts:
     paths:
     - public
-  only:
-  - master
 
 build:
   stage: build
@@ -40,8 +41,6 @@ build:
   artifacts:
     paths:
     - deploy
-  only:
-  - master
 
 deploy:
   stage: deploy
@@ -65,5 +64,3 @@ deploy:
   - rsync -hrvz --delete-before --exclude=.well-known -e ssh deploy/ "${SSH_USER_HOST_LOCATION}"
   dependencies:
   - build
-  only:
-  - master
