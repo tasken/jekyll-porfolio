@@ -1,6 +1,6 @@
-/*! Flickity v2.1.2
-https://flickity.metafizzy.co
----------------------------------------------- */
+// Flickity v2.1.2
+// https://flickity.metafizzy.co
+
 
 .flickity-enabled {
     position: relative;
@@ -13,13 +13,11 @@ https://flickity.metafizzy.co
         }
     }
 }
-
 .flickity-viewport {
     overflow: hidden;
     position: relative;
     height: 100%;
 }
-
 .flickity-slider {
     position: absolute;
     width: 100%;
@@ -27,14 +25,13 @@ https://flickity.metafizzy.co
 }
 
 // flickity-button
-
 .flickity-button {
     position: absolute;
-    background: hsla(0, 0%, 100%, .75);
+    background: rgba(#fff, .75);
     border: 0;
     color: #333;
     &:hover {
-        background: white;
+        background: #fff;
         cursor: pointer;
     }
     &:focus {
@@ -48,11 +45,9 @@ https://flickity.metafizzy.co
         pointer-events: none;
     }
 }
-
 .flickity-button-icon { fill: #333; }
 
 // previous/next buttons
-
 .flickity-prev-next-button {
     top: 50%;
     width: 44px;
@@ -61,18 +56,16 @@ https://flickity.metafizzy.co
     transform: translateY(-50%);
     &.previous { left: 10px; }
     &.next { right: 10px; }
+    .flickity-button-icon {
+        position: absolute;
+        left: 20%;
+        top: 20%;
+        width: 60%;
+        height: 60%;
+    }
 }
 
-.flickity-prev-next-button .flickity-button-icon {
-    position: absolute;
-    left: 20%;
-    top: 20%;
-    width: 60%;
-    height: 60%;
-}
-
-// page dots ----
-
+// page dots
 .flickity-page-dots {
     position: absolute;
     width: 100%;
