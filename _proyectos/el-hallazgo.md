@@ -1,7 +1,7 @@
 ---
 layout: proyecto
 title: "El hallazgo (Memoria ilustrada)"
-title-alt: "Memoria ilustrada"
+title-alt: "El hallazgo"
 trabajo: "Relato gráfico en distintos soportes"
 comitente: "Trabajo realizado para Medios Expresivos I, [Cátedra Groisman](http://mediosgroisman.com.ar), FADU--UBA."
 tags: [Historieta, Fotografía]

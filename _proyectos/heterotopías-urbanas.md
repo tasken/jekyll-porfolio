@@ -46,18 +46,19 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 </div>
 
 #### Exposiciones
+- [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, [X Festival Internacional de Diseño](http://www.buenosaires.gob.ar/cmd/fid){:target="_blank"}, CMD, CABA // 2018
 - [*Libros de Artista*](https://www.instagram.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
 - [*Festival Escalatrónica 2017*](http://www.unla.edu.ar/index.php/escalatronica/){:target="_blank"}, Segundo festival internacional de arte electrónico, obra seleccinada, UNLa, Lanús, Provincia de Buenos Aires // 2017
-- *Encuentro FASE 8.0*, Pensar la praxis, CCR, CABA // 2016
+- [*Encuentro FASE 8.0*](https://web.facebook.com/EncuentroFASE/){:target="_blank"}, Pensar la praxis, CCR, CABA // 2016
 
 #### Menciones
-- [*Reflexiones en torno a la producción audiovisual: el diseño como obstáculo*](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom ([mirror](https://web.archive.org/web/20180520215528/https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"})
-- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018
-- [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"})
-- Publicado en el [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, carrera de Diseño Gráfico, p. 59 // 2017
-- [*Arte Hispano*](http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"} ([mirror](https://web.archive.org/web/20180520215645/http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"})
-- *Encuentro con otro arte*, [Revista Ñ](http://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011746/https://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"})
-- *FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*, [blog de María de Vedia](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"} ([mirror](https://web.archive.org/web/20170904011915/http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"})
+- [*Reflexiones en torno a la producción audiovisual: el diseño como obstáculo*](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom ([mirror](https://web.archive.org/web/20180520215528/https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}) // 2018
+- [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018, pp. 98 -- 99
+- [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}) // 2017
+- [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, carrera de Diseño Gráfico, p. 59 ([mirror](https://web.archive.org/web/20181010023830/https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}) // 2017
+- [*Arte Hispano*](http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"} ([mirror](https://web.archive.org/web/20180520215645/http://artehispano.com.ar/FASE8_Encuentro_de_Arte_Ciencia_y_Tecnologia.html){:target="_blank"}) // 2016
+- [*Encuentro con otro arte*](http://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"}, Revista Ñ ([mirror](https://web.archive.org/web/20170904011746/https://www.clarin.com/arte/encuentro-arte_0_Hy-PlNkSg.html){:target="_blank"}) // 2016
+- *FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*, [blog de María de Vedia](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"} // 2016 ([mirror](https://web.archive.org/web/20170904011915/http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"}) // 2016
 
 #### Links complementarios
 - [Proyecto en Instagram](https://www.instagram.com/heterotopias.urbanas/){:target="_blank"}
@@ -66,6 +67,7 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 *[diCom]: Diseño Comunicacional
 *[CCR]: Centro Cultural Recoleta
+*[CMD]: Centro Metropolitano de Diseño
 *[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
 *[UBA]: Universidad de Buenos Aires
 *[UNLa]: Universidad Nacional de Lanús

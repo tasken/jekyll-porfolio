@@ -5,6 +5,7 @@ prioridad: 5
 ---
 
 - [*Heterotopías urbanas*]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})
+    - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, [X Festival Internacional de Diseño](http://www.buenosaires.gob.ar/cmd/fid){:target="_blank"}, CMD, CABA // 2018
     - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
     - [*Festival Escalatrónica 2017*](http://www.unla.edu.ar/index.php/escalatronica/){:target="_blank"}, Segundo festival internacional de arte electrónico, obra seleccinada, UNLa, Lanús, Provincia de Buenos Aires // 2017
     - [*Encuentro FASE 8.0*](http://encuentrofase.com.ar){:target="_blank"}, Pensar la praxis, CCR, CABA // 2016
@@ -36,6 +37,7 @@ prioridad: 5
 *[AMIA]: Asociación Mutual Israelita Argentina
 *[CABA]: Ciudad Autónoma de Buenos Aires
 *[CCR]: Centro Cultural Recoleta
+*[CMD]: Centro Metropolitano de Diseño
 *[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
 *[FoLa]: Fototeca Latinoamericana
 *[IMPA]: Industrias Metalúrgicas y Plásticas Argentina
