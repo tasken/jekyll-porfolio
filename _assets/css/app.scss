@@ -253,6 +253,14 @@ sub { top: .4em; }
 .carousel {
     overflow: hidden;
     margin-bottom: 2rem;
+	.flickity-buttons {
+		height: 100%;
+		width: calc(100% - 12px);
+		position: absolute;
+		top: 0;
+		left: 6px;
+		overflow: hidden;
+    }
     button {
         transition: all ease-in-out .25s;
         opacity: 0;
@@ -277,11 +285,11 @@ sub { top: .4em; }
         .flickity-prev-next-button {
             &.previous {
                 left: 0;
-                transform: translate3d(20px, 0, 0);
+                transform: translate3d(2rem, 0, 0);
             }
             &.next {
                 right: 0;
-                transform: translate3d(-20px, 0, 0);
+                transform: translate3d(-2rem, 0, 0);
             }
         }
     }
