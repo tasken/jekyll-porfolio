@@ -260,7 +260,7 @@ sub { top: .4em; }
 		overflow: hidden;
     }
     button {
-        transition: all ease-in-out .25s;
+        transition: all ease-in-out .3s;
         opacity: 0;
     }
     .flickity-prev-next-button {
@@ -268,7 +268,7 @@ sub { top: .4em; }
         height: 30px;
         width: 30px;
         top: calc(50% - 15px);
-        transition: all ease-in-out .25s;
+        transition: all ease-in-out .3s;
         &.previous {
             left: 0;
             transform: translate3d(-30px, 0, 0);
@@ -297,7 +297,7 @@ sub { top: .4em; }
     }
     .flickity-page-dots {
         position: relative;
-        transition: all ease-in-out .25s;
+        transition: all ease-in-out .3s;
         bottom: 0;
         line-height: 0;
         .dot {
