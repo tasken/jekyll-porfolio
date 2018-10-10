@@ -17,7 +17,7 @@ body {
 }
 
 body {
-    color: #1e1e20;
+    color: #5f6368;
     background-color: ghostwhite;
     line-height: 1.5rem;
     margin: 0 auto;
@@ -56,7 +56,7 @@ body {
     h3,
     h4,
     h5,
-    h6 { color: #1e1e20; }
+    h6 { color: #202124; }
     h3.trabajo {
         font-style: italic;
         color: darkgrey;
@@ -190,12 +190,12 @@ sub { top: .4em; }
 // Sidebar
 
 .sidebar {
-    color: #1e1e20;
+    color: #5f6368;
     background-color: ghostwhite;
     overflow-y: auto;
     text-align: left;
     height: 100%;
-    a { color: #1e1e20; }
+    a { color: #5f6368; }
     .sidebar-nav-title {
         margin: .75rem 0 0;
         font-size: 1rem;
@@ -251,13 +251,13 @@ sub { top: .4em; }
 .carousel {
     overflow: hidden;
     margin-bottom: 2rem;
-	.flickity-buttons {
-		height: 100%;
-		width: calc(100% - 12px);
-		position: absolute;
-		top: 0;
-		left: 6px;
-		overflow: hidden;
+    .flickity-buttons {
+        height: 100%;
+        width: calc(100% - 12px);
+        position: absolute;
+        top: 0;
+        left: 6px;
+        overflow: hidden;
     }
     button {
         transition: all ease-in-out .3s;
