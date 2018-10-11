@@ -249,26 +249,20 @@ sub { top: .4em; }
 
 // flickity
 .carousel {
-    overflow: hidden;
-    margin-bottom: 2rem;
-    .flickity-buttons {
-        height: 100%;
-        width: calc(100% - 12px);
-        position: absolute;
-        top: 0;
-        left: 6px;
-        overflow: hidden;
-    }
-    button {
-        transition: all ease-in-out .3s;
-        opacity: 0;
+    margin-bottom: 3rem;
+    .flickity-viewport {
+        border-radius: 4px;
+        box-shadow: 2px 2px 6px rgba(#000, .2);
+        transition: height .3s;
     }
     .flickity-prev-next-button {
+        position: absolute;
         box-shadow: 2px 2px 6px rgba(#000, .2);
         height: 30px;
         width: 30px;
         top: calc(50% - 15px);
         transition: all ease-in-out .3s;
+        opacity: 0;
         &.previous {
             left: 0;
             transform: translate3d(-30px, 0, 0);
@@ -279,26 +273,28 @@ sub { top: .4em; }
         }
     }
     &:hover {
-        button { opacity: 1; }
         .flickity-prev-next-button {
+            opacity: 1;
             &.previous {
                 left: 0;
-                transform: translate3d(2rem, 0, 0);
+                transform: translate3d(1.5rem, 0, 0);
             }
             &.next {
                 right: 0;
-                transform: translate3d(-2rem, 0, 0);
+                transform: translate3d(-1.5rem, 0, 0);
             }
         }
     }
     .flickity-slider img {
-        margin-right: 12px;
-        width: calc(100% - 12px);
+        margin: 0;
+        margin-right: 4px;
+        box-shadow: none;
+        border-radius: 0;
+        min-width: 100%;
     }
     .flickity-page-dots {
-        position: relative;
         transition: all ease-in-out .3s;
-        bottom: 0;
+        bottom: -1.5rem;
         line-height: 0;
         .dot {
             width: 4px;
