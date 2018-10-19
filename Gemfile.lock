@@ -74,7 +74,7 @@ GEM
       htmlbeautifier
       htmlcompressor
       jekyll
-    jekyll-watch (2.1.1)
+    jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.1)
@@ -92,7 +92,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
-    progress (3.4.0)
+    progress (3.5.0)
     public_suffix (3.0.3)
     rack (2.0.5)
     rake (12.3.1)
