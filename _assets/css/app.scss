@@ -247,65 +247,24 @@ sub { top: .4em; }
 .tags,
 .etiquetas { font-style: italic; }
 
-// flickity
-.carousel {
-    margin-bottom: 3rem;
-    .flickity-viewport {
-        border-radius: 4px;
-        box-shadow: 2px 2px 6px rgba(#000, .2);
-        transition: height .3s;
-    }
-    .flickity-prev-next-button {
-        position: absolute;
-        box-shadow: 2px 2px 6px rgba(#000, .2);
-        height: 30px;
-        width: 30px;
-        top: calc(50% - 15px);
-        transition: all ease-in-out .3s;
-        opacity: 0;
-        &.previous {
-            left: 0;
-            transform: translate3d(-30px, 0, 0);
-        }
-        &.next {
-            right: 0;
-            transform: translate3d(30px, 0, 0);
-        }
-    }
-    &:hover {
-        .flickity-prev-next-button {
-            opacity: 1;
-            &.previous {
-                left: 0;
-                transform: translate3d(1.5rem, 0, 0);
-            }
-            &.next {
-                right: 0;
-                transform: translate3d(-1.5rem, 0, 0);
-            }
-        }
-    }
-    .flickity-slider img {
-        margin: 0;
-        margin-right: 4px;
-        box-shadow: none;
-        border-radius: 0;
-        min-width: 100%;
-    }
-    .flickity-page-dots {
-        transition: all ease-in-out .3s;
-        bottom: -1.5rem;
-        line-height: 0;
-        .dot {
-            width: 4px;
-            height: 4px;
-            opacity: 1;
-            background: transparent;
-            border: 1px solid #303030;
-            &.is-selected { background: #303030; }
-        }
-    }
+// Fotorama
+
+.carousel { overflow: visible; }
+
+.fotorama__stage {
+    border-radius: 4px;
+    box-shadow: 2px 2px 6px rgba(#000, .2);
 }
+
+.fotorama__nav-wrap { margin-top: .5rem; }
+
+.fotorama__nav__frame.fotorama__active .fotorama__dot { border-width: 2px; }
+
+.fotorama__nav::before,
+.fotorama__nav::after,
+.fotorama__stage::before,
+.fotorama__stage::after { background-image: initial; }
+
 
 // Contacto
 .contacto {
