@@ -64,15 +64,15 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - Alto desempeño y autodidacta en tecnologías digitales.
 
 ## Educación
-- *Industrias Culturales: claves para su gestión y desarrollo* // 2017 -- Diplomatura en 2018  
-Curso de posgrado en la [Universidad Nacional de Tres de Febrero](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"}.
-- ***Diseño Gráfico*** // 2008 -- 2016  
-Título de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
+- [*Industrias Culturales: claves para su gestión y desarrollo*](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"} // 2017 -- 2018  
+Curso de posgrado de la [Universidad Nacional de Tres de Febrero](https://www.untref.edu.ar){:target="_blank"}.
+- [***Diseño Gráfico***](http://www.fadu.uba.ar/categoria/50-diseo-grfico){:target="_blank"} // 2008 -- 2016  
+Carrera de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
 ## Formación
 - *1º Jornadas de Formación Docente*, FormarFADU, FADU--UBA // 2018  
 Actividades: *Didáctica Proyectual* dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"} y *Reinventar la clase en la Universidad* dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
-- *Pensar y actuar en una época oscura* // 2016  
+- [*Pensar y actuar en una época oscura*](http://www.lavaca.org/catedra-miguel-benasayag/){:target="_blank"} // 2016  
 Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"}.
 - *El libro en vivo*, organizado por EUDEBA, II Bienal de Diseño, FADU--UBA // 2015  
 Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
