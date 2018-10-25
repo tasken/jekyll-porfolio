@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.5.2)
       public_suffix (>= 2.0.2, < 4.0)
-    autoprefixer-rails (9.3.0)
+    autoprefixer-rails (9.3.1)
       execjs
     colorator (1.1.0)
     concurrent-ruby (1.0.5)
@@ -131,4 +131,4 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
-   1.16.6
+   1.17.0
