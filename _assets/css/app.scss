@@ -209,9 +209,12 @@ sub { top: .4em; }
         font-size: 2rem;
         line-height: 2rem;
         margin-top: 0;
-        a:hover {
-            color: deepskyblue;
-            text-decoration: none;
+        a {
+            color: #202124;
+            &:hover {
+                color: deepskyblue;
+                text-decoration: none;
+            }
         }
     }
 }
