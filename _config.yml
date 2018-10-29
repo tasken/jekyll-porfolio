@@ -34,4 +34,4 @@ assets:
         - 'last 2 versions'
         - 'IE > 9'
     plugins:
-        css: { autoprefixer: {}}
+        css: { autoprefixer: {} }
