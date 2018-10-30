@@ -33,6 +33,7 @@ body {
 .content {
     padding-top: 6rem;
     max-width: 90%;
+    .container { transition: all .2s ease; }
     img {
         border-radius: 4px;
         box-shadow: 2px 2px 6px rgba(#000, .2);
@@ -155,6 +156,7 @@ blockquote {
 
 blockquote p { margin: 0; }
 
+
 // Sanitation
 
 hr {
@@ -250,19 +252,16 @@ sub { top: .4em; }
 .tags,
 .etiquetas { font-style: italic; }
 
+
 // Fotorama
 
 .carousel { overflow: visible; }
-
 .fotorama__stage {
     border-radius: 4px;
     box-shadow: 2px 2px 6px rgba(#000, .2);
 }
-
 .fotorama__nav-wrap { margin-top: .5rem; }
-
 .fotorama__nav__frame.fotorama__active .fotorama__dot { border-width: 2px; }
-
 .fotorama__nav::before,
 .fotorama__nav::after,
 .fotorama__stage::before,
@@ -270,6 +269,7 @@ sub { top: .4em; }
 
 
 // Contacto
+
 .contacto {
     max-width: 500px;
     textarea {
