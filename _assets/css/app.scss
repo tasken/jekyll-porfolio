@@ -62,6 +62,7 @@ body {
         font-style: italic;
         color: darkgrey;
         font-weight: normal;
+        line-height: 2rem;
     }
 }
 
@@ -108,7 +109,6 @@ h1 {
     margin-bottom: 1.1875rem;
     + h2 { margin-top: 0; }
     + .lead { font-style: italic; }
-    + .trabajo { margin-bottom: .75rem; }
 }
 
 h2 {
