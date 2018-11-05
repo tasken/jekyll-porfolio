@@ -95,6 +95,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
     - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"} // 2014 -- 2017
     - Morfología I, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"} // 2016 -- 2017
 - **Disertante**
+    - [*Conocimiento, organización, actuación. Proyectos populares frente a la reconfiguración de nuestros territorios. Estrategias, metodologías y herramientas*](https://www.facebook.com/events/2306894136263704/){:target="_blank"} (taller), [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, XIII Encuentro Socioambiental de Buenos Aires // 2018
     - [*El nuevo arte de diseñar libros*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"} (charla), [X Festival Internacional de Diseño](http://www.buenosaires.gob.ar/cmd/fid){:target="_blank"}, Cátedra La Ferla, CMD, CABA // 2018
     - *Cartografiando la FADU. Del registro locativo móvil a la obra editada* (workshop), Cátedra La Ferla, III Bienal de Diseño FADU--UBA // 2017
     - *Taller de gráfica colectiva sobre el derecho a la ciudad* (workshop), [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, III Bienal de Diseño FADU--UBA // 2017
