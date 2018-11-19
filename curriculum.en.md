@@ -6,10 +6,13 @@ sitemap: false
 ---
 
 ## Work experience
-**Freelance designer**{: .puesto} // 2010 -- present  
+**Software engineer in UI/UX**{: .puesto} // 12.2018 -- presente  
+[*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
+
+**Freelance designer**{: .puesto} // 2010 -- 11.2018
 Self-managed job tracking of my own projects. Websites, publishing design, internal communications, corporate identity, web design, etc.  
 
-**UI/UX designer**{: .puesto} // 04.2018 -- present  
+**UI/UX designer**{: .puesto} // 04.2018 -- 11.2018  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
 Business and functional analysis, user interface design, prototyping, wireframing, sitemaps, user flows, personas, use cases. Branding discovery (design benchmark). Side by side definitions with senior and semi senior developers.  
 
@@ -37,6 +40,7 @@ Publishing and identity design, art and copy preparation for prepress. Internali
 *Previsite Argentina*{: .empleador} -- *ONELOOP*{: .empleador}  
 Basis development of an online app for realtors. Layout and design leader. Communication and management between sectors of design, development, implementation, marketing and management. Support and implementation of desk support tools. Implementation and optimization of new technologies for websites and services.  
 
+{% comment %}
 **Design manager**{: .puesto} (external consultant) // 2010 -- 2011  
 [*Universidad Tecnológica Nacional*](http://www.utn.edu.ar){:target="_blank"}{: .empleador} -- [*Subsecretaria de Puertos y Vías Navegables*](http://www.sspyvn.gov.ar){:target="_blank"}{: .empleador}  
 Responsible for designing and creating the design style manual 2010--2011 *Plan Maestro y Director del Sistema de Navegación Troncal*.  
@@ -52,6 +56,7 @@ Magazine layout "Reunión de Administradores", a monthly publication (2000 copie
 **Graphic and system support**{: .puesto} // 2003 -- 2010  
 [*Estudio de Ambiente y Desarrollo S.R.L.*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
 Corporate image development, development and updating of web site design over 15 posters presented at national and international conferences, graphics and figures design for specialized technical publications, support and system maintenance, network administration.  
+{% endcomment %}
 
 ## Expertise
 - Advanced performance with design software: Adobe Creative Cloud.

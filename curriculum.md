@@ -5,12 +5,15 @@ prioridad: 0
 ---
 
 ## Experiencias laborales
+**Software engineer in UI/UX**{: .puesto} // 12.2018 -- presente  
+[*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
+
 **Diseñador freelance**{: .puesto} // 2010 -- 11.2018  
 Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño editorial, comunicaciones internas, identidad corporativa, etc.  
 
 **Diseñador UI/UX**{: .puesto} // 04.2018 -- 11.2018  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
-Análisis de negocio y funcional, diseño de interfaz de usuario, creación de prototipos, wireframing, sitemaps, flujos de usuarios, personas, casos de uso. Descubrimiento de marca (benchmark de diseño). Definiciones lado a lado con desarrolladores senior y semi senior.
+Análisis de negocio y funcional, diseño de interfaz de usuario, creación de prototipos, wireframing, sitemaps, flujos de usuarios, personas, casos de uso. Descubrimiento de marca (benchmark de diseño). Definiciones lado a lado con desarrolladores senior y semi senior.  
 
 **Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- 03.2018  
 [*The Plus*](https://theplus.agency){:target="_blank"}{: .empleador}  
@@ -36,6 +39,7 @@ Diseño y desarrollo editorial e identidad, preparación de originales para prep
 *Previsite Argentina*{: .empleador} -- *ONELOOP*{: .empleador}  
 Implementación de las bases de un sistema de difusión online para inmobiliarias. Dirección del sector de maquetación. Comunicación y gestión entre sectores de diseño, desarrollo, implementación, marketing y dirección. Soporte e implementación de herramientas de desk support. Implementación y optimización de nuevas tecnologías para sitios web.  
 
+{% comment %}
 **Diseñador a cargo**{: .puesto} *(consultor externo)* // 2010 -- 2011  
 [*Universidad Tecnológica Nacional*](http://www.utn.edu.ar){:target="_blank"}{: .empleador} -- [*Subsecretaría  de Puertos y Vías Navegables*](http://www.sspyvn.gov.ar){:target="_blank"}{: .empleador}  
 Responsable de diseño y creación del estilo para el manual 2010--2011 del *Plan Maestro y Director del Sistema de Navegación Troncal*.  
@@ -51,6 +55,7 @@ Diagramación de revista *Reunión de Administradores*, publicación mensual (ti
 **Soporte gráfico y sistemas**{: .puesto} // 2003 -- 2010  
 [*Estudio de Ambiente y Desarrollo S.R.L.*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
 Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, diseño de más de 15 posters presentados en congresos nacionales e internacionales, diseño de gráficos y figuras para publicaciones técnicas especializadas, soporte y mantenimiento informático, administración de redes.  
+{% endcomment %}
 
 ## Conocimientos
 - Desempeño avanzado con programas de diseño: Adobe Creative Cloud.
