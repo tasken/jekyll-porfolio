@@ -9,12 +9,12 @@ sitemap: false
 **Software engineer in UI/UX**{: .puesto} // 12.2018 -- presente  
 [*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
 
-**Freelance designer**{: .puesto} // 2010 -- 11.2018
-Self-managed job tracking of my own projects. Websites, publishing design, internal communications, corporate identity, web design, etc.  
-
 **UI/UX designer**{: .puesto} // 04.2018 -- 11.2018  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
 Business and functional analysis, user interface design, prototyping, wireframing, sitemaps, user flows, personas, use cases. Branding discovery (design benchmark). Side by side definitions with senior and semi senior developers.  
+
+**Freelance designer**{: .puesto} // 2010 -- 11.2018
+Self-managed job tracking of my own projects. Websites, publishing design, internal communications, corporate identity, web design, etc.  
 
 **Functional analyst and web developer**{: .puesto} // 08.2017 -- 03.2018  
 [*The Plus.*](http://www.theplus.agency){:target="_blank"}{: .empleador}  
