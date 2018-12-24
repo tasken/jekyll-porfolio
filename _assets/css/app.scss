@@ -275,6 +275,7 @@ sub { top: .4em; }
     textarea {
         resize: vertical;
         min-height: 84px;
+        max-height: 250px;
     }
     input[type='text'],
     input[type='email'],
