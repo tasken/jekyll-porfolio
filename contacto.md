@@ -2,6 +2,7 @@
 layout: page
 title: "Contacto"
 prioridad: 15
+p5: true
 ---
 
 Para contactarse complete el siguiente formulario:

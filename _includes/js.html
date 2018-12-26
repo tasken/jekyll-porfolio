@@ -1,19 +1,25 @@
 {% asset menu.js %}
 
 {% if page.collection == "proyectos" %}
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
-<script>
-    $(function () {
-        $('.carousel').fotorama({
-            loop: true,
-            autoplay: 3500,
-            margin: 10
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/fotorama/4.6.4/fotorama.js"></script>
+    <script>
+        $(function () {
+            $('.carousel').fotorama({
+                loop: true,
+                autoplay: 3500,
+                margin: 10
+            });
         });
-    });
-</script>
+    </script>
 {% endif %}
 
-{% if page.path == "index.md" or page.path == "colofon.md" %}
-{% asset rnd-image.js %}
+{% if page.p5 %}
+    <script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.js"></script>
+    {% asset sketch.js %}
+{% endif %}
+
+{% if page.path == "index.md" %}
+    {% asset rnd-image.js %}
 {% endif %}

@@ -193,7 +193,7 @@ sub { top: .4em; }
 
 .sidebar {
     color: #5f6368;
-    background-color: ghostwhite;
+    background-color: transparent;
     overflow-y: auto;
     text-align: left;
     height: 100%;
@@ -291,6 +291,7 @@ sub { top: .4em; }
         margin-bottom: 10px;
         height: 45px;
         font-family: 'Asap', sans-serif;
+        background: ghostwhite;
     }
     input[type='submit'] {
         cursor: pointer;
@@ -340,4 +341,20 @@ acronym[title] { text-decoration: none; }
 @keyframes fade-in {
     0% { opacity: 0; }
     100% { opacity: 1; }
+}
+
+
+// P5
+
+body {
+    canvas {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: -10;
+        // opacity: .5;
+        + p { display: none; }
+    }
 }
