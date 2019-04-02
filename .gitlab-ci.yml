@@ -21,6 +21,8 @@ before_script:
 pages:
   stage: test
   script:
+  - gem update --system
+  - gem install bundler
   - bundle exec jekyll build -d public --config _config.yml,_config.dev.yml
   artifacts:
     paths:
@@ -35,6 +37,8 @@ build:
   when: manual
   allow_failure: false
   script:
+  - gem update --system
+  - gem install bundler
   - bundle exec jekyll build -d deploy
   dependencies: []
   artifacts:
