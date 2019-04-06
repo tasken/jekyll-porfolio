@@ -1,4 +1,4 @@
-image: starefossen/ruby-node
+image: smikino/ruby-node
 
 variables:
   JEKYLL_ENV: development
@@ -16,6 +16,8 @@ stages:
   - deploy
 
 before_script:
+  - gem update --system
+  - gem install bundler
   - bundle install --path vendor
 
 pages:
