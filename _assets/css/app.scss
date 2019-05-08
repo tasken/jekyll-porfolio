@@ -21,6 +21,7 @@ body {
     background-color: ghostwhite;
     line-height: 1.5rem;
     margin: 0 auto;
+    scrollbar-width: thin;
     &.fixed {
         overflow: hidden;
         .content.container { opacity: .42; }
@@ -197,6 +198,7 @@ sub { top: .4em; }
     overflow-y: auto;
     text-align: left;
     height: 100%;
+    scrollbar-width: thin;
     a { color: #333; }
     .sidebar-nav-title {
         margin: .75rem 0 0;
