@@ -1,4 +1,4 @@
-image: smikino/ruby-node
+image: ruby:latest
 
 variables:
   JEKYLL_ENV: development
