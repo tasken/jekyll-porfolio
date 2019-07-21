@@ -69,14 +69,15 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - Alto desempeño y autodidacta en tecnologías digitales.
 
 ## Educación
+- [*El Diseño argentino como experiencia: intersecciones entre diseño, sociedad y cultura*](http://www.fadu.uba.ar/post/1402-el-diseo-argentino-como-experiencia-intersecciones-entre-diseo-sociedad-y-cultura){:target="_blank"} // 2019  
+Curso de posgrado de [Fundación Proa](http://proa.org){:target="_blank"} y [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"}
 - [*Industrias Culturales: claves para su gestión y desarrollo*](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"} // 2017 -- 2018  
 Curso de posgrado de la [Universidad Nacional de Tres de Febrero](https://www.untref.edu.ar){:target="_blank"}.
-- [***Diseño Gráfico***](http://www.fadu.uba.ar/categoria/50-diseo-grfico){:target="_blank"} // 2008 -- 2016  
+- [*Diseño Gráfico*](http://www.fadu.uba.ar/categoria/50-diseo-grfico){:target="_blank"} // 2008 -- 2016  
 Carrera de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
 ## Formación
-- *[El Diseño argentino como experiencia](http://www.fadu.uba.ar/post/1402-el-diseo-argentino-como-experiencia-intersecciones-entre-diseo-sociedad-y-cultura){:target="_blank"}: intersecciones entre diseño, sociedad y cultura*, Fundación Proa y FADU--UBA (área de posgrado) // 2019  
-- *1º Jornadas de Formación Docente*, FormarFADU, FADU--UBA // 2018  
+- *1º Jornadas de Formación Docente*, FormarFADU, [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"} // 2018  
 Actividades: *Didáctica Proyectual* dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"} y *Reinventar la clase en la Universidad* dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
 - [*Pensar y actuar en una época oscura*](http://www.lavaca.org/catedra-miguel-benasayag/){:target="_blank"}, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"} // 2016  
 Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política.
@@ -89,10 +90,10 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
 - *Taller de creación de imágenes audiovisuales*, dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"}, SEU--FADU--UBA // 2009
 - Cursos de fotografía práctica y teórica (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"}) // 2003 -- 2007
 
-## Ámbito Académico
+## Ámbito académico
 
 ### Docencia
-- **Jefe de Trabajos Prácticos**
+- **Jefe de trabajos prácticos**
     - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"} // 2018 -- presente
 - **Ayudante de primera**
     - Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2018 -- presente
@@ -122,6 +123,7 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
 - «[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}», coescrito con Mariel Szlifman. En: *[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del [Centro Argentino de Investigadores de Arte](http://www.caia.org.ar){:target="_blank"} (CAIA)*. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125 -- 140
 
 ### Trabajos publicados
+- Fotografías, publicaciones de la [sección Narrativa](http://revistalevadura.mx/category/narrativa/){:target="_blank"} de la revista Levadura (Monterrey, México) // 2019
 - «[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 98 -- 99
 - «[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})», en [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA // 2017, p. 59
 - «[El hallazgo]({{ site.baseurl }}{% link _proyectos/el-hallazgo.md %})», en [*Memoria ilustrada: Historietas para no olvidar*](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011, pp. 20 -- 21
