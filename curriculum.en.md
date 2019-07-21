@@ -6,10 +6,10 @@ sitemap: false
 ---
 
 ## Work experience
-**Software engineer in UI/UX**{: .puesto} // 12.2018 -- presente  
+**Software engineer in UX/UI**{: .puesto} // 12.2018 -- presente  
 [*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
 
-**UI/UX designer**{: .puesto} // 04.2018 -- 11.2018  
+**UX/UI designer**{: .puesto} // 04.2018 -- 11.2018  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
 Business and functional analysis, user interface design, prototyping, wireframing, sitemaps, user flows, personas, use cases. Branding discovery (design benchmark). Side by side definitions with senior and semi senior developers.  
 
@@ -18,7 +18,7 @@ Self-managed job tracking of my own projects. Websites, publishing design, inter
 
 **Functional analyst and web developer**{: .puesto} // 08.2017 -- 03.2018  
 [*The Plus.*](http://www.theplus.agency){:target="_blank"}{: .empleador}  
-Analysis of functional requirements for applications and websites, use cases, development of database schema, UI / UX design, mockups, and wireframes. Development in HTML5 and CSS3, templates for Wagtail (Django), and responsive emails (MJML). Basic understanding of JavaScript (native and ECMAScript 6), React, and Python development flows.  
+Analysis of functional requirements for applications and websites, use cases, development of database schema, UX/UI design, mockups, and wireframes. Development in HTML5 and CSS3, templates for Wagtail (Django), and responsive emails (MJML). Basic understanding of JavaScript (native and ECMAScript 6), React, and Python development flows.  
 
 **CMO and front-end web developer**{: .puesto} // 2015 -- 2016  
 [*Amazónica*](http://www.amazonica.com.ar){:target="_blank"}{: .empleador}  
@@ -130,19 +130,28 @@ Joint project with: Lucas Giono, Soledad Silva, Amelia Ojeda and Camila Álvarez
 ## Other references
 Business contacts available if required.
 
-*[UBA]: Universidad de Buenos Aires
-*[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
+*[ALTE]: Association of Language Testers in Europe
+*[AMIA]: Asociación Mutual Israelita Argentina
+*[CABA]: Ciudad Autónoma de Buenos Aires
+*[CCR]: Centro Cultural Recoleta
+*[CMS]: Content Management System
+*[CSS]: Cascading Style Sheets
+*[CSS3]: Cascading Style Sheets v3
 *[CUI]: Centro Universitario de Idiomas
-*[SEU]: Secretaría de Extensión Universitaria
+*[DG]: Diseño Gráfico
+*[DIyS]: Diseño de Imagen y Sonido
+*[EUDEBA]: Editorial Universitaria de Buenos Aires
+*[FADU]: Facultad de Arquitectura, Diseño y Urbanismo
+*[HTML]: HyperText Markup Language
+*[HTML5]: HyperText Markup Language v5
+*[MyC]: Morfología y Comunicación
+*[PHP]: PHP: Hypertext Preprocessor
+*[Previsite Argentina]: Sumaprop en la actualidad
+*[PIA]: Proyectos de Investigación Avanzados
 *[S.A.]: Sociedad Anónima
 *[S.R.L.]: Sociedad de Responsabilidad Limitada
-*[HTML]: HyperText Markup Language
-*[CSS]: Cascading Style Sheets
-*[W3C]: World Wide Web Consortium
-*[CABA]: Ciudad Autónoma de Buenos Aires
-*[PHP]: PHP: Hypertext Preprocessor
-*[ALTE]: Association of Language Testers in Europe
-*[CCR]: Centro Cultural Recoleta
-*[AMIA]: Asociación Mutual Israelita Argentina
-*[CMS]: Content Management System
-*[EUDEBA]: Editorial Universitaria de Buenos Aires
+*[SEU]: Secretaría de Extensión Universitaria
+*[UBA]: Universidad de Buenos Aires
+*[UBACyT]: Universidad de Buenos Aires Ciencia y Técnica
+*[UX/UI]: User interface + User experience
+*[UNC]: Universidad Nacional de Córdoba

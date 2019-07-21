@@ -5,10 +5,10 @@ prioridad: 0
 ---
 
 ## Experiencias laborales
-**Ingeniero de software en UI/UX**{: .puesto} // 12.2018 -- presente  
+**Ingeniero de software en UX/UI**{: .puesto} // 12.2018 -- presente  
 [*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
 
-**Diseñador UI/UX**{: .puesto} // 04.2018 -- 11.2018  
+**Diseñador UX/UI**{: .puesto} // 04.2018 -- 11.2018  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
 Análisis de negocio y funcional, diseño de interfaz de usuario, creación de prototipos, wireframing, sitemaps, flujos de usuarios, personas, casos de uso. Descubrimiento de marca (benchmark de diseño). Definiciones lado a lado con desarrolladores senior y semi senior.  
 
@@ -17,7 +17,7 @@ Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño 
 
 **Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- 03.2018  
 [*The Plus*](https://theplus.agency){:target="_blank"}{: .empleador}  
-Análisis de requerimientos funcionales para aplicaciones y sitios web, casos de uso, desarrollo de esquema de base de datos, diseño UI/UX, mockups, y wireframes. Desarrollo en HTML5 y CSS3, templates para Wagtail (Django), e emails responsive (MJML). Experiencia básica con JavaScript (nativo y ECMAScript 6), React, y Python.  
+Análisis de requerimientos funcionales para aplicaciones y sitios web, casos de uso, desarrollo de esquema de base de datos, diseño UX/UI, mockups, y wireframes. Desarrollo en HTML5 y CSS3, templates para Wagtail (Django), e emails responsive (MJML). Experiencia básica con JavaScript (nativo y ECMAScript 6), React, y Python.  
 
 **Oficial de marketing y desarrollador web**{: .puesto} // 08.2015 -- 12.2016  
 [*Amazónica*](http://www.amazonica.com.ar){:target="_blank"}{: .empleador}  
@@ -75,10 +75,11 @@ Curso de posgrado de la [Universidad Nacional de Tres de Febrero](https://www.un
 Carrera de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
 ## Formación
+- *[El Diseño argentino como experiencia](http://www.fadu.uba.ar/post/1402-el-diseo-argentino-como-experiencia-intersecciones-entre-diseo-sociedad-y-cultura){:target="_blank"}: intersecciones entre diseño, sociedad y cultura*, Fundación Proa y FADU--UBA (área de posgrado) // 2019  
 - *1º Jornadas de Formación Docente*, FormarFADU, FADU--UBA // 2018  
 Actividades: *Didáctica Proyectual* dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"} y *Reinventar la clase en la Universidad* dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
-- [*Pensar y actuar en una época oscura*](http://www.lavaca.org/catedra-miguel-benasayag/){:target="_blank"} // 2016  
-Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"}.
+- [*Pensar y actuar en una época oscura*](http://www.lavaca.org/catedra-miguel-benasayag/){:target="_blank"}, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"} // 2016  
+Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política.
 - *El libro en vivo*, organizado por EUDEBA, II Bienal de Diseño, FADU--UBA // 2015  
 Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
 - *Seminario de vivienda y urbanismo social*, dictado por el Arq. Fermín Estrella y la Arq. Beatriz H. Pedro, FADU--UBA // 2014
@@ -171,5 +172,5 @@ Contactos laborales disponibles de ser requeridos.
 *[SEU]: Secretaría de Extensión Universitaria
 *[UBA]: Universidad de Buenos Aires
 *[UBACyT]: Universidad de Buenos Aires Ciencia y Técnica
-*[UI/UX]: User interface + User experience
+*[UX/UI]: User interface + User experience
 *[UNC]: Universidad Nacional de Córdoba
