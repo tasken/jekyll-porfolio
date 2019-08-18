@@ -32,7 +32,7 @@ Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tab
 Manejo directo de cuentas medianas y grandes (de distintos sectores), diseño de identidad, corporativo y publicitaria, diseño y gestión de campañas online (Facebook), diseño editorial, desarrollo de nuevas campañas de comunicación.  
 
 **Diseñador gráfico**{: .puesto} // 10.2012 -- 04.2013  
-*Industrias Culturales Argentinas*{: .empleador} -- *Dot Pre Press S.A.*{: .empleador}  
+*Industrias Culturales Argentinas*{: .empleador} -- *Dot Pre Press SA*{: .empleador}  
 Diseño y desarrollo editorial e identidad, preparación de originales para preprensa. Trabajo en coordinación con el sector de preprensa, offset digital y ripeador de filminas.  
 
 **Project leader**{: .puesto} // 06.2011 -- 09.2012  
@@ -45,15 +45,15 @@ Implementación de las bases de un sistema de difusión online para inmobiliaria
 Responsable de diseño y creación del estilo para el manual 2010--2011 del *Plan Maestro y Director del Sistema de Navegación Troncal*.  
 
 **Fotógrafo**{: .puesto} *(consultor externo)* // 2010  
-[*Estudio de Ambiente y Desarrollo S.R.L.*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
+[*Estudio de Ambiente y Desarrollo SRL*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
 Relevamiento / toma y edición de material fotográfico para el *Estudio de impacto ambiental y social de un proyecto ferroviario en la Quebrada de Humahuaca, Jujuy. INECO--ECOCONSULT*.  
 
 **Diagramador**{: .puesto} // 02.2009 -- 09.2010  
-[*Fundación Reunión de Administradores*](http://www.reunion-adm.com){:target="_blank"}{: .empleador} -- [*Tesco S.A.*](http://www.fra.org.ar/tesco.asp){:target="_blank"}{: .empleador}  
+[*Fundación Reunión de Administradores*](http://www.reunion-adm.com){:target="_blank"}{: .empleador} -- [*Tesco SA*](http://www.fra.org.ar/tesco.asp){:target="_blank"}{: .empleador}  
 Diagramación de revista *Reunión de Administradores*, publicación mensual (tirada 2000 ejemplares, 44 páginas color), adaptación del diseño de Quark a InDesign, diseño de publicidades, panfletos, volantes, soporte diseño y actualización de sitios web. Mantenimiento de sistemas.  
 
 **Soporte gráfico y sistemas**{: .puesto} // 2003 -- 2010  
-[*Estudio de Ambiente y Desarrollo S.R.L.*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
+[*Estudio de Ambiente y Desarrollo SRL*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
 Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, diseño de más de 15 posters presentados en congresos nacionales e internacionales, diseño de gráficos y figuras para publicaciones técnicas especializadas, soporte y mantenimiento informático, administración de redes.  
 {% endcomment %}
 
@@ -77,8 +77,14 @@ Curso de posgrado de la [Universidad Nacional de Tres de Febrero](https://www.un
 Carrera de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
 ## Formación
-- *1º Jornadas de Formación Docente*, FormarFADU, [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"} // 2018  
-Actividades: *Didáctica Proyectual* dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"} y *Reinventar la clase en la Universidad* dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
+- *2º Jornadas de Formación Docente*, FormarFADU, [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"} // 2019
+    - *Prácticas de la enseñanza que crean futuro*, dictado por la Dra. Mariana Maggio.
+    - *Aprender a enseñar lo que sabemos* (mesa redonda), disertantes: Darío Contreras, Aimé Nahmod, Arq. Mauro Suarez Torrico, coordinación: Arq G. Bugarin.
+    - *Expandir y enriquecer la enseñanza en la Universidad: prácticas docentes*, dictado por la Lic. Paz Florio y Lic. Ángeles Soletic.
+    - *Innovación Pedagógica vs Innovación Curricular*, dictado por el Dr. Alejandro Artopoulos.
+- *1º Jornadas de Formación Docente*, FormarFADU, [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"} // 2018
+    - *Didáctica Proyectual*, dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"}.
+    - *Reinventar la clase en la Universidad*, dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
 - [*Pensar y actuar en una época oscura*](http://www.lavaca.org/catedra-miguel-benasayag/){:target="_blank"}, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"} // 2016  
 Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política.
 - *El libro en vivo*, organizado por EUDEBA, II Bienal de Diseño, FADU--UBA // 2015  
@@ -109,14 +115,13 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
 
 ### Investigación
 - Integrante del proyecto UBACyT *El derecho a la imagen: figuraciones de colectivos desfavorecidos de la sociedad en el diseño emergente argentino (2007 -- 2017)*, dirigido por la [Dra. María del Valle Ledesma](https://maestriadicom.org/integrantes/dra-maria-del-valle-ledesma/){:target="_blank"}, UBA // 2018 -- presente
-- Integrante del proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
-*Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social*.  
-Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvarez, DIyS Andrea Cabrera y DG Magdalena Castría.
-    - Cuarto Congreso DiSUR, *Dimensión política del diseño en Latinoamérica. Debates y desafíos* // 2017
-    - II Jornadas sobre Diseño Social, organizadas por la Dra. María del Valle Ledesma, FADU--UBA // 2017
+- Integrante del proyecto de investigación *Memorias Visuales del Territorio* // 2015 -- presente  
+Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvarez, DIyS Andrea Cabrera y DG Magdalena Castría. Proyectos SI-FADU: PIA MyC-02 + PIA MyC-12 + PIA PyH-31.  
+    - Cuarto Congreso DiSUR, *Dimensión política del diseño en Latinoamérica. Debates y desafíos* // 2017  
+    - II Jornadas sobre Diseño Social, organizadas por la Dra. María del Valle Ledesma, FADU--UBA // 2017  
     - II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Investigaciones territoriales: experiencias y miradas*, UNC // 2016  
     - Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas*, FADU--UBA // 2015  
-    - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014  
+    - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014
 
 ### Publicaciones
 - «Hacer visible lo invisible», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 83 -- 90
@@ -169,10 +174,11 @@ Contactos laborales disponibles de ser requeridos.
 *[PHP]: PHP: Hypertext Preprocessor
 *[Previsite Argentina]: Sumaprop en la actualidad
 *[PIA]: Proyectos de Investigación Avanzados
-*[S.A.]: Sociedad Anónima
-*[S.R.L.]: Sociedad de Responsabilidad Limitada
+*[PyH]: Proyecto y Habitar
+*[SA]: Sociedad Anónima
+*[SRL]: Sociedad de Responsabilidad Limitada
 *[SEU]: Secretaría de Extensión Universitaria
 *[UBA]: Universidad de Buenos Aires
 *[UBACyT]: Universidad de Buenos Aires Ciencia y Técnica
-*[UX/UI]: User interface + User experience
+*[UX/UI]: User experience + User interface
 *[UNC]: Universidad Nacional de Córdoba
