@@ -172,13 +172,14 @@ Contactos laborales disponibles de ser requeridos.
 *[HTML5]: HyperText Markup Language v5
 *[MyC]: Morfología y Comunicación
 *[PHP]: PHP: Hypertext Preprocessor
-*[Previsite Argentina]: Sumaprop en la actualidad
 *[PIA]: Proyectos de Investigación Avanzados
+*[Previsite Argentina]: Sumaprop en la actualidad
 *[PyH]: Proyecto y Habitar
 *[SA]: Sociedad Anónima
-*[SRL]: Sociedad de Responsabilidad Limitada
 *[SEU]: Secretaría de Extensión Universitaria
+*[SI-FADU]: Secretaría de Investigaciones (FADU)
+*[SRL]: Sociedad de Responsabilidad Limitada
 *[UBA]: Universidad de Buenos Aires
 *[UBACyT]: Universidad de Buenos Aires Ciencia y Técnica
-*[UX/UI]: User experience + User interface
 *[UNC]: Universidad Nacional de Córdoba
+*[UX/UI]: User experience + User interface
