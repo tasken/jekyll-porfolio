@@ -5,10 +5,7 @@ html {
 
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: #ddd; }
-::-webkit-scrollbar-thumb {
-    background: #666;
-    &:hover { background-color: deepskyblue; }
-}
+::-webkit-scrollbar-thumb { background: #666; }
 
 html,
 body {
