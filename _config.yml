@@ -20,18 +20,9 @@ exclude: ['vendor', 'Gemfile*', 'rakefile.rb']
 
 plugins:
     - jekyll-tidy
-    - jekyll-assets
     - jekyll-sitemap
 
 collections:
     proyectos:
         output: true
         permalink: /:collection/:path/
-
-assets:
-    autoprefixer:
-        browsers:
-        - 'last 2 versions'
-        - 'IE > 9'
-    plugins:
-        css: { autoprefixer: {} }

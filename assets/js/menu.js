@@ -1,17 +1,18 @@
 (function (window, document) {
 
-    var layout = document.getElementById('layout'),
-        menu = document.getElementById('menu'),
-        menuLink = document.getElementById('menuLink'),
-        content = document.getElementById('main'),
-        body1 = document.getElementsByTagName('body')[0];
+    let layout, menu, menuLink, content, body;
+    layout = document.getElementById('layout');
+    menu = document.getElementById('menu');
+    menuLink = document.getElementById('menuLink');
+    content = document.getElementById('main');
+    body = document.body;
 
     function toggleClass (element, className) {
-        var classes = element.className.split(/\s+/),
-            length = classes.length,
-            i = 0;
+        let classes, length;
+        classes = element.className.split(/\s+/);
+        length = classes.length;
 
-        for (; i < length; i++) {
+        for (let i = 0; i < length; i++) {
             if (classes[i] === className) {
                 classes.splice(i, 1);
                 break;
@@ -26,14 +27,12 @@
     }
 
     function toggleAll (e) {
-        var active = 'active';
-        var fixed = 'fixed';
-
+        const active = 'active', fixed = 'fixed';
         e.preventDefault();
         toggleClass(layout, active);
         toggleClass(menu, active);
         toggleClass(menuLink, active);
-        toggleClass(body1, fixed);
+        toggleClass(body, fixed);
     }
 
     menuLink.onclick = function (e) {
