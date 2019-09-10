@@ -4,7 +4,7 @@ title: "Exposiciones"
 prioridad: 5
 ---
 
-- [*Heterotopías urbanas*]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})
+- [*Heterotopías urbanas*]({% link _proyectos/heterotopías-urbanas.md %})
     - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, [La Noche de los Museos](http://lanochedelosmuseos.gob.ar/2018/lnm/es/home){:target="_blank"} @ [FADU](http://comunica.fadu.uba.ar/noche-de-los-museos-2018/){:target="_blank"}, CABA // 2018
     - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, [X Festival Internacional de Diseño](http://www.buenosaires.gob.ar/cmd/fid){:target="_blank"}, CMD, CABA // 2018
     - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
@@ -15,7 +15,7 @@ prioridad: 5
 - [*Santa Kraut*](https://www.facebook.com/events/115275905284236){:target="_blank"}, Santa, Galería Patio del Liceo, CABA // 2012
 - Muestra de fin de año Cátedra Rico, Diseño 1, Cátedra Rico, FADU–UBA, CABA // 2011
 - *Sembrando voces*. Diseño 1, Cátedra Rico, Centro Cultural IMPA, Almagro, CABA // 2011
-- [*Memoria ilustrada*]({{ site.baseurl }}{% link _proyectos/el-hallazgo.md %}). Historietas para no olvidar. Medios Expresivos 1, Cátedra Groisman
+- [*Memoria ilustrada*]({% link _proyectos/el-hallazgo.md %}). Historietas para no olvidar. Medios Expresivos 1, Cátedra Groisman
     - [AMIA](http://www.amia.org.ar/index.php/news/default/show/news/260){:target="_blank"}, CABA // 2011
     - [CCR](http://centroculturalrecoleta.org/ccr-sp/exposiciones/2011/06/28/espacio-de-arte-amia-catedra-groisman-de-la-fadu){:target="_blank"}, CABA // 2011
 - [*Mirar, Escuchar, Fotografiar… Chacarita*](http://biblioteca.fadu.uba.ar/tiki-read_article.php?articleId=238){:target="_blank"}, Diseño 1, Cátedra Rico, [Espacio Cultural Carlos Gardel](https://www.facebook.com/media/set/?set=a.10150214822907685.316600.114898172684&type=3){:target="_blank"}, CABA // 2011

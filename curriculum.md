@@ -129,16 +129,16 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
 
 ### Trabajos publicados
 - Fotografías, publicaciones de la [sección Narrativa](http://revistalevadura.mx/category/narrativa/){:target="_blank"} de la revista Levadura (Monterrey, México) // 2019
-- «[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 98 -- 99
-- «[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})», en [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA // 2017, p. 59
-- «[El hallazgo]({{ site.baseurl }}{% link _proyectos/el-hallazgo.md %})», en [*Memoria ilustrada: Historietas para no olvidar*](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011, pp. 20 -- 21
+- «[Heterotopías urbanas]({% link _proyectos/heterotopías-urbanas.md %})», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 98 -- 99
+- «[Heterotopías urbanas]({% link _proyectos/heterotopías-urbanas.md %})», en [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA // 2017, p. 59
+- «[El hallazgo]({% link _proyectos/el-hallazgo.md %})», en [*Memoria ilustrada: Historietas para no olvidar*](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011, pp. 20 -- 21
 - «Tangram», en [*Gramática T'ang*](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"} // 2011, p. 16
 
 ## Reconocimientos
 - *Obsesión fatal*, Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012
 - *Mejor promedio y desempeño durante la cursada*, Diseño Gráfico I, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA // 2011
 - *Mayor crecimiento nivel I*, Tipografía I, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2010
-- Ganador del concurso del [logotipo]({{ site.baseurl }}{% link _proyectos/logo-rbe.md %}) para la *IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile*, CABA // 2010
+- Ganador del concurso del [logotipo]({% link _proyectos/logo-rbe.md %}) para la *IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile*, CABA // 2010
 
 ## Idiomas
 - Certificación del idioma inglés otorgado por el CUI. Nivel: Consejo Europeo C1, ALTE 4 // 2009
