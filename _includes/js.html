@@ -1,4 +1,4 @@
-{% asset menu.js %}
+<script src="{{ site.baseurl }}/assets/js/menu.js"></script>
 
 {% if page.collection == "proyectos" %}
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
@@ -17,9 +17,9 @@
 {% if page.p5 %}
     <script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/p5.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/p5.js/0.7.2/addons/p5.dom.js"></script>
-    {% asset sketch.js %}
+    <script src="{{ site.baseurl }}/assets/js/sketch.js"></script>
 {% endif %}
 
-{% if page.path == "index.md" %}
-    {% asset rnd-image.js %}
+{% if page.path == "index.md" or page.path == "colofon.md" %}
+<script src="{{ site.baseurl }}/assets/js/rnd-image.js"></script>
 {% endif %}

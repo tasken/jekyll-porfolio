@@ -1,4 +1,4 @@
-image: starefossen/ruby-node
+image: ruby:alpine
 
 variables:
   JEKYLL_ENV: development
@@ -16,6 +16,8 @@ stages:
   - deploy
 
 before_script:
+  - 'which ssh-agent || ( apk update && apk add --no-cache build-base )'
+  - gem install bundler
   - bundle install --path vendor
 
 pages:

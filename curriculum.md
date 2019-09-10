@@ -5,10 +5,10 @@ prioridad: 0
 ---
 
 ## Experiencias laborales
-**Ingeniero de software en UI/UX**{: .puesto} // 12.2018 -- presente  
+**Ingeniero de software en UX/UI**{: .puesto} // 12.2018 -- presente  
 [*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
 
-**Diseñador UI/UX**{: .puesto} // 04.2018 -- 11.2018  
+**Diseñador UX/UI**{: .puesto} // 04.2018 -- 11.2018  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
 Análisis de negocio y funcional, diseño de interfaz de usuario, creación de prototipos, wireframing, sitemaps, flujos de usuarios, personas, casos de uso. Descubrimiento de marca (benchmark de diseño). Definiciones lado a lado con desarrolladores senior y semi senior.  
 
@@ -17,7 +17,7 @@ Autogestión y seguimiento de trabajos y proyectos propios. Sitios web, diseño 
 
 **Analista funcional y desarrollador web**{: .puesto} // 08.2017 -- 03.2018  
 [*The Plus*](https://theplus.agency){:target="_blank"}{: .empleador}  
-Análisis de requerimientos funcionales para aplicaciones y sitios web, casos de uso, desarrollo de esquema de base de datos, diseño UI/UX, mockups, y wireframes. Desarrollo en HTML5 y CSS3, templates para Wagtail (Django), e emails responsive (MJML). Experiencia básica con JavaScript (nativo y ECMAScript 6), React, y Python.  
+Análisis de requerimientos funcionales para aplicaciones y sitios web, casos de uso, desarrollo de esquema de base de datos, diseño UX/UI, mockups, y wireframes. Desarrollo en HTML5 y CSS3, templates para Wagtail (Django), e emails responsive (MJML). Experiencia básica con JavaScript (nativo y ECMAScript 6), React, y Python.  
 
 **Oficial de marketing y desarrollador web**{: .puesto} // 08.2015 -- 12.2016  
 [*Amazónica*](http://www.amazonica.com.ar){:target="_blank"}{: .empleador}  
@@ -32,7 +32,7 @@ Diseño y desarrollo de sitios responsive con 3 o más breakpoints (celular, tab
 Manejo directo de cuentas medianas y grandes (de distintos sectores), diseño de identidad, corporativo y publicitaria, diseño y gestión de campañas online (Facebook), diseño editorial, desarrollo de nuevas campañas de comunicación.  
 
 **Diseñador gráfico**{: .puesto} // 10.2012 -- 04.2013  
-*Industrias Culturales Argentinas*{: .empleador} -- *Dot Pre Press S.A.*{: .empleador}  
+*Industrias Culturales Argentinas*{: .empleador} -- *Dot Pre Press SA*{: .empleador}  
 Diseño y desarrollo editorial e identidad, preparación de originales para preprensa. Trabajo en coordinación con el sector de preprensa, offset digital y ripeador de filminas.  
 
 **Project leader**{: .puesto} // 06.2011 -- 09.2012  
@@ -45,15 +45,15 @@ Implementación de las bases de un sistema de difusión online para inmobiliaria
 Responsable de diseño y creación del estilo para el manual 2010--2011 del *Plan Maestro y Director del Sistema de Navegación Troncal*.  
 
 **Fotógrafo**{: .puesto} *(consultor externo)* // 2010  
-[*Estudio de Ambiente y Desarrollo S.R.L.*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
+[*Estudio de Ambiente y Desarrollo SRL*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
 Relevamiento / toma y edición de material fotográfico para el *Estudio de impacto ambiental y social de un proyecto ferroviario en la Quebrada de Humahuaca, Jujuy. INECO--ECOCONSULT*.  
 
 **Diagramador**{: .puesto} // 02.2009 -- 09.2010  
-[*Fundación Reunión de Administradores*](http://www.reunion-adm.com){:target="_blank"}{: .empleador} -- [*Tesco S.A.*](http://www.fra.org.ar/tesco.asp){:target="_blank"}{: .empleador}  
+[*Fundación Reunión de Administradores*](http://www.reunion-adm.com){:target="_blank"}{: .empleador} -- [*Tesco SA*](http://www.fra.org.ar/tesco.asp){:target="_blank"}{: .empleador}  
 Diagramación de revista *Reunión de Administradores*, publicación mensual (tirada 2000 ejemplares, 44 páginas color), adaptación del diseño de Quark a InDesign, diseño de publicidades, panfletos, volantes, soporte diseño y actualización de sitios web. Mantenimiento de sistemas.  
 
 **Soporte gráfico y sistemas**{: .puesto} // 2003 -- 2010  
-[*Estudio de Ambiente y Desarrollo S.R.L.*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
+[*Estudio de Ambiente y Desarrollo SRL*](http://estudioayd.com.ar){:target="_blank"}{: .empleador}  
 Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, diseño de más de 15 posters presentados en congresos nacionales e internacionales, diseño de gráficos y figuras para publicaciones técnicas especializadas, soporte y mantenimiento informático, administración de redes.  
 {% endcomment %}
 
@@ -69,16 +69,24 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - Alto desempeño y autodidacta en tecnologías digitales.
 
 ## Educación
+- [*El Diseño argentino como experiencia: intersecciones entre diseño, sociedad y cultura*](http://www.fadu.uba.ar/post/1402-el-diseo-argentino-como-experiencia-intersecciones-entre-diseo-sociedad-y-cultura){:target="_blank"} // 2019  
+Curso de posgrado de [Fundación Proa](http://proa.org){:target="_blank"} y [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"}
 - [*Industrias Culturales: claves para su gestión y desarrollo*](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"} // 2017 -- 2018  
 Curso de posgrado de la [Universidad Nacional de Tres de Febrero](https://www.untref.edu.ar){:target="_blank"}.
-- [***Diseño Gráfico***](http://www.fadu.uba.ar/categoria/50-diseo-grfico){:target="_blank"} // 2008 -- 2016  
+- [*Diseño Gráfico*](http://www.fadu.uba.ar/categoria/50-diseo-grfico){:target="_blank"} // 2008 -- 2016  
 Carrera de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
 ## Formación
-- *1º Jornadas de Formación Docente*, FormarFADU, FADU--UBA // 2018  
-Actividades: *Didáctica Proyectual* dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"} y *Reinventar la clase en la Universidad* dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
-- [*Pensar y actuar en una época oscura*](http://www.lavaca.org/catedra-miguel-benasayag/){:target="_blank"} // 2016  
-Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"}.
+- *2º Jornadas de Formación Docente*, FormarFADU, [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"} // 2019
+    - *Prácticas de la enseñanza que crean futuro*, dictado por la Dra. Mariana Maggio.
+    - *Aprender a enseñar lo que sabemos* (mesa redonda), disertantes: Darío Contreras, Aimé Nahmod, Arq. Mauro Suarez Torrico, coordinación: Arq G. Bugarin.
+    - *Expandir y enriquecer la enseñanza en la Universidad: prácticas docentes*, dictado por la Lic. Paz Florio y Lic. Ángeles Soletic.
+    - *Innovación Pedagógica vs Innovación Curricular*, dictado por el Dr. Alejandro Artopoulos.
+- *1º Jornadas de Formación Docente*, FormarFADU, [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"} // 2018
+    - *Didáctica Proyectual*, dictado por la [Dra. Ana María Romano](http://www.fadu.uba.ar/application/post/download-filename/2351){:target="_blank"}.
+    - *Reinventar la clase en la Universidad*, dictado por la [Dra. Mariana Maggio](http://www.fadu.uba.ar/application/post/download-filename/2337){:target="_blank"}.
+- [*Pensar y actuar en una época oscura*](http://www.lavaca.org/catedra-miguel-benasayag/){:target="_blank"}, Colectivo de trabajo [La Vaca](http://www.lavaca.org/){:target="_blank"} // 2016  
+Seminario intensivo, Cátedra Miguel Benasayag: Ciencias y política.
 - *El libro en vivo*, organizado por EUDEBA, II Bienal de Diseño, FADU--UBA // 2015  
 Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por Patricia Piccolini, Darío Contreras y Carlos Venancio. Coordinación: Silvina Simondet.
 - *Seminario de vivienda y urbanismo social*, dictado por el Arq. Fermín Estrella y la Arq. Beatriz H. Pedro, FADU--UBA // 2014
@@ -88,10 +96,10 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
 - *Taller de creación de imágenes audiovisuales*, dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"}, SEU--FADU--UBA // 2009
 - Cursos de fotografía práctica y teórica (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"}) // 2003 -- 2007
 
-## Ámbito Académico
+## Ámbito académico
 
 ### Docencia
-- **Jefe de Trabajos Prácticos**
+- **Jefe de trabajos prácticos**
     - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"} // 2018 -- presente
 - **Ayudante de primera**
     - Historia I, [Cátedra Ex Macchi](https://www.facebook.com/catedramacchihistoria1){:target="_blank"} // 2018 -- presente
@@ -107,20 +115,20 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
 
 ### Investigación
 - Integrante del proyecto UBACyT *El derecho a la imagen: figuraciones de colectivos desfavorecidos de la sociedad en el diseño emergente argentino (2007 -- 2017)*, dirigido por la [Dra. María del Valle Ledesma](https://maestriadicom.org/integrantes/dra-maria-del-valle-ledesma/){:target="_blank"}, UBA // 2018 -- presente
-- Integrante del proyecto de investigación [*Memorias Visuales del Territorio*](http://www.fadu.uba.ar/application/post/download-filename/1153){:target="_blank"}: *El Territorio Visualizado en Memoria y Presente*, PIA MyC--12, FADU--UBA // 2014 -- presente  
-*Dinámicas de participación y construcción colectiva de dispositivos de visualización, para la reconstrucción de la memoria social*.  
-Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvarez, DIyS Andrea Cabrera y DG Magdalena Castría.
-    - Cuarto Congreso DiSUR, *Dimensión política del diseño en Latinoamérica. Debates y desafíos* // 2017
-    - II Jornadas sobre Diseño Social, organizadas por la Dra. María del Valle Ledesma, FADU--UBA // 2017
+- Integrante del proyecto de investigación *Memorias Visuales del Territorio* // 2015 -- presente  
+Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvarez, DIyS Andrea Cabrera y DG Magdalena Castría. Proyectos SI-FADU: PIA MyC-02 + PIA MyC-12 + PIA PyH-31.  
+    - Cuarto Congreso DiSUR, *Dimensión política del diseño en Latinoamérica. Debates y desafíos* // 2017  
+    - II Jornadas sobre Diseño Social, organizadas por la Dra. María del Valle Ledesma, FADU--UBA // 2017  
     - II Encuentro Internacional la Formación Universitaria y la Dimensión Social del Profesional. *Investigaciones territoriales: experiencias y miradas*, UNC // 2016  
     - Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas*, FADU--UBA // 2015  
-    - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014  
+    - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014
 
 ### Publicaciones
 - «Hacer visible lo invisible», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 83 -- 90
 - «[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}», coescrito con Mariel Szlifman. En: *[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del [Centro Argentino de Investigadores de Arte](http://www.caia.org.ar){:target="_blank"} (CAIA)*. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125 -- 140
 
 ### Trabajos publicados
+- Fotografías, publicaciones de la [sección Narrativa](http://revistalevadura.mx/category/narrativa/){:target="_blank"} de la revista Levadura (Monterrey, México) // 2019
 - «[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 98 -- 99
 - «[Heterotopías urbanas]({{ site.baseurl }}{% link _proyectos/heterotopías-urbanas.md %})», en [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA // 2017, p. 59
 - «[El hallazgo]({{ site.baseurl }}{% link _proyectos/el-hallazgo.md %})», en [*Memoria ilustrada: Historietas para no olvidar*](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011, pp. 20 -- 21
@@ -164,12 +172,14 @@ Contactos laborales disponibles de ser requeridos.
 *[HTML5]: HyperText Markup Language v5
 *[MyC]: Morfología y Comunicación
 *[PHP]: PHP: Hypertext Preprocessor
-*[Previsite Argentina]: Sumaprop en la actualidad
 *[PIA]: Proyectos de Investigación Avanzados
-*[S.A.]: Sociedad Anónima
-*[S.R.L.]: Sociedad de Responsabilidad Limitada
+*[Previsite Argentina]: Sumaprop en la actualidad
+*[PyH]: Proyecto y Habitar
+*[SA]: Sociedad Anónima
 *[SEU]: Secretaría de Extensión Universitaria
+*[SI-FADU]: Secretaría de Investigaciones (FADU)
+*[SRL]: Sociedad de Responsabilidad Limitada
 *[UBA]: Universidad de Buenos Aires
 *[UBACyT]: Universidad de Buenos Aires Ciencia y Técnica
-*[UI/UX]: User interface + User experience
 *[UNC]: Universidad Nacional de Córdoba
+*[UX/UI]: User experience + User interface
