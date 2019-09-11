@@ -15,6 +15,7 @@ stages:
   - deploy
 
 before_script:
+  - 'which ssh-agent || ( apk update && apk add --no-cache build-base )'
   - gem install bundler
   - bundle install --path vendor
 
