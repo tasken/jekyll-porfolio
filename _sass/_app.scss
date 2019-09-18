@@ -5,7 +5,11 @@ html {
 
 ::-webkit-scrollbar { width: 6px; }
 ::-webkit-scrollbar-track { background: #ddd; }
-::-webkit-scrollbar-thumb { background: #666; }
+::-webkit-scrollbar-thumb {
+    background: #666;
+    border-radius: 3px;
+    &:hover { background: #525252; }
+}
 
 html,
 body {
