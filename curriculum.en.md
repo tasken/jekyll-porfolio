@@ -6,7 +6,7 @@ sitemap: false
 ---
 
 ## Work experience
-**Software engineer in UX/UI**{: .puesto} // 12.2018 -- presente  
+**UX/UI designer**{: .puesto} // 12.2018 -- presente  
 [*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
 
 **UX/UI designer**{: .puesto} // 04.2018 -- 11.2018  
@@ -106,7 +106,7 @@ Joint project with: Lucas Giono, Soledad Silva, Amelia Ojeda and Camila Álvarez
 - "Fatal obsession", Typography II, [Cosgaya Chair](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012.
 - "Best performance during the attended", Graphic Design I, [Rico Chair](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA // 2011.
 - "Highest growth in level 1l I", Typography I, [Cosgaya Chair](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2010.
-- [Logo]({{ site.baseurl }}{% link _proyectos/logo-rbe.md %}) contest winner for "IV Binational Meeting of Ecology -- XXIV Ecology Meeting of Argentina -- XVII Meeting of the Ecological Society of Chile", CABA, Argentina.
+- [Logo]({% link _proyectos/logo-rbe.md %}) contest winner for "IV Binational Meeting of Ecology -- XXIV Ecology Meeting of Argentina -- XVII Meeting of the Ecological Society of Chile", CABA, Argentina.
 
 ## Publications
 - *[Illustrated memory: Comics to remember](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Groisman Chair](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011

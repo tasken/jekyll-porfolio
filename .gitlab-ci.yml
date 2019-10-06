@@ -3,7 +3,6 @@ image: ruby:alpine
 variables:
   JEKYLL_ENV: development
   LC_ALL: C.UTF-8
-  BUNDLE_BUILD__NOKOGIRI: --use-system-libraries
 
 cache:
   key: ${CI_COMMIT_REF_SLUG}
