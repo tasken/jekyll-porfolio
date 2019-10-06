@@ -5,7 +5,7 @@ prioridad: 0
 ---
 
 ## Experiencias laborales
-**Ingeniero de software en UX/UI**{: .puesto} // 12.2018 -- presente  
+**Diseñador UX/UI**{: .puesto} // 12.2018 -- presente  
 [*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
 
 **Diseñador UX/UI**{: .puesto} // 04.2018 -- 11.2018  
