@@ -52,18 +52,18 @@ deploy:
   cache: {}
   when: on_success
   environment:
-    name: 'NearlyFreeSpeech'
+    name: NearlyFreeSpeech
     url: https://augustodaniele.com.ar
   before_script:
   - 'which ssh-agent || ( apk update && apk add openssh-client bash rsync )'
   - eval $(ssh-agent -s)
-  - echo "$PRODUCTION_PRIVATE_KEY" | tr -d '\r' | ssh-add - > /dev/null
+  - echo '$PRODUCTION_PRIVATE_KEY' | tr -d '\r' | ssh-add - > /dev/null
   - mkdir -p ~/.ssh
   - chmod 700 ~/.ssh
   - ssh-keyscan -H $PRODUCTION_SERVER >> ~/.ssh/known_hosts
   - chmod 644 ~/.ssh/known_hosts
   script:
-  - rsync -hrvz --delete-before --exclude=.well-known -e ssh deploy/ "${SSH_USER_HOST_LOCATION}"
+  - rsync -hrvz --delete-before --exclude=.well-known -e ssh deploy/ '${SSH_USER_HOST_LOCATION}'
   dependencies:
   - build
   only:
