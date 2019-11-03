@@ -5,15 +5,16 @@ prioridad: 5
 ---
 
 - [*Heterotopías urbanas*]({% link _proyectos/heterotopías-urbanas.md %})
-    - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, [La Noche de los Museos](http://lanochedelosmuseos.gob.ar/2018/lnm/es/home){:target="_blank"} @ [FADU](http://comunica.fadu.uba.ar/noche-de-los-museos-2018/){:target="_blank"}, CABA // 2018
+    - Cartografías de Cátedra [La Ferla], [La Noche de los Museos](http://lanochedelosmuseos.gob.ar/2019/lnm/es/home){:target="_blank"} @ FADU--UBA, CABA // 2019
+    - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, [La Noche de los Museos](http://lanochedelosmuseos.gob.ar/2018/lnm/es/home){:target="_blank"} @ [FADU--UBA](http://comunica.fadu.uba.ar/noche-de-los-museos-2018/){:target="_blank"}, CABA // 2018
     - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, [X Festival Internacional de Diseño](http://www.buenosaires.gob.ar/cmd/fid){:target="_blank"}, CMD, CABA // 2018
     - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
     - [*Festival Escalatrónica 2017*](http://www.unla.edu.ar/index.php/escalatronica/){:target="_blank"}, Segundo festival internacional de arte electrónico, obra seleccinada, UNLa, Lanús, Provincia de Buenos Aires // 2017
     - [*Encuentro FASE 8.0*](http://encuentrofase.com.ar){:target="_blank"}, Pensar la praxis, CCR, CABA // 2016
-- Exposición conmemorativa [*El año 25 del Taller de Fotografía FADU/UBA*](https://web.archive.org/web/20160522231508/http://fola.com.ar/wp/programacion/sala-tres/){:target="_blank"}, FoLa, CABA // 2016
+- Exposición conmemorativa [*El año 25 del Taller de Fotografía FADU--UBA*](https://web.archive.org/web/20160522231508/http://fola.com.ar/wp/programacion/sala-tres/){:target="_blank"}, FoLa, CABA // 2016
 - Grupo Kraut, [Inauguración ODD CG](https://www.facebook.com/media/set/?set=a.351884681573445.80819.100296976732218&type=3){:target="_blank"}, CABA // 2012
 - [*Santa Kraut*](https://www.facebook.com/events/115275905284236){:target="_blank"}, Santa, Galería Patio del Liceo, CABA // 2012
-- Muestra de fin de año Cátedra Rico, Diseño 1, Cátedra Rico, FADU–UBA, CABA // 2011
+- Muestra de fin de año Cátedra Rico, Diseño 1, Cátedra Rico, FADU--UBA, CABA // 2011
 - *Sembrando voces*. Diseño 1, Cátedra Rico, Centro Cultural IMPA, Almagro, CABA // 2011
 - [*Memoria ilustrada*]({% link _proyectos/el-hallazgo.md %}). Historietas para no olvidar. Medios Expresivos 1, Cátedra Groisman
     - [AMIA](http://www.amia.org.ar/index.php/news/default/show/news/260){:target="_blank"}, CABA // 2011

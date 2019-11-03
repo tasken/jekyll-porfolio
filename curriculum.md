@@ -5,6 +5,7 @@ prioridad: 0
 ---
 
 ## Experiencias laborales
+
 **Diseñador UX/UI**{: .puesto} // 12.2018 -- presente  
 [*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
 
@@ -58,6 +59,7 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 {% endcomment %}
 
 ## Conocimientos
+
 - Desempeño avanzado con programas de diseño: Adobe Creative Cloud.
 - Conocimientos avanzados de composición tipográfica y <span title="Conjunto de usos y convenciones particulares con las que se rige la escritura por medio de elementos tipográficos en cada lengua.">ortotipografía</span>.
 - Desarrollo de sitios con tecnologías HTML, CSS, librerías JavaScript y Liquid.
@@ -69,14 +71,16 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - Alto desempeño y autodidacta en tecnologías digitales.
 
 ## Educación
+
 - [*El Diseño argentino como experiencia: intersecciones entre diseño, sociedad y cultura*](http://www.fadu.uba.ar/post/1402-el-diseo-argentino-como-experiencia-intersecciones-entre-diseo-sociedad-y-cultura){:target="_blank"} // 2019  
-Curso de posgrado de [Fundación Proa](http://proa.org){:target="_blank"} y [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"}
+Curso de posgrado de [Fundación Proa](http://proa.org){:target="_blank"} y [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"}.
 - [*Industrias Culturales: claves para su gestión y desarrollo*](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"} // 2017 -- 2018  
 Curso de posgrado de la [Universidad Nacional de Tres de Febrero](https://www.untref.edu.ar){:target="_blank"}.
 - [*Diseño Gráfico*](http://www.fadu.uba.ar/categoria/50-diseo-grfico){:target="_blank"} // 2008 -- 2016  
 Carrera de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
 ## Formación
+
 - *2º Jornadas de Formación Docente*, FormarFADU, [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"} // 2019
     - *Prácticas de la enseñanza que crean futuro*, dictado por la Dra. Mariana Maggio.
     - *Aprender a enseñar lo que sabemos* (mesa redonda), disertantes: Darío Contreras, Aimé Nahmod, Arq. Mauro Suarez Torrico, coordinación: Arq G. Bugarin.
@@ -99,6 +103,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
 ## Ámbito académico
 
 ### Docencia
+
 - **Jefe de trabajos prácticos**
     - [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"} // 2018 -- presente
 - **Ayudante de primera**
@@ -114,6 +119,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
     - *Taller de gráfica colectiva sobre el derecho a la ciudad* (workshop), [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, III Bienal de Diseño FADU--UBA // 2017
 
 ### Investigación
+
 - Integrante del proyecto UBACyT *El derecho a la imagen: figuraciones de colectivos desfavorecidos de la sociedad en el diseño emergente argentino (2007 -- 2017)*, dirigido por la [Dra. María del Valle Ledesma](https://maestriadicom.org/integrantes/dra-maria-del-valle-ledesma/){:target="_blank"}, UBA // 2018 -- presente
 - Integrante del proyecto de investigación *Memorias Visuales del Territorio* // 2015 -- presente  
 Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvarez, DIyS Andrea Cabrera y DG Magdalena Castría. Proyectos SI-FADU: PIA MyC-02 + PIA MyC-12 + PIA PyH-31.  
@@ -124,10 +130,12 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
     - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014
 
 ### Publicaciones
+
 - «Hacer visible lo invisible», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 83 -- 90
 - «[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}», coescrito con Mariel Szlifman. En: *[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del [Centro Argentino de Investigadores de Arte](http://www.caia.org.ar){:target="_blank"} (CAIA)*. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125 -- 140
 
 ### Trabajos publicados
+
 - Fotografías, publicaciones de la [sección Narrativa](http://revistalevadura.mx/category/narrativa/){:target="_blank"} de la revista Levadura (Monterrey, México) // 2019
 - «[Heterotopías urbanas]({% link _proyectos/heterotopías-urbanas.md %})», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 98 -- 99
 - «[Heterotopías urbanas]({% link _proyectos/heterotopías-urbanas.md %})», en [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA // 2017, p. 59
@@ -135,16 +143,19 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
 - «Tangram», en [*Gramática T'ang*](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"} // 2011, p. 16
 
 ## Reconocimientos
+
 - *Obsesión fatal*, Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012
 - *Mejor promedio y desempeño durante la cursada*, Diseño Gráfico I, [Cátedra Rico](http://www.catedrarico.com.ar){:target="_blank"}, FADU--UBA // 2011
 - *Mayor crecimiento nivel I*, Tipografía I, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2010
 - Ganador del concurso del [logotipo]({% link _proyectos/logo-rbe.md %}) para la *IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile*, CABA // 2010
 
 ## Idiomas
+
 - Certificación del idioma inglés otorgado por el CUI. Nivel: Consejo Europeo C1, ALTE 4 // 2009
 - Certificación del idioma italiano otorgado por el CUI. Nivel: Consejo Europeo B2, ALTE 3 // 2009
 
 ## Otras actividades
+
 - [Viajar](https://goo.gl/3Jk8tJ).
 - Cinéfilo, lector y muy curioso.
 - Cofundador de la [Comunidad argentina de Mozilla](https://www.facebook.com/mozilla.ar){:target="_blank"} // 2007
@@ -154,6 +165,7 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
 - Un tanto geek.
 
 ## Otras referencias
+
 Contactos laborales disponibles de ser requeridos.
 
 *[ALTE]: Association of Language Testers in Europe

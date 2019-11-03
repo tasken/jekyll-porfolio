@@ -29,6 +29,7 @@ Los medios locativos suman profundidad al mundo físico, permitiendo leer la ciu
 </div>
 
 #### Orígenes del proyecto
+
 Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 <div class="carousel">
@@ -46,6 +47,7 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 </div>
 
 #### Exposiciones
+
 - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, [La Noche de los Museos](http://lanochedelosmuseos.gob.ar/2018/lnm/es/home){:target="_blank"} @ [FADU](http://comunica.fadu.uba.ar/noche-de-los-museos-2018/){:target="_blank"}, CABA // 2018
 - [*Libros de Artista*](https://www.facebook.com/expolibrosdeartista/){:target="_blank"}, [X Festival Internacional de Diseño](http://www.buenosaires.gob.ar/cmd/fid){:target="_blank"}, CMD, CABA // 2018
 - [*Libros de Artista*](https://www.instagram.com/expolibrosdeartista/){:target="_blank"}, FADU--UBA, CABA // 2018
@@ -53,6 +55,7 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 - [*Encuentro FASE 8.0*](https://web.facebook.com/EncuentroFASE/){:target="_blank"}, Pensar la praxis, CCR, CABA // 2016
 
 #### Menciones
+
 - [*Reflexiones en torno a la producción audiovisual: el diseño como obstáculo*](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom ([mirror](https://web.archive.org/web/20180520215528/https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}) // 2018
 - [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018, pp. 98 -- 99
 - [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}) // 2017
@@ -62,6 +65,7 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 - [*FASE 8, los jóvenes llegan al arte a través de la tecnología y la ciencia*](http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"}, blog de María de Vedia // 2016 ([mirror](https://web.archive.org/web/20170904011915/http://blog.mariadevedia.net/fase-8-los-jovenes-llegan-al-arte-traves-la-tecnologia-la-ciencia/){:target="_blank"}) // 2016
 
 #### Links complementarios
+
 - [Proyecto en Instagram](https://www.instagram.com/heterotopias.urbanas/){:target="_blank"}
 - [Ficha en FASE 8.0](http://encuentrofase.com.ar/node/97){:target="_blank"} ([mirror](https://web.archive.org/web/20161220010941/http://encuentrofase.com.ar/node/97){:target="_blank"})
 - [Encuentro FASE -- Arte + Ciencia + Tecnología](http://encuentrofase.com.ar){:target="_blank"}
