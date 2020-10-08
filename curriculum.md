@@ -72,11 +72,15 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 
 ## Educación
 
+- Diseño estratégico de experiencia de usuario (UX avanzado) // 2020  
+Curso de posgrado de [UX Labs](http://ux-labs.net/){:target="_blank"} y [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"}.
+- [*Reescribir la historia. Enfoques de género sobre arte, cine y literatura desde los años 70 hasta hoy*](http://www.fadu.uba.ar/post/1518-249-reescribir-la-historia-enfoques-de-gnero-sobre-arte-cine-y-literatura-desde-los-aos-70-hasta-hoy){:target="_blank"} // 2020  
+Curso de posgrado de [Fundación Proa](http://proa.org){:target="_blank"} y [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"}.
 - [*El Diseño argentino como experiencia: intersecciones entre diseño, sociedad y cultura*](http://www.fadu.uba.ar/post/1402-el-diseo-argentino-como-experiencia-intersecciones-entre-diseo-sociedad-y-cultura){:target="_blank"} // 2019  
 Curso de posgrado de [Fundación Proa](http://proa.org){:target="_blank"} y [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"}.
 - [*Industrias Culturales: claves para su gestión y desarrollo*](https://www.untref.edu.ar/posgrado/curso-de-posgrado-en-industrias-culturales-claves-para-su-gestion-y-desarrollo){:target="_blank"} // 2017 -- 2018  
 Curso de posgrado de la [Universidad Nacional de Tres de Febrero](https://www.untref.edu.ar){:target="_blank"}.
-- [*Diseño Gráfico*](http://www.fadu.uba.ar/categoria/50-diseo-grfico){:target="_blank"} // 2008 -- 2016  
+- [**Diseño Gráfico**](http://www.fadu.uba.ar/categoria/50-diseo-grfico){:target="_blank"} // 2008 -- 2016  
 Carrera de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
 ## Formación
