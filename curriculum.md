@@ -58,7 +58,8 @@ Diagramación de revista *Reunión de Administradores*, publicación mensual (ti
 Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, diseño de más de 15 posters presentados en congresos nacionales e internacionales, diseño de gráficos y figuras para publicaciones técnicas especializadas, soporte y mantenimiento informático, administración de redes.  
 {% endcomment %}
 
-## Conocimientos
+
+{% comment %}## Conocimientos
 
 - Desempeño avanzado con programas de diseño: Adobe Creative Cloud.
 - Conocimientos avanzados de composición tipográfica y <span title="Conjunto de usos y convenciones particulares con las que se rige la escritura por medio de elementos tipográficos en cada lengua.">ortotipografía</span>.
@@ -68,7 +69,8 @@ Desarrollo de imagen corporativa, desarrollo y actualización de sitio web, dise
 - Experiencia de trabajo con Git, GitHub y GitLab.
 - Conocimientos avanzados de cuestiones técnicas, formatos de archivo, optimización, compatibilidad y de tecnologías digitales y web en general.
 - Cooperación y comunicación productiva en equipos.
-- Alto desempeño y autodidacta en tecnologías digitales.
+- Alto desempeño y autodidacta en tecnologías digitales.{% endcomment %}
+
 
 ## Educación
 
@@ -83,8 +85,15 @@ Curso de posgrado de la [Universidad Nacional de Tres de Febrero](https://www.un
 - [**Diseño Gráfico**](http://www.fadu.uba.ar/categoria/50-diseo-grfico){:target="_blank"} // 2008 -- 2016  
 Carrera de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://www.fadu.uba.ar){:target="_blank"} de la [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Abanderado de la bandera nacional en la jura del 23/03/2018.
 
+
 ## Formación
 
+- Conferencia UX, [Nielsen Norman Group](https://www.nngroup.com/ux-conference/){:target="_blank"} // 2020
+    - [*Managing User Experience Strategy*](https://www.nngroup.com/courses/managing-user-experience-strategy/){:target="_blank"}
+    - [*Being a UX Leader: Essential Skills for Any UX Practitioner*](https://www.nngroup.com/courses/ux-leadership-skills-for-all/){:target="_blank"}
+    - [*DesignOps: Scaling UX Design and User Research*](https://www.nngroup.com/courses/scaling-ux-design-and-user-research/){:target="_blank"}
+    - [*CX Transformation and Journey Management*](https://www.nngroup.com/courses/cx-transformation/){:target="_blank"}
+    - [*Design Tradeoffs and UX Decision Frameworks*](https://www.nngroup.com/courses/design-tradeoffs/){:target="_blank"}
 - *2º Jornadas de Formación Docente*, FormarFADU, [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"} // 2019
     - *Prácticas de la enseñanza que crean futuro*, dictado por la Dra. Mariana Maggio.
     - *Aprender a enseñar lo que sabemos* (mesa redonda), disertantes: Darío Contreras, Aimé Nahmod, Arq. Mauro Suarez Torrico, coordinación: Arq G. Bugarin.
@@ -104,6 +113,11 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
 - *Taller de creación de imágenes audiovisuales*, dictado por [Roberto Camarra](http://robertocamarra.blogspot.com){:target="_blank"}, SEU--FADU--UBA // 2009
 - Cursos de fotografía práctica y teórica (Centro Cultural Rojas, SEU--FADU--UBA, [El Baldío Móvil](http://www.elbaldiomovil.com.ar){:target="_blank"}) // 2003 -- 2007
 
+
+## Certificaciones
+- Certificado UX [#1042250](https://www.nngroup.com/ux-certification/verify/){:target="_blank"}, [Nielsen Norman Group](https://www.nngroup.com){:target="_blank"}
+
+
 ## Ámbito académico
 
 ### Docencia
@@ -122,6 +136,7 @@ Módulos: *Del texto a la edición* y *De la edición al diseño*, dictado por P
     - *Cartografiando la FADU. Del registro locativo móvil a la obra editada* (workshop), Cátedra La Ferla, III Bienal de Diseño FADU--UBA // 2017
     - *Taller de gráfica colectiva sobre el derecho a la ciudad* (workshop), [Taller Libre de Proyecto Social](http://www.tlps.com.ar){:target="_blank"}, III Bienal de Diseño FADU--UBA // 2017
 
+
 ### Investigación
 
 - Integrante del proyecto UBACyT *El derecho a la imagen: figuraciones de colectivos desfavorecidos de la sociedad en el diseño emergente argentino (2007 -- 2017)*, dirigido por la [Dra. María del Valle Ledesma](https://maestriadicom.org/integrantes/dra-maria-del-valle-ledesma/){:target="_blank"}, UBA // 2018 -- presente
@@ -133,10 +148,12 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
     - Jornadas Si + Ter. *Investigaciones territoriales: experiencias y miradas*, FADU--UBA // 2015  
     - Jornadas Si + Red. *Docencia, investigación y desarrollo en red*, FADU--UBA // 2014
 
+
 ### Publicaciones
 
 - «Hacer visible lo invisible», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 83 -- 90
 - «[Un abordaje a los medios locativos desde la formación en Diseño Gráfico en la FADU--UBA](http://caiana.caia.org.ar/template/caiana.php?pag=articles/article_2.php&obj=300&vol=12){:target="_blank"}», coescrito con Mariel Szlifman. En: *[caiana](http://caiana.caia.org.ar/){:target="_blank"}. Revista de Historia del Arte y Cultura Visual del [Centro Argentino de Investigadores de Arte](http://www.caia.org.ar){:target="_blank"} (CAIA)*. [No 12](http://caiana.caia.org.ar/template/caiana.php?pag=default.php&vol=12){:target="_blank"}, primer semestre 2018, pp. 125 -- 140
+
 
 ### Trabajos publicados
 
@@ -146,6 +163,7 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
 - «[El hallazgo]({% link _proyectos/el-hallazgo.md %})», en [*Memoria ilustrada: Historietas para no olvidar*](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011, pp. 20 -- 21
 - «Tangram», en [*Gramática T'ang*](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"} // 2011, p. 16
 
+
 ## Reconocimientos
 
 - *Obsesión fatal*, Tipografía II, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2012
@@ -153,10 +171,12 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
 - *Mayor crecimiento nivel I*, Tipografía I, [Cátedra Cosgaya](http://www.catedracosgaya.com.ar){:target="_blank"}, FADU--UBA // 2010
 - Ganador del concurso del [logotipo]({% link _proyectos/logo-rbe.md %}) para la *IV Reunión Binacional de Ecología -- XXIV Reunión Argentina de Ecología -- XVII Reunión de la Sociedad de Ecología de Chile*, CABA // 2010
 
+
 ## Idiomas
 
 - Certificación del idioma inglés otorgado por el CUI. Nivel: Consejo Europeo C1, ALTE 4 // 2009
 - Certificación del idioma italiano otorgado por el CUI. Nivel: Consejo Europeo B2, ALTE 3 // 2009
+
 
 ## Otras actividades
 
@@ -167,6 +187,7 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
 - Curso de Astronomía General, [Planetario Galileo Galilei](http://www.planetario.gob.ar){:target="_blank"} // 2008
 - Talleres de improvisación teatral en El Baldío Móvil // 2006 -- 2007
 - Un tanto geek.
+
 
 ## Otras referencias
 

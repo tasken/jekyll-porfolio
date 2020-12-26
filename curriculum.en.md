@@ -58,7 +58,7 @@ Magazine layout "Reunión de Administradores", a monthly publication (2000 copie
 Corporate image development, development and updating of web site design over 15 posters presented at national and international conferences, graphics and figures design for specialized technical publications, support and system maintenance, network administration.  
 {% endcomment %}
 
-## Expertise
+{% comment %} ## Expertise
 - Advanced performance with design software: Adobe Creative Cloud.
 - Advanced knowledge of typesetting and <span title="Orthotypography is the aspect of typography that defines the meaning and rightful usage of typographic signs, notably punctuation marks, and elements of layout such as flush margins and indentation.">orthotypography</span>.
 - Site development using HTML and CSS sites using web standards (W3C).
@@ -67,7 +67,7 @@ Corporate image development, development and updating of web site design over 15
 - GitHub enthusiast.
 - Advanced knowledge of technical issues, file formats, optimization, compatibility and web and digital technologies in general.
 - Cooperation and productive communication equipment.
-- High performance and self-taught in digital technologies.
+- High performance and self-taught in digital technologies. {% endcomment %}
 
 ## Education and training
 - *Cultural Industries: keys for its management and development* // 2017 - Diploma in 2018  
