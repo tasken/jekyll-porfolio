@@ -82,7 +82,7 @@ Postgraduate course at the [Universidad Nacional de Tres de Febrero](https://www
 *Graduated from [Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"}*.  Degree title of the [Facultad de Arquitectura, Diseño y Urbanismo (UBA)](http://www.fadu.uba.ar){:target="_blank"} of the [Universidad de Buenos Aires](http://www.uba.ar/){:target="_blank"}. Flag bearer of the national flag in the oath of 23/03/2018  
 
 ## Training
-- UX Copnference, [Nielsen Norman Group](https://www.nngroup.com/ux-conference/){:target="_blank"} // 2020
+- UX Conference, [Nielsen Norman Group](https://www.nngroup.com/ux-conference/){:target="_blank"} // 2020
     - [*Managing User Experience Strategy*](https://www.nngroup.com/courses/managing-user-experience-strategy/){:target="_blank"}
     - [*Being a UX Leader: Essential Skills for Any UX Practitioner*](https://www.nngroup.com/courses/ux-leadership-skills-for-all/){:target="_blank"}
     - [*DesignOps: Scaling UX Design and User Research*](https://www.nngroup.com/courses/scaling-ux-design-and-user-research/){:target="_blank"}
