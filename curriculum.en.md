@@ -7,9 +7,8 @@ sitemap: false
 
 ## Work experience
 **UX/UI designer**{: .puesto} // 12.2018 -- present  
-Senior associate user experience designer for enterprise products. Responsible for product research, feature definition, epic and story prioritization (in agreement with product mgmt.), business and user research, creating user personas, Google Analytics research, low and high definition mockups, prototyping, information architecture, product testing, product adoption sessions.
-
 [*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
+Senior associate user experience designer for enterprise products. Responsible for product research, business and user research, creating user personas, low and high resolution mockups, prototyping, information architecture, product testing, product adoption sessions, feature definition, epic and story prioritization (in agreement with product management), Google Analytics research.  
 
 **UX/UI designer**{: .puesto} // 04.2018 -- 11.2018  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
