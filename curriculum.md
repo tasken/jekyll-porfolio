@@ -8,7 +8,7 @@ prioridad: 0
 
 **Diseñador UX/UI**{: .puesto} // 12.2018 -- presente  
 [*JPMorgan Chase & Co.*](https://www.jpmorgan.com/country/AR/es/jpmorgan){:target="_blank"}{: .empleador}  
-Diseñador senior associate de experiencia de usuario para productos empresariales. Responsable de product research, investigación del negocio y usuarios, creación de user personas, mocks en baja y alta resolución, prototipos, arquitectura de información, testing, sesiones de adopción de productos, definición de funciones, priorización épica y de historias (en acuerdo con la gestión de productos), investigación de Google Analytics .
+Diseñador _senior associate_ de experiencia de usuario para productos empresariales. Responsable de _product research_, investigación del negocio y usuarios, creación de user personas, _mocks_ en baja y alta resolución, prototipos, arquitectura de información, _testing_, sesiones de adopción de productos, definición de funciones, priorización épica y de historias (en acuerdo con la gestión de productos), investigación de Google Analytics.  
 
 **Diseñador UX/UI**{: .puesto} // 04.2018 -- 11.2018  
 [*White Prompt*](https://www.whiteprompt.com){:target="_blank"}{: .empleador}  
