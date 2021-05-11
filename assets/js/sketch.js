@@ -5,7 +5,7 @@ let magnitude = 0.25;
 let maxspeed = 2;
 let opacity = 1;
 let particlecount = 5000;
-let timeout = 7200;
+let timeout = 90000;
 
 let cols, rows;
 let particles = [];
