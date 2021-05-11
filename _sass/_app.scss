@@ -1,6 +1,6 @@
 html {
     font-family: 'Asap', sans-serif;
-    font-size: 13px;
+    font-size: 14px;
 }
 
 ::-webkit-scrollbar { width: 6px; }
@@ -75,15 +75,24 @@ body {
     }
 }
 
+@media (max-width: 48em) {
+    .content.container {
+        padding-left: 0;
+        padding-right: 0;
+        padding-top: 5rem;
+    }
+}
+
 @media (min-width: 48em) {
 
-    html { font-size: 12px; }
     .content {
         padding-top: 2rem;
         max-width: 60rem;
         margin-left: 2rem;
     }
     .sidebar { width: 15rem; }
+
+    html { font-size: 13px; }
 
 }
 
@@ -305,7 +314,7 @@ sub { top: .4em; }
     }
     input[type='submit'] {
         cursor: pointer;
-        font-size: 14px;
+        font-size: .85rem;
         padding: 8px 18px;
         font-family: 'Asap', sans-serif;
     }
