@@ -1,11 +1,11 @@
 let inc = 0.1;
-let scl = 40;
+let scl = 20;
 let zoff = 0;
 let magnitude = 0.25;
 let maxspeed = 2;
 let opacity = 1;
 let particlecount = 5000;
-let timeout = 90000;
+let timeout = 7200;
 
 let cols, rows;
 let particles = [];
