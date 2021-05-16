@@ -95,6 +95,8 @@ Carrera de grado de la [Facultad de Arquitectura, Diseño y Urbanismo](http://ww
     - [*DesignOps: Scaling UX Design and User Research*](https://www.nngroup.com/courses/scaling-ux-design-and-user-research/){:target="_blank"}
     - [*CX Transformation and Journey Management*](https://www.nngroup.com/courses/cx-transformation/){:target="_blank"}
     - [*Design Tradeoffs and UX Decision Frameworks*](https://www.nngroup.com/courses/design-tradeoffs/){:target="_blank"}
+- [*Ser docente en la virtualidad: ¿con qué estrategias?*](http://citep.rec.uba.ar/ser-docentes-en-la-virtualidad-2020/){:target="_blank"}, [CITEP](http://citep.rec.uba.ar/){:target="_blank"}, Subsecretaría de Innovación y Calidad Académica, Secretaría de Asunto Académicos, Universidad de Buenos Aires // 2020
+- [*El diseño de la propuesta de enseñanza en un entorno virtual*](http://citep.rec.uba.ar/programa-virtual-de-formacion-docente/){:target="_blank"}, [CITEP](http://citep.rec.uba.ar/){:target="_blank"}, Subsecretaría de Innovación y Calidad Académica, Secretaría de Asunto Académicos, Universidad de Buenos Aires // 2020
 - *2º Jornadas de Formación Docente*, FormarFADU, [FADU--UBA](http://www.fadu.uba.ar){:target="_blank"} // 2019
     - *Prácticas de la enseñanza que crean futuro*, dictado por la Dra. Mariana Maggio.
     - *Aprender a enseñar lo que sabemos* (mesa redonda), disertantes: Darío Contreras, Aimé Nahmod, Arq. Mauro Suarez Torrico, coordinación: Arq G. Bugarin.
@@ -197,6 +199,7 @@ Contactos laborales disponibles de ser requeridos.
 *[ALTE]: Association of Language Testers in Europe
 *[AMIA]: Asociación Mutual Israelita Argentina
 *[CABA]: Ciudad Autónoma de Buenos Aires
+*[CITEP]: Centro de Innovaciones en Tecnología y Pedagogía
 *[CCR]: Centro Cultural Recoleta
 *[CMS]: Content Management System
 *[CSS]: Cascading Style Sheets
