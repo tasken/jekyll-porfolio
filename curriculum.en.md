@@ -39,7 +39,7 @@ Publishing and identity design, art and copy preparation for prepress. Internali
 
 **Project leader**{: .puesto} // 2011 -- 2012  
 *Previsite Argentina*{: .empleador} -- *ONELOOP*{: .empleador}  
-Basis development of an online app for realtors. Layout and design leader. Communication and management between sectors of design, development, implementation, marketing and management. Support and implementation of desk support tools. Implementation and optimization of new technologies for websites and services.  
+Basis development of an online app for realtors. Layout and design leader. Communication and management between sectors of design, development, implementation, marketing, and management. Support and implementation of desk support tools. Implementation and optimization of new technologies for websites and services.  
 
 {% comment %}
 **Design manager**{: .puesto} (external consultant) // 2010 -- 2011  
@@ -92,9 +92,9 @@ Postgraduate course at the [Universidad Nacional de Tres de Febrero](https://www
 - *I Conference on Social Design* // 2016  
 *Perspectives on design with social purposes*. Reflections on design with a social perspectives, under the UBACyT project led by Dr. María del Valle Ledesma.
 - Miguel Benasayag Chair, Sciences and politics, *La Vaca* Work collective // 2016  
-*Relationship between thought and life*. The traps of theory: solution, progress, progress as agents of mass destruction. The topicality of atropocene. Alicia in the country without wonders. Inhabiting the future.
+*Relationship between thought and life*. The traps of theory: solution, progress, progress as agents of mass destruction. The topicality of Anthropocene. Alicia in the country without wonders. Inhabiting the future.
 - *The book, live*. Organized by EUDEBA, 2nd National Design Biennial FADU--UBA // 2015  
-Modules: *From text to edition* and *From edition to design*. Dictated by Patricia Piccolini, Darío Contreras and Carlos Venancio. Coordination: Silvina Simondet.
+Modules: *From text to edition* and *From edition to design*. Dictated by Patricia Piccolini, Darío Contreras, and Carlos Venancio. Coordination: Silvina Simondet.
 - *Seminar on Social Housing and Urbanism*. Dictated by the architects Fermín Estrella and Beatriz Pedro. FADU--UBA // 2014
 - *Introduction to font design*, 1st National Design Biennial FADU--UBA. Dictated by Tipitos Argentinos in charge of [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013
 - *Macro and micro typographic refinement*, [Tipitos Argentinos](https://www.facebook.com/TipitosArgentinos/){:target="_blank"} given by [Aldo de Losa](http://www.cdt-uba.org/index.php?option=com_content&view=article&id=150:cv-de-losa&catid=42:cv-profesores&Itemid=75){:target="_blank"} // 2013
