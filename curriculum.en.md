@@ -125,7 +125,7 @@ Joint project with: Lucas Giono, Soledad Silva, Amelia Ojeda and Camila Álvarez
 
 ## Publications
 - *[Illustrated memory: Comics to remember](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}*, [Groisman Chair](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011
-- *[Gramática T'ang](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}*, [Wainhaus Chair](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Flanbé publishing](http://flanbe.com.ar/){:target="_blank"} // 2011
+- *[Gramática T'ang](https://issuu.com/flanbe/docs/tangram_completo/18){:target="_blank"}*, [Wainhaus Chair](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [FlanBé publishing](https://www.flanbe.online/){:target="_blank"} // 2011
 
 ## Languages
 - English language certification granted by the CUI. Level: European Council C1, ALTE 4 // 2009

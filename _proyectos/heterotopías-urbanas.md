@@ -57,6 +57,7 @@ Proyecto realizado para Diseño Audiovisual, Cátedra La Ferla, FADU--UBA.
 
 #### Menciones
 
+- [*El nuevo arte de diseñar libros. Desde el editorial hacia las narrativas digitales, multimediales, transmediales*](https://maestriadicom.org/articulos/el-nuevo-arte-de-disenar-libros-desde-el-editorial-hacia-las-narrativas-digitales-multimediales-transmediales/){:target="_blank"}, por Mariel Szlifman. Sitio de la maestría diCom // 2021
 - [*Reflexiones en torno a la producción audiovisual: el diseño como obstáculo*](https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman. Sitio de la maestría diCom ([mirror](https://web.archive.org/web/20180520215528/https://maestriadicom.org/articulos/reflexiones-en-torno-a-la-produccion-audiovisual-el-diseno-como-obstaculo/){:target="_blank"}) // 2018
 - [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, compilado por Mariel Szlifman, Wolkowicz Editores // 2018, pp. 98 -- 99
 - [*Audiovisual Design with obstacles*](http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}, por Jorge La Ferla y Mariel Szlifman para *How to think with obstacles?* ([mirror](https://web.archive.org/web/20180105203413/http://htwo.org/2017/08/15/laferla-szlifman/){:target="_blank"}) // 2017

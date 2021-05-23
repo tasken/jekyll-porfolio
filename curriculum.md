@@ -161,10 +161,11 @@ Proyecto en conjunto con: DG Lucas Giono, DIyS Amelia Ojeda, DIyS Camila Álvare
 ### Trabajos publicados
 
 - Fotografías, publicaciones de la [sección Narrativa](http://revistalevadura.mx/category/narrativa/){:target="_blank"} de la revista Levadura (Monterrey, México) // 2019
+- «Metaobjeto», en [*Metaobjetos: cuaderno de aplicaciones en morfología*](https://issuu.com/flanbe/docs/metaobjeto_issuu/33){:target="_blank"}, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. FlanBé](https://www.flanbe.online/){:target="_blank"} // 2019, p. 33
 - «[Heterotopías urbanas]({% link _proyectos/heterotopías-urbanas.md %})», en [*El nuevo arte de diseñar libros*](https://wolkowiczeditores.com.ar/product/arte-diseniar-libros/){:target="_blank"}, comp. Mariel Szlifman, Wolkowicz Editores // 2018, pp. 98 -- 99
 - «[Heterotopías urbanas]({% link _proyectos/heterotopías-urbanas.md %})», en [Catálogo de la III Bienal de Diseño FADU--UBA](https://docs.wixstatic.com/ugd/d57c39_9092016a3b6f4af0afa927d5d9998915.pdf){:target="_blank"}, materia Diseño Audiovisual, cátedra La Ferla, FADU--UBA // 2017, p. 59
 - «[El hallazgo]({% link _proyectos/el-hallazgo.md %})», en [*Memoria ilustrada: Historietas para no olvidar*](https://issuu.com/ek-cultura/docs/memoria-ilustrada-hoja_por_hoja-baja?e=0){:target="_blank"}, [Cátedra Groisman](http://mediosgroisman.com.ar){:target="_blank"}, FADU--UBA -- AMIA // 2011, pp. 20 -- 21
-- «Tangram», en [*Gramática T'ang*](http://issuu.com/flanbe/docs/tangram__trailer_issue/1){:target="_blank"}, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. Flanbé](http://flanbe.com.ar/){:target="_blank"} // 2011, p. 16
+- «Tangram», en [*Gramática T'ang. Aplicaciones en morfología*](https://issuu.com/flanbe/docs/tangram_completo/18){:target="_blank"}, [Cátedra Wainhaus](http://www.morfologiawainhaus.com){:target="_blank"}, FADU--UBA, [Ed. FlanBé](https://www.flanbe.online/){:target="_blank"} // 2011, p. 18
 
 
 ## Reconocimientos
